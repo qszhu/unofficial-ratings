@@ -2,7 +2,7 @@
 
 ## 力扣国服
 
-采用Codeforces的积分方式，计算不同时段的积分
+采用[Codeforces](https://codeforces.com/blog/entry/20762)的积分方式，计算不同时段的积分
 
 * [全部时段](leetcode/alltime)
 * [按季度](leetcode/byQuarter)
