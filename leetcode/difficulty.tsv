@@ -43,27 +43,27 @@ ID	TitleSlug	Title	Contest	Question	Rating
 900	reordered-power-of-2	重新排序得到 2 的幂	weekly-contest-93	T2	1514.8926196698337
 901	advantage-shuffle	优势洗牌	weekly-contest-93	T3	1583.6212803428289
 902	minimum-number-of-refueling-stops	最低加油次数	weekly-contest-93	T4	1677.5780809131725
-904	leaf-similar-trees	叶子相似的树	weekly-contest-94	T1	1453.589996686816
+904	leaf-similar-trees	叶子相似的树	weekly-contest-94	T1	1451.9681380674028
 905	length-of-longest-fibonacci-subsequence	最长的斐波那契子序列的长度	weekly-contest-94	T4	1648.6637330991828
 906	walking-robot-simulation	模拟行走机器人	weekly-contest-94	T2	1696.4852669839163
 907	koko-eating-bananas	爱吃香蕉的珂珂	weekly-contest-94	T3	1547.862905292392
-908	middle-of-the-linked-list	链表的中间结点	weekly-contest-95	T1	1447.8274443580888
+908	middle-of-the-linked-list	链表的中间结点	weekly-contest-95	T1	1447.1958493580887
 909	stone-game	石子游戏	weekly-contest-95	T2	1524.0483035189934
 910	nth-magical-number	第 N 个神奇数字	weekly-contest-95	T3	1657.9667084413254
 911	profitable-schemes	盈利计划	weekly-contest-95	T4	1945.4068671811783
 916	decoded-string-at-index	索引处的解码字符串	weekly-contest-96	T3	1746.1926413134695
 917	boats-to-save-people	救生艇	weekly-contest-96	T2	1514.2622798259117
 918	reachable-nodes-in-subdivided-graph	细分图中的可到达节点	weekly-contest-96	T4	1945.4068671811783
-919	projection-area-of-3d-shapes	三维形体投影面积	weekly-contest-96	T1	1449.4768935028555
-920	uncommon-words-from-two-sentences	两句话中的不常见单词	weekly-contest-97	T1	1444.1413639845916
+919	projection-area-of-3d-shapes	三维形体投影面积	weekly-contest-96	T1	1447.641338520008
+920	uncommon-words-from-two-sentences	两句话中的不常见单词	weekly-contest-97	T1	1443.20747450251
 921	spiral-matrix-iii	螺旋矩阵 III	weekly-contest-97	T2	1584.559322855754
 922	possible-bipartition	可能的二分法	weekly-contest-97	T3	1751.4296695848623
 923	super-egg-drop	鸡蛋掉落	weekly-contest-97	T4	2487.0538287161116
-924	fair-candy-swap	公平的糖果交换	weekly-contest-98	T1	1444.1413639845916
+924	fair-candy-swap	公平的糖果交换	weekly-contest-98	T1	1443.6755191953853
 925	construct-binary-tree-from-preorder-and-postorder-traversal	根据前序和后序遍历构造二叉树	weekly-contest-98	T3	1571.3638483600832
 926	find-and-replace-pattern	查找和替换模式	weekly-contest-98	T2	1495.7668784330742
 927	sum-of-subsequence-widths	子序列宽度之和	weekly-contest-98	T4	1618.7926866720834
-928	surface-area-of-3d-shapes	三维形体的表面积	weekly-contest-99	T1	1446.7021320959882
+928	surface-area-of-3d-shapes	三维形体的表面积	weekly-contest-99	T1	1446.3347850364391
 929	groups-of-special-equivalent-strings	特殊等价字符串组	weekly-contest-99	T2	1545.6660717299164
 930	all-possible-full-binary-trees	所有可能的真二叉树	weekly-contest-99	T3	1589.8327470959882
 931	maximum-frequency-stack	最大频率栈	weekly-contest-99	T4	1833.424982504039
@@ -79,39 +79,39 @@ ID	TitleSlug	Title	Contest	Question	Rating
 941	sort-array-by-parity	按奇偶排序数组	weekly-contest-102	T1	1423.742741556628
 942	super-palindromes	超级回文数	weekly-contest-102	T4	1772.648713651055
 943	sum-of-subarray-minimums	子数组的最小值之和	weekly-contest-102	T3	1587.8867277292552
-944	smallest-range-i	最小差值 I	weekly-contest-103	T1	1456.233071455897
-945	snakes-and-ladders	蛇梯棋	weekly-contest-103	T2	1560.360740630164
+944	smallest-range-i	最小差值 I	weekly-contest-103	T1	1455.1313743571723
+945	snakes-and-ladders	蛇梯棋	weekly-contest-103	T2	1565.9791117856628
 946	smallest-range-ii	最小差值 II	weekly-contest-103	T3	1778.150998985242
 947	online-election	在线选举	weekly-contest-103	T4	1699.0129097554618
 949	cat-and-mouse	猫和老鼠	weekly-contest-104	T4	NaN
 950	x-of-a-kind-in-a-deck-of-cards	卡牌分组	weekly-contest-104	T1	1455.590822308347
 951	partition-array-into-disjoint-intervals	分割数组	weekly-contest-104	T2	1539.8766822259051
 952	word-subsets	单词子集	weekly-contest-104	T3	1647.6234352604058
-953	reverse-only-letters	仅仅反转字母	weekly-contest-105	T1	1452.4765270712442
+953	reverse-only-letters	仅仅反转字母	weekly-contest-105	T1	1449.5946081224317
 954	maximum-sum-circular-subarray	环形子数组的最大和	weekly-contest-105	T2	1572.3139370750023
 955	complete-binary-tree-inserter	完全二叉树插入器	weekly-contest-105	T3	1579.382672961216
 956	number-of-music-playlists	播放列表的数量	weekly-contest-105	T4	2194.123693682563
 957	minimum-add-to-make-parentheses-valid	使括号有效的最少添加	weekly-contest-106	T2	1467.0159150695574
-958	sort-array-by-parity-ii	按奇偶排序数组 II	weekly-contest-106	T1	1455.7976015626673
+958	sort-array-by-parity-ii	按奇偶排序数组 II	weekly-contest-106	T1	1454.2029248061426
 959	3sum-with-multiplicity	三数之和的多种可能	weekly-contest-106	T3	1621.0850657596739
 960	minimize-malware-spread	尽量减少恶意软件的传播	weekly-contest-106	T4	1777.5162181487112
-961	long-pressed-name	长按键入	weekly-contest-107	T1	1461.473331715805
+961	long-pressed-name	长按键入	weekly-contest-107	T1	1458.921811715805
 962	flip-string-to-monotone-increasing	将字符串翻转到单调递增	weekly-contest-107	T2	1584.4667287196037
 963	three-equal-parts	三等分	weekly-contest-107	T3	1662.988186715805
 964	minimize-malware-spread-ii	尽量减少恶意软件的传播 II	weekly-contest-107	T4	1777.5162181487112
 965	unique-email-addresses	独特的电子邮件地址	weekly-contest-108	T1	1456.1416708577094
 966	binary-subarrays-with-sum	和相同的二元子数组	weekly-contest-108	T2	1545.0964947679765
 967	minimum-falling-path-sum	下降路径最小和	weekly-contest-108	T3	1582.8626817015122
-968	beautiful-array	漂亮数组	weekly-contest-108	T4	2285.786693478241
-969	number-of-recent-calls	最近的请求次数	weekly-contest-109	T1	1460.683191245735
+968	beautiful-array	漂亮数组	weekly-contest-108	T4	2285.73231905599
+969	number-of-recent-calls	最近的请求次数	weekly-contest-109	T1	1456.9072439395013
 971	shortest-bridge	最短的桥	weekly-contest-109	T3	1683.4518529335637
 972	knight-dialer	骑士拨号器	weekly-contest-109	T2	1610.3446950637397
 973	stamping-the-sequence	戳印序列	weekly-contest-109	T4	1588.2376512843643
-974	reorder-data-in-log-files	重新排列日志文件	weekly-contest-110	T1	1449.0791657774635
+974	reorder-data-in-log-files	重新排列日志文件	weekly-contest-110	T1	1444.9365884596752
 975	range-sum-of-bst	二叉搜索树的范围和	weekly-contest-110	T2	1482.9281715722902
 976	minimum-area-rectangle	最小面积矩形	weekly-contest-110	T3	1708.3740237307604
 977	distinct-subsequences-ii	不同的子序列 II	weekly-contest-110	T4	1567.5936759977037
-978	valid-mountain-array	有效的山脉数组	weekly-contest-111	T1	1444.1887306990293
+978	valid-mountain-array	有效的山脉数组	weekly-contest-111	T1	1443.061525756861
 979	di-string-match	增减字符串匹配	weekly-contest-111	T3	1480.8605073360268
 980	find-the-shortest-superstring	最短超级串	weekly-contest-111	T4	2207.9157173002045
 981	delete-columns-to-make-sorted	删列造序	weekly-contest-111	T2	1480.8605073360268
@@ -135,7 +135,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1002	maximum-width-ramp	最大宽度坡	weekly-contest-116	T2	1545.0964947679765
 1003	minimum-area-rectangle-ii	最小面积矩形 II	weekly-contest-116	T3	1669.2141880345227
 1004	least-operators-to-express-number	表示数字的最少运算符	weekly-contest-116	T4	1906.589859435843
-1005	univalued-binary-tree	单值二叉树	weekly-contest-117	T1	1444.867271251252
+1005	univalued-binary-tree	单值二叉树	weekly-contest-117	T1	1444.4897864373056
 1006	vowel-spellchecker	元音拼写检查器	weekly-contest-117	T3	1687.6505634140585
 1007	numbers-with-same-consecutive-differences	连续差相同的数字	weekly-contest-117	T2	1538.8143548822522
 1008	binary-tree-cameras	监控二叉树	weekly-contest-117	T4	1926.4093254056866
@@ -147,7 +147,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1016	subarray-sums-divisible-by-k	和可被 K 整除的子数组	weekly-contest-119	T3	1592.6197900697466
 1017	odd-even-jump	奇偶跳	weekly-contest-119	T4	1872.0568675972513
 1018	largest-perimeter-triangle	三角形的最大周长	weekly-contest-119	T2	1470.5844110940611
-1019	squares-of-a-sorted-array	有序数组的平方	weekly-contest-120	T1	1450.6108962799894
+1019	squares-of-a-sorted-array	有序数组的平方	weekly-contest-120	T1	1447.7123832700354
 1020	longest-turbulent-subarray	最长湍流子数组	weekly-contest-120	T2	1481.050110932406
 1021	distribute-coins-in-binary-tree	在二叉树中分配硬币	weekly-contest-120	T3	1625.1411251828135
 1022	unique-paths-iii	不同路径 III	weekly-contest-120	T4	1724.4924545035951
@@ -195,7 +195,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1079	sum-of-root-to-leaf-binary-numbers	从根到叶的二进制数之和	weekly-contest-131	T2	1566.3388042919426
 1080	camelcase-matching	驼峰式匹配	weekly-contest-131	T3	1587.8104893425198
 1081	video-stitching	视频拼接	weekly-contest-131	T4	1640.6860397457644
-1086	divisor-game	除数博弈	weekly-contest-132	T1	1436.8743140154872
+1086	divisor-game	除数博弈	weekly-contest-132	T1	1436.5757702116098
 1087	longest-arithmetic-subsequence	最长等差数列	weekly-contest-132	T3	1629.387092188911
 1092	maximum-difference-between-node-and-ancestor	节点与其祖先之间的最大差值	weekly-contest-132	T2	1537.8459446244815
 1093	recover-a-tree-from-preorder-traversal	从先序遍历还原二叉树	weekly-contest-132	T4	1689.387172304957
@@ -214,7 +214,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1119	robot-bounded-in-circle	困于环中的机器人	weekly-contest-136	T1	1498.4482848997939
 1120	flower-planting-with-no-adjacent	不邻接植花	weekly-contest-136	T2	1682.615870174084
 1121	partition-array-for-maximum-sum	分隔数组以得到最大和	weekly-contest-136	T3	1866.4517427229391
-1122	longest-duplicate-substring	最长重复子串	weekly-contest-136	T4	2164.66232544826
+1122	longest-duplicate-substring	最长重复子串	weekly-contest-136	T4	2165.8318510260096
 1127	last-stone-weight	最后一块石头的重量	weekly-contest-137	T1	1462.302619337251
 1128	remove-all-adjacent-duplicates-in-string	删除字符串中的所有相邻重复项	weekly-contest-137	T2	1486.3812647106733
 1129	longest-string-chain	最长字符串链	weekly-contest-137	T3	1660.4349938212715
@@ -249,13 +249,13 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1188	brace-expansion-ii	花括号展开 II	weekly-contest-142	T4	2218.4496085859278
 1083	two-sum-less-than-k	小于 K 的两数之和	biweekly-contest-3	T1	1473.504643065663
 1084	find-k-length-substrings-with-no-repeated-characters	长度为 K 的无重复字符子串	biweekly-contest-3	T2	1503.389783262709
-1085	the-earliest-moment-when-everyone-become-friends	彼此熟识的最早时间	biweekly-contest-3	T3	1615.7884058348493
-1099	path-with-maximum-minimum-value	得分最高的路径	biweekly-contest-3	T4	1991.6292083683643
+1085	the-earliest-moment-when-everyone-become-friends	彼此熟识的最早时间	biweekly-contest-3	T3	1615.913877662521
+1099	path-with-maximum-minimum-value	得分最高的路径	biweekly-contest-3	T4	1995.1679145238631
 1194	path-in-zigzag-labelled-binary-tree	二叉树寻路	weekly-contest-143	T2	1540.7618499466212
-1195	distribute-candies-to-people	分糖果 II	weekly-contest-143	T1	1446.1969632231119
+1195	distribute-candies-to-people	分糖果 II	weekly-contest-143	T1	1446.732934617712
 1196	filling-bookcase-shelves	填充书架	weekly-contest-143	T3	1777.1608862580879
 1197	parsing-a-boolean-expression	解析布尔表达式	weekly-contest-143	T4	1687.2206881040165
-1205	defanging-an-ip-address	IP 地址无效化	weekly-contest-144	T1	1445.1176084622132
+1205	defanging-an-ip-address	IP 地址无效化	weekly-contest-144	T1	1444.7772844519554
 1206	corporate-flight-bookings	航班预订统计	weekly-contest-144	T2	1670.3849643632952
 1207	delete-nodes-and-return-forest	删点成林	weekly-contest-144	T3	1612.2465789862947
 1208	maximum-nesting-depth-of-two-valid-parentheses-strings	有效括号的嵌套深度	weekly-contest-144	T4	1721.7426853497032
@@ -263,10 +263,10 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1089	remove-vowels-from-a-string	删去字符串中的元音	biweekly-contest-4	T2	1481.0884570733729
 1091	maximum-average-subtree	子树的最大平均值	biweekly-contest-4	T3	1544.1488945787805
 1118	divide-array-into-increasing-sequences	将数组分成几个递增序列	biweekly-contest-4	T4	1571.2948731632528
-1217	relative-sort-array	数组的相对排序	weekly-contest-145	T1	1450.5531563884945
+1217	relative-sort-array	数组的相对排序	weekly-contest-145	T1	1448.0635111168003
 1218	lowest-common-ancestor-of-deepest-leaves	最深叶节点的最近公共祖先	weekly-contest-145	T2	1620.7566672069738
 1219	longest-well-performing-interval	表现良好的最长时间段	weekly-contest-145	T3	1721.5214839335376
-1220	smallest-sufficient-team	最小的必要团队	weekly-contest-145	T4	2195.88847891724
+1220	smallest-sufficient-team	最小的必要团队	weekly-contest-145	T4	2197.60687449499
 1227	number-of-equivalent-domino-pairs	等价多米诺骨牌对的数量	weekly-contest-146	T1	1489.4598975913066
 1228	minimum-cost-tree-from-leaf-values	叶值的最小代价生成树	weekly-contest-146	T3	1760.6327355508224
 1229	shortest-path-with-alternating-colors	颜色交替的最短路径	weekly-contest-146	T2	1788.810559276586
@@ -275,7 +275,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1098	largest-unique-number	最大唯一数	biweekly-contest-5	T1	1469.887941804383
 1100	connecting-cities-with-minimum-cost	最低成本联通所有城市	biweekly-contest-5	T3	1743.9280700360341
 1101	parallel-courses	并行课程	biweekly-contest-5	T4	1722.9000030618513
-1236	n-th-tribonacci-number	第 N 个泰波那契数	weekly-contest-147	T1	1433.3271818118715
+1236	n-th-tribonacci-number	第 N 个泰波那契数	weekly-contest-147	T1	1433.179094271302
 1238	alphabet-board-path	字母板上的路径	weekly-contest-147	T2	1496.9355642691212
 1239	largest-1-bordered-square	最大的以 1 为边界的正方形	weekly-contest-147	T3	1627.0448278884483
 1240	stone-game-ii	石子游戏 II	weekly-contest-147	T4	1965.8962967513512
@@ -283,7 +283,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1248	binary-tree-coloring-game	二叉树着色游戏	weekly-contest-148	T2	1696.9583487554642
 1249	snapshot-array	快照数组	weekly-contest-148	T3	1666.139489159692
 1251	longest-chunked-palindrome-decomposition	段式回文	weekly-contest-148	T4	1739.6570010002106
-1102	check-if-a-number-is-majority-element-in-a-sorted-array	检查一个数是否在数组中占绝大多数	biweekly-contest-6	T1	1464.5832434147176
+1102	check-if-a-number-is-majority-element-in-a-sorted-array	检查一个数是否在数组中占绝大多数	biweekly-contest-6	T1	1462.7875128633027
 1107	minimum-swaps-to-group-all-1s-together	最少交换次数来组合所有的 1	biweekly-contest-6	T2	1547.6710399621347
 1108	analyze-user-website-visit-pattern	用户网站访问行为分析	biweekly-contest-6	T3	1750.2401180318866
 1124	string-transforms-into-another-string	字符串转化	biweekly-contest-6	T4	1915.386481536717
@@ -291,11 +291,11 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1261	swap-for-longest-repeated-character-substring	单字符重复子串的最大长度	weekly-contest-149	T3	1708.3740237307604
 1262	online-majority-element-in-subarray	子数组中占绝大多数的元素	weekly-contest-149	T4	1711.6004807876634
 1263	number-of-dice-rolls-with-target-sum	掷骰子的N种方法	weekly-contest-149	T2	1627.497988351226
-1112	find-words-that-can-be-formed-by-characters	拼写单词	weekly-contest-150	T1	1450.1476610106806
-1116	maximum-level-sum-of-a-binary-tree	最大层内元素和	weekly-contest-150	T2	1485.3177793436466
+1112	find-words-that-can-be-formed-by-characters	拼写单词	weekly-contest-150	T1	1449.309509049067
+1116	maximum-level-sum-of-a-binary-tree	最大层内元素和	weekly-contest-150	T2	1486.0311957120366
 1117	as-far-from-land-as-possible	地图分析	weekly-contest-150	T3	1681.8513097095934
 1133	last-substring-in-lexicographical-order	按字典序排在最后的子串	weekly-contest-150	T4	1698.9350314820526
-1123	single-row-keyboard	单行键盘	biweekly-contest-7	T1	1446.1969632231119
+1123	single-row-keyboard	单行键盘	biweekly-contest-7	T1	1444.5998259465364
 1125	design-file-system	设计文件系统	biweekly-contest-7	T2	1567.4659590936478
 1126	minimum-cost-to-connect-sticks	连接棒材的最低费用	biweekly-contest-7	T3	1587.869671394971
 1144	optimize-water-distribution-in-a-village	水资源分配优化	biweekly-contest-7	T4	1968.4533189481833
@@ -306,16 +306,16 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1279	prime-arrangements	质数排列	weekly-contest-152	T1	1495.38556346333
 1280	diet-plan-performance	健身计划评估	weekly-contest-152	T2	1495.7668784330742
 1281	can-make-palindrome-from-substring	构建回文串检测	weekly-contest-152	T3	1768.8963393770118
-1282	number-of-valid-words-for-each-puzzle	猜字谜	weekly-contest-152	T4	2075.22753326677
+1282	number-of-valid-words-for-each-puzzle	猜字谜	weekly-contest-152	T4	2076.6171313445193
 1131	count-substrings-with-only-one-distinct-letter	统计只含单一字母的子串	biweekly-contest-8	T1	1477.6668560847563
 1132	before-and-after-puzzle	前后拼接	biweekly-contest-8	T2	1649.2708395150685
 1134	shortest-distance-to-target-color	与目标颜色间的最短距离	biweekly-contest-8	T3	1726.264062826217
 1152	maximum-number-of-ones	矩阵中 1 的最大数量	biweekly-contest-8	T4	2054.8676904288723
-1287	distance-between-bus-stops	公交站间的距离	weekly-contest-153	T1	1440.5387520007278
+1287	distance-between-bus-stops	公交站间的距离	weekly-contest-153	T1	1439.7968783797046
 1288	maximum-subarray-sum-with-one-deletion	删除一次得到子数组最大和	weekly-contest-153	T3	1735.8320973291316
 1289	day-of-the-week	一周中的第几天	weekly-contest-153	T2	1473.5884808003984
 1290	make-array-strictly-increasing	使数组严格递增	weekly-contest-153	T4	2095.2884389074707
-1297	maximum-number-of-balloons	“气球” 的最大数量	weekly-contest-154	T1	1439.4708150318065
+1297	maximum-number-of-balloons	“气球” 的最大数量	weekly-contest-154	T1	1439.0399141839084
 1298	reverse-substrings-between-each-pair-of-parentheses	反转每对括号间的子串	weekly-contest-154	T2	1540.6533870017327
 1299	k-concatenation-maximum-sum	K 次串联后最大子数组之和	weekly-contest-154	T3	1671.8649316839083
 1300	critical-connections-in-a-network	查找集群内的关键连接	weekly-contest-154	T4	2031.154696094876
@@ -331,7 +331,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1320	remove-all-adjacent-duplicates-in-string-ii	删除字符串中的所有相邻重复项 II	weekly-contest-156	T3	1566.6246106089866
 1321	get-equal-substrings-within-budget	尽可能使字符串相等	weekly-contest-156	T2	1562.1744217746143
 1322	minimum-moves-to-reach-target-with-rotations	穿过迷宫的最少移动次数	weekly-contest-156	T4	2028.2321328468524
-1149	intersection-of-three-sorted-arrays	三个有序数组的交集	biweekly-contest-10	T1	1452.0265093170376
+1149	intersection-of-three-sorted-arrays	三个有序数组的交集	biweekly-contest-10	T1	1451.950192363413
 1150	two-sum-bsts	查找两棵二叉搜索树之和	biweekly-contest-10	T2	1508.3910760188803
 1151	stepping-numbers	步进数	biweekly-contest-10	T3	1711.8909263174037
 1178	valid-palindrome-iii	验证回文字符串 III	biweekly-contest-10	T4	1801.602880434591
@@ -339,21 +339,21 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1330	longest-arithmetic-subsequence-of-given-difference	最长定差子序列	weekly-contest-157	T2	1618.456364401085
 1331	path-with-maximum-gold	黄金矿工	weekly-contest-157	T3	1681.8513097095934
 1332	count-vowels-permutation	统计元音字母序列的数目	weekly-contest-157	T4	1737.22574132832
-1341	split-a-string-in-balanced-strings	分割平衡字符串	weekly-contest-158	T1	1451.0919786733139
+1341	split-a-string-in-balanced-strings	分割平衡字符串	weekly-contest-158	T1	1450.9120886733137
 1342	queens-that-can-attack-the-king	可以攻击国王的皇后	weekly-contest-158	T2	1514.2713958060262
 1343	dice-roll-simulation	掷骰子模拟	weekly-contest-158	T3	1908.9154585788515
-1344	maximum-equal-frequency	最大相等频率	weekly-contest-158	T4	1961.6782605785381
-1164	missing-number-in-arithmetic-progression	等差数列中缺失的数字	biweekly-contest-11	T1	1453.5893189011715
+1344	maximum-equal-frequency	最大相等频率	weekly-contest-158	T4	1964.6697367340369
+1164	missing-number-in-arithmetic-progression	等差数列中缺失的数字	biweekly-contest-11	T1	1453.2635016497889
 1165	meeting-scheduler	安排会议日程	biweekly-contest-11	T2	1560.9319824934469
 1166	toss-strange-coins	抛掷硬币	biweekly-contest-11	T3	1711.8909263174037
 1192	divide-chocolate	分享巧克力	biweekly-contest-11	T4	1914.609721565286
-1349	check-if-it-is-a-straight-line	缀点成线	weekly-contest-159	T1	1440.931298811906
+1349	check-if-it-is-a-straight-line	缀点成线	weekly-contest-159	T1	1440.0507735958054
 1350	remove-sub-folders-from-the-filesystem	删除子文件夹	weekly-contest-159	T2	1587.5501633826605
 1351	replace-the-substring-for-balanced-string	替换子串得到平衡字符串	weekly-contest-159	T3	1809.2592932505818
 1352	maximum-profit-in-job-scheduling	规划兼职工作	weekly-contest-159	T4	1957.5612549170025
 1358	find-positive-integer-solution-for-a-given-equation	找出给定方程的正整数解	weekly-contest-160	T1	1494.5834942878625
 1359	circular-permutation-in-binary-representation	循环码排列	weekly-contest-160	T2	1632.5003117000617
-1360	maximum-length-of-a-concatenated-string-with-unique-characters	串联字符串的最大长度	weekly-contest-160	T3	1662.4002267426363
+1360	maximum-length-of-a-concatenated-string-with-unique-characters	串联字符串的最大长度	weekly-contest-160	T3	1663.939022320386
 1361	tiling-a-rectangle-with-the-fewest-squares	铺瓷砖	weekly-contest-160	T4	2062.3936473833264
 1175	array-transformation	数组变换	biweekly-contest-12	T2	1490.5732486500283
 1176	design-a-leaderboard	力扣排行榜	biweekly-contest-12	T1	1573.1626379412353
@@ -363,7 +363,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1370	count-number-of-nice-subarrays	统计「优美子数组」	weekly-contest-161	T2	1641.3143435144164
 1371	minimum-remove-to-make-valid-parentheses	移除无效的括号	weekly-contest-161	T3	1637.4939530630534
 1372	check-if-it-is-a-good-array	检查「好数组」	weekly-contest-161	T4	1816.8332330606102
-1378	cells-with-odd-values-in-a-matrix	奇数值单元格的数目	weekly-contest-162	T1	1457.838560888851
+1378	cells-with-odd-values-in-a-matrix	奇数值单元格的数目	weekly-contest-162	T1	1457.234731279606
 1379	reconstruct-a-2-row-binary-matrix	重构 2 行二进制矩阵	weekly-contest-162	T2	1529.9357636189607
 1380	number-of-closed-islands	统计封闭岛屿的数目	weekly-contest-162	T3	1626.1147995135427
 1381	maximum-score-words-formed-by-letters	得分最高的单词集合	weekly-contest-162	T4	1785.9766900106151
@@ -381,33 +381,33 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1398	number-of-ways-to-stay-in-the-same-place-after-some-steps	停在原地的方案数	weekly-contest-164	T4	1775.0250565308183
 1199	hexspeak	十六进制魔术数字	biweekly-contest-14	T1	1531.7275560231747
 1200	remove-interval	删除区间	biweekly-contest-14	T2	1592.1048249313628
-1201	delete-tree-nodes	删除树节点	biweekly-contest-14	T3	1727.7345761414306
-1233	number-of-ships-in-a-rectangle	矩形内船只的数目	biweekly-contest-14	T4	1898.7200767334791
+1201	delete-tree-nodes	删除树节点	biweekly-contest-14	T3	1728.3407621623994
+1233	number-of-ships-in-a-rectangle	矩形内船只的数目	biweekly-contest-14	T4	1898.8316539896077
 1400	find-winner-on-a-tic-tac-toe-game	找出井字棋的获胜者	weekly-contest-165	T1	1502.226573914523
-1401	number-of-burgers-with-no-waste-of-ingredients	不浪费原料的汉堡制作方案	weekly-contest-165	T2	1503.738406237103
-1402	count-square-submatrices-with-all-ones	统计全为 1 的正方形子矩阵	weekly-contest-165	T3	1609.2602070734988
+1401	number-of-burgers-with-no-waste-of-ingredients	不浪费原料的汉堡制作方案	weekly-contest-165	T2	1504.279564916367
+1402	count-square-submatrices-with-all-ones	统计全为 1 的正方形子矩阵	weekly-contest-165	T3	1612.2302050406934
 1403	palindrome-partitioning-iii	分割回文串 III	weekly-contest-165	T4	1904.7010896679606
-1406	subtract-the-product-and-sum-of-digits-of-an-integer	整数的各位积和之差	weekly-contest-166	T1	1427.573976547194
+1406	subtract-the-product-and-sum-of-digits-of-an-integer	整数的各位积和之差	weekly-contest-166	T1	1427.3302575683535
 1407	group-the-people-given-the-group-size-they-belong-to	用户分组	weekly-contest-166	T2	1490.5732486500283
 1408	find-the-smallest-divisor-given-a-threshold	使结果不超过阈值的最小除数	weekly-contest-166	T3	1613.0306134780005
 1409	minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix	转化为全零矩阵的最少反转次数	weekly-contest-166	T4	1804.4705296528834
 1211	iterator-for-combination	字母组合迭代器	biweekly-contest-15	T3	1647.8607961950145
 1221	element-appearing-more-than-25-in-sorted-array	有序数组中出现次数超过25%的元素	biweekly-contest-15	T1	1494.648416482096
 1222	remove-covered-intervals	删除被覆盖区间	biweekly-contest-15	T2	1567.7581150398908
-1224	minimum-falling-path-sum-ii	下降路径最小和  II	biweekly-contest-15	T4	1667.2303456620725
-1212	sequential-digits	顺次数	weekly-contest-167	T2	1502.9587233578782
+1224	minimum-falling-path-sum-ii	下降路径最小和  II	biweekly-contest-15	T4	1669.2803314304633
+1212	sequential-digits	顺次数	weekly-contest-167	T2	1504.6376475889488
 1411	convert-binary-number-in-a-linked-list-to-integer	二进制链表转整数	weekly-contest-167	T1	1446.8539489422974
 1413	maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	元素和小于等于阈值的正方形的最大边长	weekly-contest-167	T3	1642.3619418698154
 1414	shortest-path-in-a-grid-with-obstacles-elimination	网格中的最短路径	weekly-contest-167	T4	1845.766698157638
-1421	find-numbers-with-even-number-of-digits	统计位数为偶数的数字	weekly-contest-168	T1	1437.5729783782879
+1421	find-numbers-with-even-number-of-digits	统计位数为偶数的数字	weekly-contest-168	T1	1437.4182672698785
 1422	divide-array-in-sets-of-k-consecutive-numbers	划分数组为连续数字的集合	weekly-contest-168	T2	1568.082193612211
 1423	maximum-number-of-occurrences-of-a-substring	子串的最大出现次数	weekly-contest-168	T3	1693.2561351281101
-1424	maximum-candies-you-can-get-from-boxes	你能从盒子里获得的最大糖果数	weekly-contest-168	T4	1732.1943540751795
+1424	maximum-candies-you-can-get-from-boxes	你能从盒子里获得的最大糖果数	weekly-contest-168	T4	1732.8513409681082
 1231	replace-elements-with-greatest-element-on-right-side	将每个元素替换为右侧最大元素	biweekly-contest-16	T1	1480.0646357378967
 1232	sum-of-mutated-array-closest-to-target	转变数组后最接近目标值的数组和	biweekly-contest-16	T2	1621.7932187403528
 1234	number-of-paths-with-max-score	最大得分的路径数目	biweekly-contest-16	T4	1832.5621215721346
 1254	deepest-leaves-sum	层数最深叶子节点的和	biweekly-contest-16	T3	1578.5764295341578
-1426	find-n-unique-integers-sum-up-to-zero	和为零的 N 个不同整数	weekly-contest-169	T1	1444.6092017743345
+1426	find-n-unique-integers-sum-up-to-zero	和为零的 N 个不同整数	weekly-contest-169	T1	1444.4016627646115
 1427	all-elements-in-two-binary-search-trees	两棵二叉搜索树中的所有元素	weekly-contest-169	T2	1474.4083012033927
 1428	jump-game-iii	跳跃游戏 III	weekly-contest-169	T3	1535.5852401597267
 1429	verbal-arithmetic-puzzle	口算难题	weekly-contest-169	T4	1907.7617778516355
@@ -415,7 +415,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1435	xor-queries-of-a-subarray	子数组异或查询	weekly-contest-170	T2	1534.7915628205437
 1436	get-watched-videos-by-your-friends	获取你好友已观看的视频	weekly-contest-170	T3	1694.7786888380663
 1437	minimum-insertion-steps-to-make-a-string-palindrome	让字符串成为回文串的最少插入次数	weekly-contest-170	T4	1755.42671035704
-1241	decompress-run-length-encoded-list	解压缩编码列表	biweekly-contest-17	T1	1501.8469832155802
+1241	decompress-run-length-encoded-list	解压缩编码列表	biweekly-contest-17	T1	1502.35418846449
 1242	matrix-block-sum	矩阵区域和	biweekly-contest-17	T2	1584.0655447395263
 1243	sum-of-nodes-with-even-valued-grandparent	祖父节点值为偶数的节点和	biweekly-contest-17	T3	1584.0655447395263
 1244	distinct-echo-substrings	不同的循环子字符串	biweekly-contest-17	T4	1728.4031294048277
@@ -423,22 +423,22 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1441	minimum-flips-to-make-a-or-b-equal-to-c	或运算的最小翻转次数	weekly-contest-171	T2	1526.1335032223587
 1442	number-of-operations-to-make-network-connected	连通网络的操作次数	weekly-contest-171	T3	1669.2803314304633
 1443	minimum-distance-to-type-a-word-using-two-fingers	二指输入的的最小距离	weekly-contest-171	T4	1936.189645731474
-1448	maximum-69-number	6 和 9 组成的最大数字	weekly-contest-172	T1	1453.8546370636295
+1448	maximum-69-number	6 和 9 组成的最大数字	weekly-contest-172	T1	1453.699907719896
 1449	print-words-vertically	竖直打印单词	weekly-contest-172	T2	1510.0139997671636
 1450	delete-leaves-with-a-given-value	删除给定值的叶子节点	weekly-contest-172	T3	1568.3745084113245
 1451	minimum-number-of-taps-to-open-to-water-a-garden	灌溉花园的最少水龙头数目	weekly-contest-172	T4	1821.0601708645456
 1252	break-a-palindrome	破坏回文串	biweekly-contest-18	T2	1611.9785152115946
 1253	sort-the-matrix-diagonally	将矩阵按对角线排序	biweekly-contest-18	T3	1645.111369032415
-1255	reverse-subarray-to-maximize-array-value	翻转子数组得到最大的数组值	biweekly-contest-18	T4	2242.064339151302
+1255	reverse-subarray-to-maximize-array-value	翻转子数组得到最大的数组值	biweekly-contest-18	T4	2243.3957822290513
 1256	rank-transform-of-an-array	数组序号转换	biweekly-contest-18	T1	1576.1524512645392
 1454	remove-palindromic-subsequences	删除回文子序列	weekly-contest-173	T1	1640.171903405458
 1455	filter-restaurants-by-vegan-friendly-price-and-distance	餐厅过滤器	weekly-contest-173	T2	1607.3299324850796
 1456	find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance	阈值距离内邻居最少的城市	weekly-contest-173	T3	1824.9799684458856
 1457	minimum-difficulty-of-a-job-schedule	工作计划的最低难度	weekly-contest-173	T4	1952.776196866045
-1463	the-k-weakest-rows-in-a-matrix	矩阵中战斗力最弱的 K 行	weekly-contest-174	T1	1503.5559473220574
+1463	the-k-weakest-rows-in-a-matrix	矩阵中战斗力最弱的 K 行	weekly-contest-174	T1	1504.0631525709673
 1464	reduce-array-size-to-the-half	数组大小减半	weekly-contest-174	T2	1533.807067686296
-1465	maximum-product-of-splitted-binary-tree	分裂二叉树的最大乘积	weekly-contest-174	T3	1669.2803314304633
-1466	jump-game-v	跳跃游戏 V	weekly-contest-174	T4	1824.5015251690274
+1465	maximum-product-of-splitted-binary-tree	分裂二叉树的最大乘积	weekly-contest-174	T3	1670.8669318175714
+1466	jump-game-v	跳跃游戏 V	weekly-contest-174	T4	1826.1801507467767
 1444	number-of-steps-to-reduce-a-number-to-zero	将数字变成 0 的操作次数	biweekly-contest-19	T1	1464.6191461055485
 1445	number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold	大小为 K 且平均值大于等于阈值的子数组数目	biweekly-contest-19	T2	1517.542883656224
 1446	angle-between-hands-of-a-clock	时钟指针的夹角	biweekly-contest-19	T3	1493.9955052065784
@@ -447,7 +447,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1469	minimum-number-of-steps-to-make-two-strings-anagram	制造字母异位词的最小步骤数	weekly-contest-175	T2	1499.0796341413889
 1470	tweet-counts-per-frequency	推文计数	weekly-contest-175	T3	1691.1932543949351
 1471	maximum-students-taking-exam	参加考试的最大学生数	weekly-contest-175	T4	2052.9807944522126
-1476	count-negative-numbers-in-a-sorted-matrix	统计有序矩阵中的负数	weekly-contest-176	T1	1443.5872927932817
+1476	count-negative-numbers-in-a-sorted-matrix	统计有序矩阵中的负数	weekly-contest-176	T1	1443.3169631248015
 1477	product-of-the-last-k-numbers	最后 K 个数的乘积	weekly-contest-176	T2	1488.142128999392
 1478	maximum-number-of-events-that-can-be-attended	最多可以参加的会议数目	weekly-contest-176	T3	1700.7494523702608
 1479	construct-target-array-with-multiple-sums	多次求和构造目标数组	weekly-contest-176	T4	1787.8544178837078
@@ -459,10 +459,10 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1275	validate-binary-tree-nodes	验证二叉树	weekly-contest-177	T2	1548.181406256615
 1276	closest-divisors	最接近的因数	weekly-contest-177	T3	1546.8013544216847
 1277	largest-multiple-of-three	形成三的最大倍数	weekly-contest-177	T4	1686.4206693757958
-1482	how-many-numbers-are-smaller-than-the-current-number	有多少小于当前数字的数字	weekly-contest-178	T1	1428.0928952508389
+1482	how-many-numbers-are-smaller-than-the-current-number	有多少小于当前数字的数字	weekly-contest-178	T1	1428.0283199409796
 1483	rank-teams-by-votes	通过投票对团队排名	weekly-contest-178	T2	1602.968443804408
-1484	linked-list-in-binary-tree	二叉树中的链表	weekly-contest-178	T3	1610.14266788099
-1485	minimum-cost-to-make-at-least-one-valid-path-in-a-grid	使网格图至少有一条有效路径的最小代价	weekly-contest-178	T4	1913.7739674083061
+1484	linked-list-in-binary-tree	二叉树中的链表	weekly-contest-178	T3	1613.0306134780005
+1485	minimum-cost-to-make-at-least-one-valid-path-in-a-grid	使网格图至少有一条有效路径的最小代价	weekly-contest-178	T4	1916.1939579860555
 1472	increasing-decreasing-string	上升下降字符串	biweekly-contest-21	T1	1499.0539146900824
 1473	find-the-longest-substring-containing-vowels-in-even-counts	每个元音包含偶数次的最长子字符串	biweekly-contest-21	T2	1792.1472951749395
 1474	longest-zigzag-path-in-a-binary-tree	二叉树中的最长交错路径	biweekly-contest-21	T3	1634.6675597824424
@@ -470,59 +470,59 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1490	generate-a-string-with-characters-that-have-odd-counts	生成每种字符都是奇数个的字符串	weekly-contest-179	T1	1426.9395321209686
 1491	number-of-times-binary-string-is-prefix-aligned	二进制字符串前缀一致的次数	weekly-contest-179	T2	1481.9586396188206
 1492	time-needed-to-inform-all-employees	通知所有员工所需的时间	weekly-contest-179	T3	1588.9476283943004
-1493	frog-position-after-t-seconds	T 秒后青蛙的位置	weekly-contest-179	T4	1736.15327850565
+1493	frog-position-after-t-seconds	T 秒后青蛙的位置	weekly-contest-179	T4	1736.6309992679915
 1285	balance-a-binary-search-tree	将二叉搜索树变平衡	weekly-contest-180	T3	1587.0759588492872
-1496	lucky-numbers-in-a-matrix	矩阵中的幸运数	weekly-contest-180	T1	1442.935242954783
+1496	lucky-numbers-in-a-matrix	矩阵中的幸运数	weekly-contest-180	T1	1442.656322645295
 1497	design-a-stack-with-increment-operation	设计一个支持增量操作的栈	weekly-contest-180	T2	1460.8609558901144
-1499	maximum-performance-of-a-team	最大的团队表现值	weekly-contest-180	T4	1909.701751367893
-1486	find-the-distance-value-between-two-arrays	两个数组间的距离值	biweekly-contest-22	T1	1456.300686791103
+1499	maximum-performance-of-a-team	最大的团队表现值	weekly-contest-180	T4	1912.1217419456423
+1486	find-the-distance-value-between-two-arrays	两个数组间的距离值	biweekly-contest-22	T1	1456.233071455897
 1487	cinema-seat-allocation	安排电影院座位	biweekly-contest-22	T2	1623.4838463061353
 1488	sort-integers-by-the-power-value	将整数按权重排序	biweekly-contest-22	T3	1552.762586338796
 1489	pizza-with-3n-slices	3n 块披萨	biweekly-contest-22	T4	2051.444449955701
-1284	four-divisors	四因数	weekly-contest-181	T2	1481.2731318321753
-1505	create-target-array-in-the-given-order	按既定顺序创建目标数组	weekly-contest-181	T1	1430.6037986648344
-1507	check-if-there-is-a-valid-path-in-a-grid	检查网格中是否存在有效路径	weekly-contest-181	T3	1658.3165898348025
+1284	four-divisors	四因数	weekly-contest-181	T2	1480.7280392195084
+1505	create-target-array-in-the-given-order	按既定顺序创建目标数组	weekly-contest-181	T1	1430.2616648981707
+1507	check-if-there-is-a-valid-path-in-a-grid	检查网格中是否存在有效路径	weekly-contest-181	T3	1658.9405934721915
 1508	longest-happy-prefix	最长快乐前缀	weekly-contest-181	T4	1658.0590982226329
-1510	find-lucky-integer-in-an-array	找出数组中的幸运数	weekly-contest-182	T1	1423.219838167529
+1510	find-lucky-integer-in-an-array	找出数组中的幸运数	weekly-contest-182	T1	1423.4023457625105
 1511	count-number-of-teams	统计作战单位数	weekly-contest-182	T2	1452.7828215478066
-1512	design-underground-system	设计地铁系统	weekly-contest-182	T3	1541.8064856075698
+1512	design-underground-system	设计地铁系统	weekly-contest-182	T3	1540.8200663890632
 1513	find-all-good-strings	找到所有好字符串	weekly-contest-182	T4	2399.0689810869635
 1500	count-largest-group	统计最大组的数目	biweekly-contest-23	T1	1482.5975410942515
 1501	circle-and-rectangle-overlapping	圆和矩形是否有重叠	biweekly-contest-23	T3	1596.1962768013086
 1502	construct-k-palindrome-strings	构造 K 个回文字符串	biweekly-contest-23	T2	1535.383591966027
 1503	reducing-dishes	做菜顺序	biweekly-contest-23	T4	1607.7584478164051
 1304	longest-happy-string	最长快乐字符串	weekly-contest-183	T3	1686.779998825467
-1519	minimum-subsequence-in-non-increasing-order	非递增顺序的最小子序列	weekly-contest-183	T1	1434.285450539735
-1520	number-of-steps-to-reduce-a-number-in-binary-representation-to-one	将二进制表示减到 1 的步骤数	weekly-contest-183	T2	1479.3643018033622
+1519	minimum-subsequence-in-non-increasing-order	非递增顺序的最小子序列	weekly-contest-183	T1	1434.1972546694142
+1520	number-of-steps-to-reduce-a-number-in-binary-representation-to-one	将二进制表示减到 1 的步骤数	weekly-contest-183	T2	1478.853705104083
 1522	stone-game-iii	石子游戏 III	weekly-contest-183	T4	1877.4859777985298
-1524	string-matching-in-an-array	数组中的字符串匹配	weekly-contest-184	T1	1438.415170602575
+1524	string-matching-in-an-array	数组中的字符串匹配	weekly-contest-184	T1	1438.1786720865969
 1525	queries-on-a-permutation-with-key	查询带键的排列	weekly-contest-184	T2	1453.0100203994755
 1526	html-entity-parser	HTML 实体解析器	weekly-contest-184	T3	1480.200189307111
-1527	number-of-ways-to-paint-n-3-grid	给 N x 3 网格图涂色的方案数	weekly-contest-184	T4	1722.893609534376
-1514	minimum-value-to-get-positive-step-by-step-sum	逐步求和得到正数的最小值	biweekly-contest-24	T1	1458.7634286509074
+1527	number-of-ways-to-paint-n-3-grid	给 N x 3 网格图涂色的方案数	weekly-contest-184	T4	1723.2011191417346
+1514	minimum-value-to-get-positive-step-by-step-sum	逐步求和得到正数的最小值	biweekly-contest-24	T1	1457.7911666252733
 1515	find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k	和为 K 的最少斐波那契数字数目	biweekly-contest-24	T2	1523.951025865344
 1516	the-k-th-lexicographical-string-of-all-happy-strings-of-length-n	长度为 n 的开心字符串中字典序第 k 小的字符串	biweekly-contest-24	T3	1584.0520632907535
-1517	restore-the-array	恢复数组	biweekly-contest-24	T4	1898.0931282356566
-1532	reformat-the-string	重新格式化字符串	weekly-contest-185	T1	1438.496282073848
-1533	display-table-of-food-orders-in-a-restaurant	点菜展示表	weekly-contest-185	T2	1534.2914760436365
+1517	restore-the-array	恢复数组	biweekly-contest-24	T4	1898.398060878911
+1532	reformat-the-string	重新格式化字符串	weekly-contest-185	T1	1438.5287518071955
+1533	display-table-of-food-orders-in-a-restaurant	点菜展示表	weekly-contest-185	T2	1534.6742524975107
 1534	minimum-number-of-frogs-croaking	数青蛙	weekly-contest-185	T3	1637.36310111563
 1535	build-array-where-you-can-find-the-maximum-exactly-k-comparisons	生成数组	weekly-contest-185	T4	2005.4304486920332
 1286	constrained-subsequence-sum	带限制的子序列和	weekly-contest-186	T4	1847.1712409852457
-1537	maximum-score-after-splitting-a-string	分割字符串的最大得分	weekly-contest-186	T1	1441.958644237237
+1537	maximum-score-after-splitting-a-string	分割字符串的最大得分	weekly-contest-186	T1	1441.7656220833983
 1538	maximum-points-you-can-obtain-from-cards	可获得的最大点数	weekly-contest-186	T2	1556.0334695538781
 1539	diagonal-traverse-ii	对角线遍历 II	weekly-contest-186	T3	1702.204276966755
-1528	kids-with-the-greatest-number-of-candies	拥有最多糖果的孩子	biweekly-contest-25	T1	1478.264577432134
+1528	kids-with-the-greatest-number-of-candies	拥有最多糖果的孩子	biweekly-contest-25	T1	1478.8169909378835
 1529	max-difference-you-can-get-from-changing-an-integer	改变一个整数能得到的最大差值	biweekly-contest-25	T2	1544.8609637338086
-1530	check-if-a-string-can-break-another-string	检查一个字符串是否可以打破另一个字符串	biweekly-contest-25	T3	1570.2952027682913
-1531	number-of-ways-to-wear-different-hats-to-each-other	每个人戴不同帽子的方案数	biweekly-contest-25	T4	2187.6222224361854
+1530	check-if-a-string-can-break-another-string	检查一个字符串是否可以打破另一个字符串	biweekly-contest-25	T3	1570.6580891494905
+1531	number-of-ways-to-wear-different-hats-to-each-other	每个人戴不同帽子的方案数	biweekly-contest-25	T4	2189.301320513935
 1547	destination-city	旅行终点站	weekly-contest-187	T1	1452.3553297509316
 1548	check-if-all-1s-are-at-least-length-k-places-away	是否所有 1 都至少相隔 k 个元素	weekly-contest-187	T2	1450.4981225631946
 1549	longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit	绝对差不超过限制的最长连续子数组	weekly-contest-187	T3	1586.111558428487
 1550	find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows	有序矩阵中的第 k 个最小数组和	weekly-contest-187	T4	1958.5783255344998
-1552	build-an-array-with-stack-operations	用栈操作构建数组	weekly-contest-188	T1	1438.197457953193
+1552	build-an-array-with-stack-operations	用栈操作构建数组	weekly-contest-188	T1	1438.3190462789291
 1553	count-triplets-that-can-form-two-arrays-of-equal-xor	形成两个异或相等数组的三元组数目	weekly-contest-188	T2	1528.1578307718178
-1554	minimum-time-to-collect-all-apples-in-a-tree	收集树上所有苹果的最少时间	weekly-contest-188	T3	1667.44852215259
-1555	number-of-ways-of-cutting-a-pizza	切披萨的方案数	weekly-contest-188	T4	1994.8117187439386
+1554	minimum-time-to-collect-all-apples-in-a-tree	收集树上所有苹果的最少时间	weekly-contest-188	T3	1667.9956236095418
+1555	number-of-ways-of-cutting-a-pizza	切披萨的方案数	weekly-contest-188	T4	1995.1679145238631
 1542	consecutive-characters	连续字符	biweekly-contest-26	T1	1459.626332308182
 1543	simplified-fractions	最简分数	biweekly-contest-26	T2	1485.607926089334
 1544	count-good-nodes-in-binary-tree	统计二叉树中好节点的数目	biweekly-contest-26	T3	1526.074130416434
@@ -532,13 +532,13 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1562	people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list	收藏清单	weekly-contest-189	T3	1566.6392118051033
 1563	maximum-number-of-darts-inside-of-a-circular-dartboard	圆形靶内的最大飞镖数量	weekly-contest-189	T4	1866.046065721176
 1566	check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence	检查单词是否为句中其他单词的前缀	weekly-contest-190	T1	1428.1732965028723
-1567	maximum-number-of-vowels-in-a-substring-of-given-length	定长子串中元音的最大数目	weekly-contest-190	T2	1465.4754195472356
+1567	maximum-number-of-vowels-in-a-substring-of-given-length	定长子串中元音的最大数目	weekly-contest-190	T2	1465.5370224652336
 1568	pseudo-palindromic-paths-in-a-binary-tree	二叉树中的伪回文路径	weekly-contest-190	T3	1524.6512017569517
 1569	max-dot-product-of-two-subsequences	两个子序列的最大点积	weekly-contest-190	T4	1775.358314753631
 1556	make-two-arrays-equal-by-reversing-subarrays	通过翻转子数组使两个数组相等	biweekly-contest-27	T1	1472.175547320014
 1557	check-if-a-string-contains-all-binary-codes-of-size-k	检查一个字符串是否包含所有长度为 K 的二进制子串	biweekly-contest-27	T2	1548.987222487682
-1558	course-schedule-iv	课程表 IV	biweekly-contest-27	T3	1686.391975471044
-1559	cherry-pickup-ii	摘樱桃 II	biweekly-contest-27	T4	1889.8395790214056
+1558	course-schedule-iv	课程表 IV	biweekly-contest-27	T3	1686.6290227515115
+1559	cherry-pickup-ii	摘樱桃 II	biweekly-contest-27	T4	1891.3632645991552
 1574	maximum-product-of-two-elements-in-an-array	数组中两元素的最大乘积	weekly-contest-191	T1	1420.8241187622339
 1575	maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts	切割后面积最大的蛋糕	weekly-contest-191	T2	1492.5607512445517
 1576	reorder-routes-to-make-all-paths-lead-to-the-city-zero	重新规划路线	weekly-contest-191	T3	1627.8662124017292
@@ -546,19 +546,19 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1580	shuffle-the-array	重新排列数组	weekly-contest-192	T1	1421.7510617286123
 1581	the-k-strongest-values-in-an-array	数组中的 k 个最强值	weekly-contest-192	T2	1468.3573038878123
 1582	design-browser-history	设计浏览器历史记录	weekly-contest-192	T3	1516.150208591351
-1583	paint-house-iii	粉刷房子 III	weekly-contest-192	T4	1938.7491552188148
+1583	paint-house-iii	粉刷房子 III	weekly-contest-192	T4	1940.6422807965644
 1570	final-prices-with-a-special-discount-in-a-shop	商品折扣后的最终价格	biweekly-contest-28	T1	1447.0321223893889
 1571	allocate-mailboxes	安排邮筒	biweekly-contest-28	T4	1986.8935632579742
-1572	subrectangle-queries	子矩形查询	biweekly-contest-28	T2	1479.8604834627354
+1572	subrectangle-queries	子矩形查询	biweekly-contest-28	T2	1480.426372386874
 1573	find-two-non-overlapping-sub-arrays-each-with-target-sum	找两个和为目标值且不重叠的子数组	biweekly-contest-28	T3	1770.11326397639
 1296	kth-ancestor-of-a-tree-node	树节点的第 K 个祖先	weekly-contest-193	T4	1898.5430594834388
-1603	running-sum-of-1d-array	一维数组的动态和	weekly-contest-193	T1	1411.4361594038194
+1603	running-sum-of-1d-array	一维数组的动态和	weekly-contest-193	T1	1411.536516631977
 1604	least-number-of-unique-integers-after-k-removals	不同整数的最少数目	weekly-contest-193	T2	1452.619705902486
-1605	minimum-number-of-days-to-make-m-bouquets	制作 m 束花所需的最少天数	weekly-contest-193	T3	1736.7024599285405
+1605	minimum-number-of-days-to-make-m-bouquets	制作 m 束花所需的最少天数	weekly-contest-193	T3	1738.9852397578918
 1610	xor-operation-in-an-array	数组异或操作	weekly-contest-194	T1	1423.1110907514087
 1611	making-file-names-unique	保证文件名唯一	weekly-contest-194	T2	1537.6373345064824
 1612	avoid-flood-in-the-city	避免洪水泛滥	weekly-contest-194	T3	1731.658944880486
-1613	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree	找到最小生成树里的关键边和伪关键边	weekly-contest-194	T4	2447.103019702679
+1613	find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree	找到最小生成树里的关键边和伪关键边	weekly-contest-194	T4	2448.7738477804282
 1584	average-salary-excluding-the-minimum-and-maximum-salary	去掉最低工资和最高工资后的工资平均值	biweekly-contest-29	T1	1446.7067182684816
 1585	the-kth-factor-of-n	n 的第 k 个因子	biweekly-contest-29	T2	1451.9153506400378
 1586	longest-subarray-of-1s-after-deleting-one-element	删掉一个元素以后全为 1 的最长子数组	biweekly-contest-29	T3	1512.0595209511662
@@ -568,30 +568,30 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1621	number-of-subsequences-that-satisfy-the-given-sum-condition	满足条件的子序列数目	weekly-contest-195	T3	1886.5694907452441
 1622	max-value-of-equation	满足不等式的最大值	weekly-contest-195	T4	2036.7753662021
 1626	can-make-arithmetic-progression-from-sequence	判断能否形成等差数列	weekly-contest-196	T1	1427.1281813082721
-1627	last-moment-before-all-ants-fall-out-of-a-plank	所有蚂蚁掉下来前的最后一刻	weekly-contest-196	T2	1499.5870220257902
-1628	count-submatrices-with-all-ones	统计全 1 子矩形	weekly-contest-196	T3	1674.731462532135
+1627	last-moment-before-all-ants-fall-out-of-a-plank	所有蚂蚁掉下来前的最后一刻	weekly-contest-196	T2	1499.8249170257905
+1628	count-submatrices-with-all-ones	统计全 1 子矩形	weekly-contest-196	T3	1675.0291236876337
 1629	minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits	最多 K 次交换相邻数位后得到的最小整数	weekly-contest-196	T4	1789.386824615438
 1283	reformat-date	转变日期格式	biweekly-contest-30	T1	1477.9624098752272
 1615	range-sum-of-sorted-subarray-sums	子数组和排序后的区间和	biweekly-contest-30	T2	1515.5680484745903
 1616	minimum-difference-between-largest-and-smallest-value-in-three-moves	三次操作后最大值与最小值的最小差	biweekly-contest-30	T3	1591.717407613294
-1617	stone-game-iv	石子游戏 IV	biweekly-contest-30	T4	1690.545204974487
+1617	stone-game-iv	石子游戏 IV	biweekly-contest-30	T4	1691.5729614464874
 1325	path-with-maximum-probability	概率最大的路径	weekly-contest-197	T3	1732.2339223910797
 1635	number-of-good-pairs	好数对的数目	weekly-contest-197	T1	1424.244560768131
 1636	number-of-substrings-with-only-1s	仅含 1 的子串数	weekly-contest-197	T2	1466.628869070701
 1638	best-position-for-a-service-centre	服务中心的最佳位置	weekly-contest-197	T4	1865.9063423961047
-1642	water-bottles	换水问题	weekly-contest-198	T1	1439.2063551591643
-1643	number-of-nodes-in-the-sub-tree-with-the-same-label	子树中标签相同的节点数	weekly-contest-198	T2	1708.322903324466
+1642	water-bottles	换水问题	weekly-contest-198	T1	1439.2152312973421
+1643	number-of-nodes-in-the-sub-tree-with-the-same-label	子树中标签相同的节点数	weekly-contest-198	T2	1708.9438457338347
 1644	maximum-number-of-non-overlapping-substrings	最多的不重叠子字符串	weekly-contest-198	T3	2029.8885027630956
 1645	find-a-value-of-a-mysterious-function-closest-to-target	找到最接近目标值的函数值	weekly-contest-198	T4	1923.421029361014
 1630	count-odd-numbers-in-an-interval-range	在区间范围内统计奇数数目	biweekly-contest-31	T1	1457.8692985842656
 1631	number-of-sub-arrays-with-odd-sum	和为奇数的子数组数目	biweekly-contest-31	T2	1640.9979110875647
 1632	number-of-good-ways-to-split-a-string	字符串的好分割数目	biweekly-contest-31	T3	1581.179722920009
 1633	minimum-number-of-increments-on-subarrays-to-form-a-target-array	形成目标数组的子数组最少增加次数	biweekly-contest-31	T4	1713.9116647548283
-1637	string-compression-ii	压缩字符串 II	weekly-contest-199	T4	2356.1476723683745
+1637	string-compression-ii	压缩字符串 II	weekly-contest-199	T4	2356.0868304461237
 1651	shuffle-string	重新排列字符串	weekly-contest-199	T1	1426.8146158603442
 1652	minimum-suffix-flips	最少的后缀翻转次数	weekly-contest-199	T2	1474.3817910011112
-1653	number-of-good-leaf-nodes-pairs	好叶子节点对的数量	weekly-contest-199	T3	1657.4816912350202
-1656	count-good-triplets	统计好三元组	weekly-contest-200	T1	1436.4195281765803
+1653	number-of-good-leaf-nodes-pairs	好叶子节点对的数量	weekly-contest-199	T3	1658.0188323962007
+1656	count-good-triplets	统计好三元组	weekly-contest-200	T1	1436.368854815194
 1657	find-the-winner-of-an-array-game	找出数组游戏的赢家	weekly-contest-200	T2	1477.9427621823265
 1658	minimum-swaps-to-arrange-a-binary-grid	排布二进制网格的最少交换次数	weekly-contest-200	T3	1650.3910627025218
 1659	get-the-maximum-score	最大得分	weekly-contest-200	T4	1696.8373301041584
@@ -603,759 +603,759 @@ ID	TitleSlug	Title	Contest	Question	Rating
 1666	make-the-string-great	整理字符串	weekly-contest-201	T1	1457.9442458216254
 1667	find-kth-bit-in-nth-binary-string	找出第 N 个二进制字符串中的第 K 位	weekly-contest-201	T2	1489.0071810076602
 1669	minimum-cost-to-cut-a-stick	切棍子的最小成本	weekly-contest-201	T4	1905.9613844391893
-1293	three-consecutive-odds	存在连续三个奇数的数组	weekly-contest-202	T1	1420.529318744824
+1293	three-consecutive-odds	存在连续三个奇数的数组	weekly-contest-202	T1	1420.440783618778
 1674	minimum-operations-to-make-array-equal	使数组中所有元素相等的最小操作数	weekly-contest-202	T2	1430.5468818797115
-1675	magnetic-force-between-two-balls	两球之间的磁力	weekly-contest-202	T3	1751.0934977730765
+1675	magnetic-force-between-two-balls	两球之间的磁力	weekly-contest-202	T3	1750.739235742932
 1676	minimum-number-of-days-to-eat-n-oranges	吃掉 N 个橘子的最少天数	weekly-contest-202	T4	1776.3814025397683
 1660	thousand-separator	千位分隔数	biweekly-contest-33	T1	1455.701285913457
 1661	minimum-number-of-vertices-to-reach-all-nodes	可以到达所有点的最少点数目	biweekly-contest-33	T2	1539.5683576994506
 1662	minimum-numbers-of-function-calls-to-make-target-array	得到目标数组的最少函数调用次数	biweekly-contest-33	T3	1579.8393866668061
 1663	detect-cycles-in-2d-grid	二维网格图中探测环	biweekly-contest-33	T4	1779.2340306611231
-1682	most-visited-sector-in-a-circular-track	圆形赛道上经过次数最多的扇区	weekly-contest-203	T1	1469.5634594882936
+1682	most-visited-sector-in-a-circular-track	圆形赛道上经过次数最多的扇区	weekly-contest-203	T1	1469.7900201162797
 1683	maximum-number-of-coins-you-can-get	你可以获得的最大硬币数目	weekly-contest-203	T2	1463.279743098332
 1684	find-latest-group-of-size-m	查找大小为 M 的最新分组	weekly-contest-203	T3	1745.3224584564218
 1685	stone-game-v	石子游戏 V	weekly-contest-203	T4	1877.4859777985298
-1689	detect-pattern-of-length-m-repeated-k-or-more-times	重复至少 K 次且长度为 M 的模式	weekly-contest-204	T1	1487.5776164820181
-1690	maximum-length-of-subarray-with-positive-product	乘积为正数的最长子数组长度	weekly-contest-204	T2	1619.4817673135128
-1691	minimum-number-of-days-to-disconnect-island	使陆地分离的最少天数	weekly-contest-204	T3	1961.6782605785381
+1689	detect-pattern-of-length-m-repeated-k-or-more-times	重复至少 K 次且长度为 M 的模式	weekly-contest-204	T1	1487.6608840824028
+1690	maximum-length-of-subarray-with-positive-product	乘积为正数的最长子数组长度	weekly-contest-204	T2	1619.5203758034936
+1691	minimum-number-of-days-to-disconnect-island	使陆地分离的最少天数	weekly-contest-204	T3	1964.6697367340369
 1692	number-of-ways-to-reorder-array-to-get-same-bst	将子数组重新排序得到同一个二叉查找树的方案数	weekly-contest-204	T4	2037.2533042165383
 1677	matrix-diagonal-sum	矩阵对角线元素的和	biweekly-contest-34	T1	1477.7605330252838
 1678	number-of-ways-to-split-a-string	分割字符串的方案数	biweekly-contest-34	T2	1585.6965877542866
-1679	shortest-subarray-to-be-removed-to-make-array-sorted	删除最短的子数组使剩余数组有序	biweekly-contest-34	T3	1807.0240180761848
+1679	shortest-subarray-to-be-removed-to-make-array-sorted	删除最短的子数组使剩余数组有序	biweekly-contest-34	T3	1807.1039082687346
 1680	count-all-possible-routes	统计所有可行路径	biweekly-contest-34	T4	1970.9719392508657
-1698	replace-all-s-to-avoid-consecutive-repeating-characters	替换所有的问号	weekly-contest-205	T1	1465.7308081560057
-1699	number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers	数的平方等于两数乘积的方法数	weekly-contest-205	T2	1581.2389318774547
+1698	replace-all-s-to-avoid-consecutive-repeating-characters	替换所有的问号	weekly-contest-205	T1	1465.7774041897906
+1699	number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers	数的平方等于两数乘积的方法数	weekly-contest-205	T2	1581.3414551642763
 1700	minimum-time-to-make-rope-colorful	使绳子变成彩色的最短时间	weekly-contest-205	T3	1567.4659590936478
 1701	remove-max-number-of-edges-to-keep-graph-fully-traversable	保证图可完全遍历	weekly-contest-205	T4	1957.4538558862157
 1704	special-positions-in-a-binary-matrix	二进制矩阵中的特殊位置	weekly-contest-206	T1	1451.3559321347757
 1705	count-unhappy-friends	统计不开心的朋友	weekly-contest-206	T2	1604.0906191875524
-1706	min-cost-to-connect-all-points	连接所有点的最小费用	weekly-contest-206	T3	1730.4074293816157
-1707	check-if-string-is-transformable-with-substring-sort-operations	检查字符串是否可以通过排序子字符串得到另一个字符串	weekly-contest-206	T4	2059.528824953773
-1693	sum-of-all-odd-length-subarrays	所有奇数长度子数组的和	biweekly-contest-35	T1	1492.826288765878
+1706	min-cost-to-connect-all-points	连接所有点的最小费用	weekly-contest-206	T3	1729.5400927670578
+1707	check-if-string-is-transformable-with-substring-sort-operations	检查字符串是否可以通过排序子字符串得到另一个字符串	weekly-contest-206	T4	2061.3624680315224
+1693	sum-of-all-odd-length-subarrays	所有奇数长度子数组的和	biweekly-contest-35	T1	1493.5672824441313
 1694	make-sum-divisible-by-p	使数组和能被 P 整除	biweekly-contest-35	T3	1942.6457145983318
 1695	maximum-sum-obtained-of-any-permutation	所有排列中的最大和	biweekly-contest-35	T2	1766.9898464282608
-1696	strange-printer-ii	奇怪的打印机 II	biweekly-contest-35	T4	2076.112707443458
+1696	strange-printer-ii	奇怪的打印机 II	biweekly-contest-35	T4	2077.7872955212074
 1714	rearrange-spaces-between-words	重新排列单词间的空格	weekly-contest-207	T1	1470.939743544789
 1715	split-a-string-into-the-max-number-of-unique-substrings	拆分字符串使唯一子字符串的数目最大	weekly-contest-207	T2	1652.6604037750371
-1716	maximum-non-negative-product-in-a-matrix	矩阵的最大非负积	weekly-contest-207	T3	1691.5406026696285
-1717	minimum-cost-to-connect-two-groups-of-points	连通两组点的最小成本	weekly-contest-207	T4	2229.3509459771794
+1716	maximum-non-negative-product-in-a-matrix	矩阵的最大非负积	weekly-contest-207	T3	1691.6672019341374
+1717	minimum-cost-to-connect-two-groups-of-points	连通两组点的最小成本	weekly-contest-207	T4	2232.7877371326786
 1720	crawler-log-folder	文件夹操作日志搜集器	weekly-contest-208	T1	1457.6095899096263
 1721	maximum-profit-of-operating-a-centennial-wheel	经营摩天轮的最大利润	weekly-contest-208	T2	1539.8470204115529
 1722	throne-inheritance	王位继承顺序	weekly-contest-208	T3	1693.2561351281101
 1723	maximum-number-of-achievable-transfer-requests	最多可达成的换楼请求数目	weekly-contest-208	T4	1916.0619980766373
-1708	design-parking-system	设计停车系统	biweekly-contest-36	T1	1522.014371962834
-1709	alert-using-same-key-card-three-or-more-times-in-a-one-hour-period	警告一小时内使用相同员工卡大于等于三次的人	biweekly-contest-36	T2	1640.8106826643884
+1708	design-parking-system	设计停车系统	biweekly-contest-36	T1	1522.6628598761322
+1709	alert-using-same-key-card-three-or-more-times-in-a-one-hour-period	警告一小时内使用相同员工卡大于等于三次的人	biweekly-contest-36	T2	1641.2161210847487
 1710	find-servers-that-handled-most-number-of-requests	找到处理最多请求的服务器	biweekly-contest-36	T4	2067.991351685735
 1711	find-valid-matrix-given-row-and-column-sums	给定行和列的和求可行矩阵	biweekly-contest-36	T3	1790.520594998257
-1730	special-array-with-x-elements-greater-than-or-equal-x	特殊数组的特征值	weekly-contest-209	T1	1457.725473477003
+1730	special-array-with-x-elements-greater-than-or-equal-x	特殊数组的特征值	weekly-contest-209	T1	1458.0345114216857
 1731	even-odd-tree	奇偶树	weekly-contest-209	T2	1497.422990382262
 1732	minimum-one-bit-operations-to-make-integers-zero	使整数变为 0 的最少操作次数	weekly-contest-209	T4	2002.7083438708303
 1733	maximum-number-of-visible-points	可见点的最大数目	weekly-contest-209	T3	1947.7177973796488
 1737	maximum-nesting-depth-of-the-parentheses	括号的最大嵌套深度	weekly-contest-210	T1	1456.1215597419791
-1738	maximal-network-rank	最大网络秩	weekly-contest-210	T2	1535.154295350199
+1738	maximal-network-rank	最大网络秩	weekly-contest-210	T2	1535.3515894972159
 1739	split-two-strings-to-make-palindrome	分割两个字符串得到回文串	weekly-contest-210	T3	1643.4139489703743
 1740	count-subtrees-with-max-distance-between-cities	统计子树中城市之间最大距离	weekly-contest-210	T4	2080.2841439888834
-1210	mean-of-array-after-removing-some-elements	删除某些元素后的数组均值	biweekly-contest-37	T1	1493.7030188539952
-1725	number-of-sets-of-k-non-overlapping-line-segments	大小为 K 的不重叠线段的数目	biweekly-contest-37	T3	1939.731342419996
+1210	mean-of-array-after-removing-some-elements	删除某些元素后的数组均值	biweekly-contest-37	T1	1494.1023821996496
+1725	number-of-sets-of-k-non-overlapping-line-segments	大小为 K 的不重叠线段的数目	biweekly-contest-37	T3	1941.4102704977454
 1726	coordinate-with-maximum-network-quality	网络信号最好的坐标	biweekly-contest-37	T2	1630.357092619421
 1728	fancy-sequence	奇妙序列	biweekly-contest-37	T4	2051.073166515127
 1223	graph-connectivity-with-threshold	带阈值的图连通性	weekly-contest-211	T4	2003.6192637294032
 1746	largest-substring-between-two-equal-characters	两个相同字符之间的最长子字符串	weekly-contest-211	T1	1446.3190869902023
-1747	lexicographically-smallest-string-after-applying-operations	执行操作后字典序最小的字符串	weekly-contest-211	T2	1787.97428810484
+1747	lexicographically-smallest-string-after-applying-operations	执行操作后字典序最小的字符串	weekly-contest-211	T2	1788.0387939810998
 1748	best-team-with-no-conflicts	无矛盾的最佳球队	weekly-contest-211	T3	1747.0770004418664
 1257	rank-transform-of-a-matrix	矩阵转换后的秩	weekly-contest-212	T4	2271.1271967585694
-1751	slowest-key	按键持续时间最长的键	weekly-contest-212	T1	1447.8653545308719
-1752	arithmetic-subarrays	等差子数组	weekly-contest-212	T2	1469.370333232659
+1751	slowest-key	按键持续时间最长的键	weekly-contest-212	T1	1447.7297014999513
+1752	arithmetic-subarrays	等差子数组	weekly-contest-212	T2	1469.4256996599395
 1753	path-with-minimum-effort	最小体力消耗路径	weekly-contest-212	T3	1850.3604856030681
 1741	sort-array-by-increasing-frequency	按照频率将数组升序排序	biweekly-contest-38	T1	1546.3952076956411
 1742	widest-vertical-area-between-two-points-containing-no-points	两点之间不包含任何点的最宽垂直面积	biweekly-contest-38	T2	1568.383714365806
 1743	count-substrings-that-differ-by-one-character	统计只差一个字符的子串数目	biweekly-contest-38	T3	1674.4822260871458
 1744	number-of-ways-to-form-a-target-string-given-a-dictionary	通过给定词典构造目标字符串的方案数	biweekly-contest-38	T4	1976.2038247139392
 489	kth-smallest-instructions	第 K 条最小指令	weekly-contest-213	T4	1951.4607816688972
-1760	check-array-formation-through-concatenation	能否连接形成数组	weekly-contest-213	T1	1504.5110741074072
+1760	check-array-formation-through-concatenation	能否连接形成数组	weekly-contest-213	T1	1504.687139317199
 1761	count-sorted-vowel-strings	统计字典序元音字符串的数目	weekly-contest-213	T2	1536.8715197959968
-1762	furthest-building-you-can-reach	可以到达的最远建筑	weekly-contest-213	T3	1778.6679084090001
+1762	furthest-building-you-can-reach	可以到达的最远建筑	weekly-contest-213	T3	1779.8945613102373
 1769	get-maximum-in-generated-array	获取生成数组中的最大值	weekly-contest-214	T1	1453.9654975930237
 1770	minimum-deletions-to-make-character-frequencies-unique	字符频次唯一的最小删除次数	weekly-contest-214	T2	1518.4115469258322
 1771	sell-diminishing-valued-colored-balls	销售价值减少的颜色球	weekly-contest-214	T3	1802.582930427907
-1772	create-sorted-array-through-instructions	通过指令创建有序数组	weekly-contest-214	T4	1946.209178770922
+1772	create-sorted-array-through-instructions	通过指令创建有序数组	weekly-contest-214	T4	1949.0653699264208
 1755	defuse-the-bomb	拆炸弹	biweekly-contest-39	T1	1501.4288130109762
 1756	minimum-deletions-to-make-string-balanced	使字符串平衡的最少删除次数	biweekly-contest-39	T2	1680.685317877057
-1757	minimum-jumps-to-reach-home	到家的最少跳跃次数	biweekly-contest-39	T3	1928.2387941668
-1758	distribute-repeating-integers	分配重复整数	biweekly-contest-39	T4	2105.8463110353982
+1757	minimum-jumps-to-reach-home	到家的最少跳跃次数	biweekly-contest-39	T3	1929.6897297445494
+1758	distribute-repeating-integers	分配重复整数	biweekly-contest-39	T4	2106.7316755740208
 1775	design-an-ordered-stream	设计有序流	weekly-contest-215	T1	1478.768674971152
 1776	minimum-operations-to-reduce-x-to-zero	将 x 减到 0 的最小操作数	weekly-contest-215	T3	1720.2838140418937
 1777	determine-if-two-strings-are-close	确定两个字符串是否接近	weekly-contest-215	T2	1516.8413342769434
 1778	maximize-grid-happiness	最大化网格幸福感	weekly-contest-215	T4	2330.0787929087496
-1781	check-if-two-string-arrays-are-equivalent	检查两个字符串数组是否相等	weekly-contest-216	T1	1446.7067182684816
-1782	smallest-string-with-a-given-numeric-value	具有给定数值的最小字符串	weekly-contest-216	T2	1522.5679241752146
-1783	ways-to-make-a-fair-array	生成平衡数组的方案数	weekly-contest-216	T3	1592.4051785814238
-1784	minimum-initial-energy-to-finish-tasks	完成所有任务的最少初始能量	weekly-contest-216	T4	1727.6143038861694
-1764	maximum-repeating-substring	最大重复子字符串	biweekly-contest-40	T1	1551.6987316818422
+1781	check-if-two-string-arrays-are-equivalent	检查两个字符串数组是否相等	weekly-contest-216	T1	1446.7776691647728
+1782	smallest-string-with-a-given-numeric-value	具有给定数值的最小字符串	weekly-contest-216	T2	1522.7479236460383
+1783	ways-to-make-a-fair-array	生成平衡数组的方案数	weekly-contest-216	T3	1592.82279378229
+1784	minimum-initial-energy-to-finish-tasks	完成所有任务的最少初始能量	weekly-contest-216	T4	1727.4880083340308
+1764	maximum-repeating-substring	最大重复子字符串	biweekly-contest-40	T1	1551.7874078847926
 1765	merge-in-between-linked-lists	合并两个链表	biweekly-contest-40	T2	1567.071227687355
-1766	minimum-number-of-removals-to-make-mountain-array	得到山形数组的最少删除次数	biweekly-contest-40	T4	1768.9235534312688
+1766	minimum-number-of-removals-to-make-mountain-array	得到山形数组的最少删除次数	biweekly-contest-40	T4	1770.5946815090183
 1767	design-front-middle-back-queue	设计前中后队列	biweekly-contest-40	T3	1624.2720203090983
-1791	richest-customer-wealth	最富有客户的资产总量	weekly-contest-217	T1	1434.5832853175377
-1792	find-the-most-competitive-subsequence	找出最具竞争力的子序列	weekly-contest-217	T2	1629.168861550905
+1791	richest-customer-wealth	最富有客户的资产总量	weekly-contest-217	T1	1434.6847713113336
+1792	find-the-most-competitive-subsequence	找出最具竞争力的子序列	weekly-contest-217	T2	1629.2275125655713
 1793	minimum-moves-to-make-array-complementary	使数组互补的最少操作次数	weekly-contest-217	T3	2095.4754766228234
-1794	minimize-deviation-in-array	数组的最小偏移量	weekly-contest-217	T4	2237.8500890914183
-1797	goal-parser-interpretation	设计 Goal 解析器	weekly-contest-218	T1	1442.3674137904707
-1798	max-number-of-k-sum-pairs	K 和数对的最大数目	weekly-contest-218	T2	1483.8643975327018
+1794	minimize-deviation-in-array	数组的最小偏移量	weekly-contest-217	T4	2239.3136419421235
+1797	goal-parser-interpretation	设计 Goal 解析器	weekly-contest-218	T1	1442.3322217393672
+1798	max-number-of-k-sum-pairs	K 和数对的最大数目	weekly-contest-218	T2	1483.8874644501755
 1799	minimum-incompatibility	最小不兼容性	weekly-contest-218	T4	2126.875835296474
 1800	concatenation-of-consecutive-binary-numbers	连接连续二进制数字	weekly-contest-218	T3	1603.606146460565
 1786	count-the-number-of-consistent-strings	统计一致字符串的数目	biweekly-contest-41	T1	1512.6535615794294
 1787	sum-of-absolute-differences-in-a-sorted-array	有序数组中差绝对值之和	biweekly-contest-41	T2	1615.1953588480856
 1788	stone-game-vi	石子游戏 VI	biweekly-contest-41	T3	1746.2933825143423
-1789	delivering-boxes-from-storage-to-ports	从仓库到码头运输箱子	biweekly-contest-41	T4	2283.8752018500754
+1789	delivering-boxes-from-storage-to-ports	从仓库到码头运输箱子	biweekly-contest-41	T4	2284.918943005574
 1367	maximum-height-by-stacking-cuboids	堆叠长方体的最大高度	weekly-contest-219	T4	1949.764126192187
-1806	count-of-matches-in-tournament	比赛中的配对次数	weekly-contest-219	T1	1443.0329439807656
-1807	partitioning-into-minimum-number-of-deci-binary-numbers	十-二进制数的最少数目	weekly-contest-219	T2	1467.083482550149
+1806	count-of-matches-in-tournament	比赛中的配对次数	weekly-contest-219	T1	1442.6825125127748
+1807	partitioning-into-minimum-number-of-deci-binary-numbers	十-二进制数的最少数目	weekly-contest-219	T2	1467.5683213909385
 1808	stone-game-vii	石子游戏 VII	weekly-contest-219	T3	1764.5269065893017
 1812	reformat-phone-number	重新格式化电话号码	weekly-contest-220	T1	1458.9832569215546
-1813	maximum-erasure-value	删除子数组的最大得分	weekly-contest-220	T2	1578.2200178854102
-1814	jump-game-vi	跳跃游戏 VI	weekly-contest-220	T3	1782.804399715378
-1815	checking-existence-of-edge-length-limited-paths	检查边长度限制的路径是否存在	weekly-contest-220	T4	2120.9281147381075
-1802	number-of-students-unable-to-eat-lunch	无法吃午餐的学生数量	biweekly-contest-42	T1	1551.3890578148753
+1813	maximum-erasure-value	删除子数组的最大得分	weekly-contest-220	T2	1578.2235991553064
+1814	jump-game-vi	跳跃游戏 VI	weekly-contest-220	T3	1782.7883088895355
+1815	checking-existence-of-edge-length-limited-paths	检查边长度限制的路径是否存在	weekly-contest-220	T4	2122.4510142327945
+1802	number-of-students-unable-to-eat-lunch	无法吃午餐的学生数量	biweekly-contest-42	T1	1552.1281217782011
 1803	average-waiting-time	平均等待时间	biweekly-contest-42	T2	1562.7381353048502
 1804	maximum-binary-string-after-change	修改后的最大二进制字符串	biweekly-contest-42	T3	1752.0408540994804
-1805	minimum-adjacent-swaps-for-k-consecutive-ones	得到连续 K 个 1 的最少相邻交换次数	biweekly-contest-42	T4	2314.7373826522394
-1324	where-will-the-ball-fall	球会落何处	weekly-contest-221	T3	1654.5455332050874
-1823	determine-if-string-halves-are-alike	判断字符串的两半是否相似	weekly-contest-221	T1	1446.352937573948
+1805	minimum-adjacent-swaps-for-k-consecutive-ones	得到连续 K 个 1 的最少相邻交换次数	biweekly-contest-42	T4	2314.6830082299884
+1324	where-will-the-ball-fall	球会落何处	weekly-contest-221	T3	1655.298669752732
+1823	determine-if-string-halves-are-alike	判断字符串的两半是否相似	weekly-contest-221	T1	1446.7553018912424
 1824	maximum-number-of-eaten-apples	吃苹果的最大数目	weekly-contest-221	T2	1723.834189461965
-1826	maximum-xor-with-an-element-from-array	与数组中元素的最大异或值	weekly-contest-221	T4	2115.317663741157
-1829	maximum-units-on-a-truck	卡车上的最大单元数	weekly-contest-222	T1	1483.9180708214517
+1826	maximum-xor-with-an-element-from-array	与数组中元素的最大异或值	weekly-contest-221	T4	2115.498439224989
+1829	maximum-units-on-a-truck	卡车上的最大单元数	weekly-contest-222	T1	1484.1957168822926
 1830	count-good-meals	大餐计数	weekly-contest-222	T2	1728.5045126486716
 1831	ways-to-split-array-into-three-subarrays	将数组分成三个子数组的方案数	weekly-contest-222	T3	1919.8911060893843
-1832	minimum-operations-to-make-a-subsequence	得到子序列的最少操作次数	weekly-contest-222	T4	2111.953657078315
+1832	minimum-operations-to-make-a-subsequence	得到子序列的最少操作次数	weekly-contest-222	T4	2113.829895156064
 1817	calculate-money-in-leetcode-bank	计算力扣银行的钱	biweekly-contest-43	T1	1531.4943883578678
 1818	maximum-score-from-removing-substrings	删除子字符串的最大得分	biweekly-contest-43	T2	1745.1906229473225
-1819	construct-the-lexicographically-largest-valid-sequence	构建字典序最大的可行序列	biweekly-contest-43	T3	1902.6769046716463
-1820	number-of-ways-to-reconstruct-a-tree	重构一棵树的方案数	biweekly-contest-43	T4	2649.264707583976
-528	swapping-nodes-in-a-linked-list	交换链表中的节点	weekly-contest-223	T2	1493.1580504852334
+1819	construct-the-lexicographically-largest-valid-sequence	构建字典序最大的可行序列	biweekly-contest-43	T3	1903.5731803967637
+1820	number-of-ways-to-reconstruct-a-tree	重构一棵树的方案数	biweekly-contest-43	T4	2649.7559856617254
+528	swapping-nodes-in-a-linked-list	交换链表中的节点	weekly-contest-223	T2	1493.7410848386933
 1825	find-minimum-time-to-finish-all-jobs	完成所有工作的最短时间	weekly-contest-223	T4	2095.4754766228234
 1839	decode-xored-array	解码异或后的数组	weekly-contest-223	T1	1462.2086579629024
-1840	minimize-hamming-distance-after-swap-operations	执行交换操作后的最小汉明距离	weekly-contest-223	T3	1778.795477415968
-1364	tuple-with-same-product	同积元组	weekly-contest-224	T2	1555.7759683264471
+1840	minimize-hamming-distance-after-swap-operations	执行交换操作后的最小汉明距离	weekly-contest-223	T3	1780.3566996430159
+1364	tuple-with-same-product	同积元组	weekly-contest-224	T2	1555.8032668622754
 1727	cat-and-mouse-ii	猫和老鼠 II	weekly-contest-224	T4	2400.1269247832097
-1843	number-of-rectangles-that-can-form-the-largest-square	可以形成最大正方形的矩形数目	weekly-contest-224	T1	1451.537017764383
+1843	number-of-rectangles-that-can-form-the-largest-square	可以形成最大正方形的矩形数目	weekly-contest-224	T1	1451.171830687533
 1845	largest-submatrix-with-rearrangements	重新排列后的最大子矩阵	weekly-contest-224	T3	1741.7797845942137
 1833	find-the-highest-altitude	找到最高海拔	biweekly-contest-44	T1	1524.3669505432467
-1834	minimum-number-of-people-to-teach	需要教语言的最少人数	biweekly-contest-44	T2	1804.77118972736
+1834	minimum-number-of-people-to-teach	需要教语言的最少人数	biweekly-contest-44	T2	1805.1686100403485
 1835	decode-xored-permutation	解码异或后的排列	biweekly-contest-44	T3	1865.9560177315852
-1836	count-ways-to-make-array-with-product	生成乘积数组的方案数	biweekly-contest-44	T4	2371.690456143068
+1836	count-ways-to-make-array-with-product	生成乘积数组的方案数	biweekly-contest-44	T4	2371.6291367208173
 1858	latest-time-by-replacing-hidden-digits	替换隐藏数字得到的最晚时间	weekly-contest-225	T1	1462.3881793489923
 1859	change-minimum-characters-to-satisfy-one-of-three-conditions	满足三条件之一需改变的最少字符数	weekly-contest-225	T2	1784.7271633939217
 1860	find-kth-largest-xor-coordinate-value	找出第 K 大的异或坐标值	weekly-contest-225	T3	1634.0242570271757
-1861	building-boxes	放置盒子	weekly-contest-225	T4	1950.1499199052735
+1861	building-boxes	放置盒子	weekly-contest-225	T4	1951.5780154830227
 1844	maximum-number-of-balls-in-a-box	盒子中小球的最大数量	weekly-contest-226	T1	1460.0202082121216
 1866	restore-the-array-from-adjacent-pairs	从相邻元素对还原数组	weekly-contest-226	T2	1636.2669317737018
-1871	palindrome-partitioning-iv	回文串分割 IV	weekly-contest-226	T4	1822.5209468526257
+1871	palindrome-partitioning-iv	回文串分割 IV	weekly-contest-226	T4	1824.8153932298558
 1872	can-you-eat-your-favorite-candy-on-your-favorite-day	你能在你最喜欢的那天吃到你最喜欢的糖果吗？	weekly-contest-226	T3	1729.9695831567483
 1848	sum-of-unique-elements	唯一元素的和	biweekly-contest-45	T1	1534.3048266306828
-1849	maximum-absolute-sum-of-any-subarray	任意子数组和的绝对值的最大值	biweekly-contest-45	T2	1641.2230833039114
-1850	minimum-length-of-string-after-deleting-similar-ends	删除字符串两端相同字符后的最短长度	biweekly-contest-45	T3	1639.3177791413987
-1851	maximum-number-of-events-that-can-be-attended-ii	最多可以参加的会议数目 II	biweekly-contest-45	T4	1979.205033226376
-1878	check-if-array-is-sorted-and-rotated	检查数组是否经排序和轮转得到	weekly-contest-227	T1	1492.0171270606243
-1879	maximum-score-from-removing-stones	移除石子的最大得分	weekly-contest-227	T2	1526.2515640554416
+1849	maximum-absolute-sum-of-any-subarray	任意子数组和的绝对值的最大值	biweekly-contest-45	T2	1643.1489852968973
+1850	minimum-length-of-string-after-deleting-similar-ends	删除字符串两端相同字符后的最短长度	biweekly-contest-45	T3	1640.0596967841132
+1851	maximum-number-of-events-that-can-be-attended-ii	最多可以参加的会议数目 II	biweekly-contest-45	T4	1980.8309713041253
+1878	check-if-array-is-sorted-and-rotated	检查数组是否经排序和轮转得到	weekly-contest-227	T1	1492.435571734984
+1879	maximum-score-from-removing-stones	移除石子的最大得分	weekly-contest-227	T2	1526.3425881078101
 1880	largest-merge-of-two-strings	构造字典序最大的合并字符串	weekly-contest-227	T3	1623.4262180200217
 1881	closest-subsequence-sum	最接近目标值的子序列和	weekly-contest-227	T4	2100.239447841606
 1884	minimum-changes-to-make-alternating-binary-string	生成交替二进制字符串的最少操作数	weekly-contest-228	T1	1554.4800077499183
 1885	count-number-of-homogenous-substrings	统计同构子字符串的数目	weekly-contest-228	T2	1604.0622162567877
 1886	minimum-limit-of-balls-in-a-bag	袋子里最少数目的球	weekly-contest-228	T3	1811.3775309664347
 1887	minimum-degree-of-a-connected-trio-in-a-graph	一个图中连通三元组的最小度数	weekly-contest-228	T4	1856.011898490366
-1873	longest-nice-substring	最长的美好子字符串	biweekly-contest-46	T1	1663.3652593101287
+1873	longest-nice-substring	最长的美好子字符串	biweekly-contest-46	T1	1663.550908908117
 1874	form-array-by-concatenating-subarrays-of-another-array	通过连接另一个数组的子数组得到一个数组	biweekly-contest-46	T2	1674.5157468178595
-1875	tree-of-coprimes	互质树	biweekly-contest-46	T4	2101.609323630064
-1876	map-of-highest-peak	地图中的最高点	biweekly-contest-46	T3	1772.3689221893544
-1894	merge-strings-alternately	交替合并字符串	weekly-contest-229	T1	1458.2733024583206
+1875	tree-of-coprimes	互质树	biweekly-contest-46	T4	2101.8882495769394
+1876	map-of-highest-peak	地图中的最高点	biweekly-contest-46	T3	1773.3676250804876
+1894	merge-strings-alternately	交替合并字符串	weekly-contest-229	T1	1458.3019896932515
 1895	minimum-number-of-operations-to-move-all-balls-to-each-box	移动所有球到每个盒子所需的最小操作数	weekly-contest-229	T2	1479.5599010887377
-1896	maximum-score-from-performing-multiplication-operations	执行乘法运算的最大分数	weekly-contest-229	T3	1870.1747388169465
+1896	maximum-score-from-performing-multiplication-operations	执行乘法运算的最大分数	weekly-contest-229	T3	1873.3487299724452
 1897	maximize-palindrome-length-from-subsequences	由子序列构造的最长回文串的长度	weekly-contest-229	T4	1977.6347412370515
-1899	count-items-matching-a-rule	统计匹配检索规则的物品数量	weekly-contest-230	T1	1450.8912608112141
-1900	closest-dessert-cost	最接近目标价格的甜点成本	weekly-contest-230	T2	1696.811669251043
+1899	count-items-matching-a-rule	统计匹配检索规则的物品数量	weekly-contest-230	T1	1451.1969166322715
+1900	closest-dessert-cost	最接近目标价格的甜点成本	weekly-contest-230	T2	1697.5591847046203
 1901	equal-sum-arrays-with-minimum-number-of-operations	通过最少操作次数使数组的和相等	weekly-contest-230	T3	1715.2246975511011
-1902	car-fleet-ii	车队 II	weekly-contest-230	T4	2233.6901572371758
+1902	car-fleet-ii	车队 II	weekly-contest-230	T4	2235.1787528149252
 1888	find-nearest-point-that-has-the-same-x-or-y-coordinate	找到最近的有相同 X 或 Y 坐标的点	biweekly-contest-47	T1	1473.0302684065632
-1889	check-if-number-is-a-sum-of-powers-of-three	判断一个数字是否可以表示成三的幂的和	biweekly-contest-47	T2	1524.8285156926108
+1889	check-if-number-is-a-sum-of-powers-of-three	判断一个数字是否可以表示成三的幂的和	biweekly-contest-47	T2	1525.290459743482
 1890	sum-of-beauty-of-all-substrings	所有子字符串美丽值之和	biweekly-contest-47	T3	1651.596592100894
-1891	count-pairs-of-nodes	统计点对的数目	biweekly-contest-47	T4	2229.3509459771794
-1910	check-if-binary-string-has-at-most-one-segment-of-ones	检查二进制字符串字段	weekly-contest-231	T1	1449.6613139887872
+1891	count-pairs-of-nodes	统计点对的数目	biweekly-contest-47	T4	2229.8606314312683
+1910	check-if-binary-string-has-at-most-one-segment-of-ones	检查二进制字符串字段	weekly-contest-231	T1	1449.7624565356566
 1911	minimum-elements-to-add-to-form-a-given-sum	构成特定和需要添加的最少元素	weekly-contest-231	T2	1477.68373147991
 1912	number-of-restricted-paths-from-first-to-last-node	从第一个节点出发到最后一个节点的受限路径数	weekly-contest-231	T3	1983.5535641050803
 1913	make-the-xor-of-all-segments-equal-to-zero	使所有区间的异或结果为零	weekly-contest-231	T4	2376.5243643265585
 1915	check-if-one-string-swap-can-make-strings-equal	仅执行一次字符串交换能否使两个字符串相等	weekly-contest-232	T1	1462.0026813902946
-1916	find-center-of-star-graph	找出星型图的中心节点	weekly-contest-232	T2	1453.3025159590402
-1917	maximum-average-pass-ratio	最大平均通过率	weekly-contest-232	T3	1701.3766408199567
+1916	find-center-of-star-graph	找出星型图的中心节点	weekly-contest-232	T2	1453.9353753581786
+1917	maximum-average-pass-ratio	最大平均通过率	weekly-contest-232	T3	1702.0973895792988
 1918	maximum-score-of-a-good-subarray	好子数组的最大分数	weekly-contest-232	T4	1767.5595614767565
 1904	second-largest-digit-in-a-string	字符串中第二大的数字	biweekly-contest-48	T1	1448.4292547515317
 1905	design-authentication-manager	设计一个验证系统	biweekly-contest-48	T2	1552.8808847221721
 1906	maximize-score-after-n-operations	N 次操作后的最大分数和	biweekly-contest-48	T4	1992.1634195069862
-1930	maximum-number-of-consecutive-values-you-can-make	你能构造出连续值的最大数目	biweekly-contest-48	T3	1710.8486182139713
+1930	maximum-number-of-consecutive-values-you-can-make	你能构造出连续值的最大数目	biweekly-contest-48	T3	1710.9248522085295
 1907	count-pairs-with-xor-in-a-range	统计异或值在范围内的数对有多少	weekly-contest-233	T4	2251.579729155438
-1927	maximum-ascending-subarray-sum	最大升序子数组和	weekly-contest-233	T1	1431.8317750930578
-1928	number-of-orders-in-the-backlog	积压订单中的订单总数	weekly-contest-233	T2	1650.6546098455212
+1927	maximum-ascending-subarray-sum	最大升序子数组和	weekly-contest-233	T1	1432.131075093058
+1928	number-of-orders-in-the-backlog	积压订单中的订单总数	weekly-contest-233	T2	1651.3670017849443
 1929	maximum-value-at-a-given-index-in-a-bounded-array	有界数组中指定下标处的最大值	weekly-contest-233	T3	1761.7323757531872
 1933	number-of-different-integers-in-a-string	字符串中不同整数的数目	weekly-contest-234	T1	1467.5336359450039
 1934	evaluate-the-bracket-pairs-of-a-string	替换字符串中的括号内容	weekly-contest-234	T3	1527.4374025310412
-1935	minimum-number-of-operations-to-reinitialize-a-permutation	还原排列的最少操作步数	weekly-contest-234	T2	1519.5999274905396
+1935	minimum-number-of-operations-to-reinitialize-a-permutation	还原排列的最少操作步数	weekly-contest-234	T2	1519.7373866950052
 1936	maximize-number-of-nice-divisors	好因子的最大数目	weekly-contest-234	T4	1842.0567877672902
 1920	determine-color-of-a-chessboard-square	判断国际象棋棋盘中一个格子的颜色	biweekly-contest-49	T1	1442.415556358063
 1923	sentence-similarity-iii	句子相似性 III	biweekly-contest-49	T2	1631.6897140624533
 1924	maximum-number-of-groups-getting-fresh-donuts	得到新鲜甜甜圈的最多组数	biweekly-contest-49	T4	2372.4627730355596
 1925	count-nice-pairs-in-an-array	统计一个数组中好对子的数目	biweekly-contest-49	T3	1671.3332148921609
-1944	truncate-sentence	截断句子	weekly-contest-235	T1	1437.033258201631
-1945	finding-the-users-active-minutes	查找用户活跃分钟数	weekly-contest-235	T2	1488.88758762892
-1946	minimum-absolute-sum-difference	绝对差值和	weekly-contest-235	T3	1776.802215454252
-1947	number-of-different-subsequences-gcds	序列中不同最大公约数的数目	weekly-contest-235	T4	2237.679365520964
-1950	sign-of-the-product-of-an-array	数组元素积的符号	weekly-contest-236	T1	1422.4408533360847
+1944	truncate-sentence	截断句子	weekly-contest-235	T1	1437.3393088265634
+1945	finding-the-users-active-minutes	查找用户活跃分钟数	weekly-contest-235	T2	1489.009829088713
+1946	minimum-absolute-sum-difference	绝对差值和	weekly-contest-235	T3	1777.8441270352791
+1947	number-of-different-subsequences-gcds	序列中不同最大公约数的数目	weekly-contest-235	T4	2240.6565566764625
+1950	sign-of-the-product-of-an-array	数组元素积的符号	weekly-contest-236	T1	1422.3288734633638
 1951	find-the-winner-of-the-circular-game	找出游戏的获胜者	weekly-contest-236	T2	1463.3457490325145
-1952	minimum-sideway-jumps	最少侧跳次数	weekly-contest-236	T3	1642.760309025704
+1952	minimum-sideway-jumps	最少侧跳次数	weekly-contest-236	T3	1643.5283707163599
 1953	finding-mk-average	求出 MK 平均值	weekly-contest-236	T4	2197.2005875315663
-1938	minimum-operations-to-make-the-array-increasing	最少操作使数组递增	biweekly-contest-50	T1	1436.136470471245
+1938	minimum-operations-to-make-the-array-increasing	最少操作使数组递增	biweekly-contest-50	T1	1437.1437899152852
 1939	queries-on-number-of-points-inside-a-circle	统计一个圆中点的数目	biweekly-contest-50	T2	1451.045107008313
 1940	maximum-xor-for-each-query	每个查询的最大异或值	biweekly-contest-50	T3	1544.8035396962082
-1941	minimum-number-of-operations-to-make-string-sorted	使字符串有序的最少操作次数	biweekly-contest-50	T4	2347.0877160413893
+1941	minimum-number-of-operations-to-make-string-sorted	使字符串有序的最少操作次数	biweekly-contest-50	T4	2348.829284696888
 1960	check-if-the-sentence-is-pangram	判断句子是否为全字母句	weekly-contest-237	T1	1423.8461835080323
-1961	maximum-ice-cream-bars	雪糕的最大数量	weekly-contest-237	T2	1438.8308435504343
-1962	single-threaded-cpu	单线程 CPU	weekly-contest-237	T3	1713.2064869615115
+1961	maximum-ice-cream-bars	雪糕的最大数量	weekly-contest-237	T2	1439.5881835416494
+1962	single-threaded-cpu	单线程 CPU	weekly-contest-237	T3	1714.0618528479513
 1963	find-xor-sum-of-all-pairs-bitwise-and	所有数对按位与结果的异或和	weekly-contest-237	T4	1666.2637219504807
-1965	sum-of-digits-in-base-k	K 进制表示下的各位数字总和	weekly-contest-238	T1	1437.771595763094
+1965	sum-of-digits-in-base-k	K 进制表示下的各位数字总和	weekly-contest-238	T1	1438.1994572381627
 1966	frequency-of-the-most-frequent-element	最高频元素的频数	weekly-contest-238	T2	1708.8705885127329
 1967	longest-substring-of-all-vowels-in-order	所有元音按顺序排布的最长子字符串	weekly-contest-238	T3	1580.233871162306
 1968	maximum-building-height	最高建筑高度	weekly-contest-238	T4	2213.367079919461
 1954	replace-all-digits-with-characters	将所有数字用字符替换	biweekly-contest-51	T1	1478.0774363378102
-1955	seat-reservation-manager	座位预约管理系统	biweekly-contest-51	T2	1574.1953634225624
-1956	maximum-element-after-decreasing-and-rearranging	减小和重新排列数组后的最大元素	biweekly-contest-51	T3	1534.9460372868987
+1955	seat-reservation-manager	座位预约管理系统	biweekly-contest-51	T2	1574.543143233169
+1956	maximum-element-after-decreasing-and-rearranging	减小和重新排列数组后的最大元素	biweekly-contest-51	T3	1534.953985326013
 1957	closest-room	最近的房间	biweekly-contest-51	T4	1909.7527153215437
 1975	minimum-distance-to-the-target-element	到目标元素的最小距离	weekly-contest-239	T1	1454.7680019524785
 1976	splitting-a-string-into-descending-consecutive-values	将字符串拆分为递减的连续值	weekly-contest-239	T2	1694.4385179434053
-1977	minimum-interval-to-include-each-query	包含每个查询的最小区间	weekly-contest-239	T4	2159.4773107731476
-1978	minimum-adjacent-swaps-to-reach-the-kth-smallest-number	邻位交换的最小次数	weekly-contest-239	T3	1898.594609323812
-1983	maximum-population-year	人口最多的年份	weekly-contest-240	T1	1473.621543274191
+1977	minimum-interval-to-include-each-query	包含每个查询的最小区间	weekly-contest-239	T4	2160.884838850897
+1978	minimum-adjacent-swaps-to-reach-the-kth-smallest-number	邻位交换的最小次数	weekly-contest-239	T3	1898.9470505432637
+1983	maximum-population-year	人口最多的年份	weekly-contest-240	T1	1473.3440999857405
 1984	maximum-distance-between-a-pair-of-values	下标对中的最大距离	weekly-contest-240	T2	1553.567862598896
 1985	maximum-subarray-min-product	子数组最小乘积的最大值	weekly-contest-240	T3	1862.0899407437337
-1986	largest-color-value-in-a-directed-graph	有向图中最大颜色值	weekly-contest-240	T4	2104.1724602044524
+1986	largest-color-value-in-a-directed-graph	有向图中最大颜色值	weekly-contest-240	T4	2106.5870728486084
 1326	sum-of-floored-pairs	向下取整数对和	biweekly-contest-52	T4	2004.0123484115416
 1970	sorting-the-sentence	将句子排序	biweekly-contest-52	T1	1472.3975486153818
-1971	incremental-memory-leak	增长的内存泄露	biweekly-contest-52	T2	1484.1414548862112
+1971	incremental-memory-leak	增长的内存泄露	biweekly-contest-52	T2	1484.5929850983648
 1972	rotating-the-box	旋转盒子	biweekly-contest-52	T3	1585.81685060356
-1993	sum-of-all-subset-xor-totals	找出所有子集的异或总和再求和	weekly-contest-241	T1	1483.0451441540372
-1994	minimum-number-of-swaps-to-make-the-binary-string-alternating	构成交替字符串需要的最小交换次数	weekly-contest-241	T2	1597.3967757354499
+1993	sum-of-all-subset-xor-totals	找出所有子集的异或总和再求和	weekly-contest-241	T1	1483.3165610342585
+1994	minimum-number-of-swaps-to-make-the-binary-string-alternating	构成交替字符串需要的最小交换次数	weekly-contest-241	T2	1597.756496760178
 1995	finding-pairs-with-a-certain-sum	找出和为指定值的下标对	weekly-contest-241	T3	1638.7004151303431
-1996	number-of-ways-to-rearrange-sticks-with-k-sticks-visible	恰有 K 根木棍可以看到的排列数目	weekly-contest-241	T4	2120.566563770444
-1999	longer-contiguous-segments-of-ones-than-zeros	哪种连续子字符串更长	weekly-contest-242	T1	1448.4725572047732
+1996	number-of-ways-to-rearrange-sticks-with-k-sticks-visible	恰有 K 根木棍可以看到的排列数目	weekly-contest-241	T4	2123.3457599259427
+1999	longer-contiguous-segments-of-ones-than-zeros	哪种连续子字符串更长	weekly-contest-242	T1	1448.3611479435967
 2000	minimum-speed-to-arrive-on-time	准时到达的列车最小时速	weekly-contest-242	T2	1654.4146651594906
 2001	jump-game-vii	跳跃游戏 VII	weekly-contest-242	T3	1736.8373076223747
 2002	stone-game-viii	石子游戏 VIII	weekly-contest-242	T4	2142.5501122813753
 1987	substrings-of-size-three-with-distinct-characters	长度为三且各字符不同的子字符串	biweekly-contest-53	T1	1477.3425983208638
 1988	minimize-maximum-pair-sum-in-array	数组中最大数对和的最小值	biweekly-contest-53	T2	1498.1273983834662
-1989	minimum-xor-sum-of-two-arrays	两个数组最小的异或值之和	biweekly-contest-53	T4	2030.7520543106257
-1990	get-biggest-three-rhombus-sums-in-a-grid	矩阵中最大的三个菱形和	biweekly-contest-53	T3	1748.4346195584785
-2010	check-if-word-equals-summation-of-two-words	检查某单词是否等于两单词之和	weekly-contest-243	T1	1439.8292357662924
-2011	maximum-value-after-insertion	插入后的最大值	weekly-contest-243	T2	1483.4855197697498
-2012	process-tasks-using-servers	使用服务器处理任务	weekly-contest-243	T3	1824.7534781462612
+1989	minimum-xor-sum-of-two-arrays	两个数组最小的异或值之和	biweekly-contest-53	T4	2032.1972413797948
+1990	get-biggest-three-rhombus-sums-in-a-grid	矩阵中最大的三个菱形和	biweekly-contest-53	T3	1748.5974188941414
+2010	check-if-word-equals-summation-of-two-words	检查某单词是否等于两单词之和	weekly-contest-243	T1	1440.3018698272629
+2011	maximum-value-after-insertion	插入后的最大值	weekly-contest-243	T2	1483.885358182857
+2012	process-tasks-using-servers	使用服务器处理任务	weekly-contest-243	T3	1825.5015823221918
 2013	minimum-skips-to-arrive-at-meeting-on-time	准时抵达会议现场的最小跳过休息次数	weekly-contest-243	T4	2192.6245078733295
 2015	determine-whether-matrix-can-be-obtained-by-rotation	判断矩阵经轮转后是否一致	weekly-contest-244	T1	1469.689143094195
-2016	reduction-operations-to-make-the-array-elements-equal	使数组元素相等的减少操作次数	weekly-contest-244	T2	1490.285840294799
+2016	reduction-operations-to-make-the-array-elements-equal	使数组元素相等的减少操作次数	weekly-contest-244	T2	1490.1091749206707
 2017	minimum-number-of-flips-to-make-the-binary-string-alternating	使二进制字符串字符交替的最少反转次数	weekly-contest-244	T3	1858.2411852814284
 2018	minimum-space-wasted-from-packaging	装包裹的最小浪费空间	weekly-contest-244	T4	2019.1451919962992
-1311	largest-magic-square	最大的幻方	biweekly-contest-54	T3	1737.050910725527
-2005	check-if-all-the-integers-in-a-range-are-covered	检查是否区域内所有整数都被覆盖	biweekly-contest-54	T1	1535.2744517744015
+1311	largest-magic-square	最大的幻方	biweekly-contest-54	T3	1737.2042432056287
+2005	check-if-all-the-integers-in-a-range-are-covered	检查是否区域内所有整数都被覆盖	biweekly-contest-54	T1	1536.7630252959714
 2006	find-the-student-that-will-replace-the-chalk	找到需要补充粉笔的学生编号	biweekly-contest-54	T2	1546.585572192887
 2008	minimum-cost-to-change-the-final-value-of-expression	反转表达式值的最少操作次数	biweekly-contest-54	T4	2278.3456814747287
 2025	redistribute-characters-to-make-all-strings-equal	重新分配字符使所有字符串都相等	weekly-contest-245	T1	1473.1089230412588
-2026	merge-triplets-to-form-target-triplet	合并若干三元组以形成目标三元组	weekly-contest-245	T3	1628.3513691565288
+2026	merge-triplets-to-form-target-triplet	合并若干三元组以形成目标三元组	weekly-contest-245	T3	1628.7316035386411
 2027	maximum-number-of-removable-characters	可移除字符的最大数目	weekly-contest-245	T2	1761.6597764116143
-2028	the-earliest-and-latest-rounds-where-players-compete	最佳运动员的比拼回合	weekly-contest-245	T4	2230.5759336857122
+2028	the-earliest-and-latest-rounds-where-players-compete	最佳运动员的比拼回合	weekly-contest-245	T4	2232.294329263462
 2032	largest-odd-number-in-string	字符串中的最大奇数	weekly-contest-246	T1	1450.6283311028965
 2033	the-number-of-full-rounds-you-have-played	你完成的完整对局数	weekly-contest-246	T2	1599.8253822142108
-2034	minimum-absolute-difference-queries	查询差绝对值的最小值	weekly-contest-246	T4	1998.934728168515
-2035	count-sub-islands	统计子岛屿	weekly-contest-246	T3	1639.5153073793847
+2034	minimum-absolute-difference-queries	查询差绝对值的最小值	weekly-contest-246	T4	1995.6962848631235
+2035	count-sub-islands	统计子岛屿	weekly-contest-246	T3	1640.0743887916838
 2020	remove-one-element-to-make-the-array-strictly-increasing	删除一个元素使数组严格递增	biweekly-contest-55	T1	1531.8683980633184
-2021	remove-all-occurrences-of-a-substring	删除一个字符串中所有出现的给定子字符串	biweekly-contest-55	T2	1544.5815177817908
-2022	maximum-alternating-subsequence-sum	最大子序列交替和	biweekly-contest-55	T3	1701.2439082674352
-2023	design-movie-rental-system	设计电影租借系统	biweekly-contest-55	T4	2036.2720649413554
+2021	remove-all-occurrences-of-a-substring	删除一个字符串中所有出现的给定子字符串	biweekly-contest-55	T2	1544.2943310097303
+2022	maximum-alternating-subsequence-sum	最大子序列交替和	biweekly-contest-55	T3	1702.606892943162
+2023	design-movie-rental-system	设计电影租借系统	biweekly-contest-55	T4	2037.7562355191048
 1313	count-ways-to-build-rooms-in-an-ant-colony	统计为蚁群构筑房间的不同顺序	weekly-contest-247	T4	2274.6346437549937
 2042	maximum-product-difference-between-two-pairs	两个数对之间的最大乘积差	weekly-contest-247	T1	1444.7734519188325
-2043	cyclically-rotating-a-grid	循环轮转矩阵	weekly-contest-247	T2	1649.0039359289526
+2043	cyclically-rotating-a-grid	循环轮转矩阵	weekly-contest-247	T2	1651.3670017849443
 2044	number-of-wonderful-substrings	最美子字符串的数目	weekly-contest-247	T3	1987.4705408762102
-2048	build-array-from-permutation	基于排列构建数组	weekly-contest-248	T1	1438.5469022819268
-2049	eliminate-maximum-number-of-monsters	消灭怪物的最大数量	weekly-contest-248	T2	1542.2352300628065
+2048	build-array-from-permutation	基于排列构建数组	weekly-contest-248	T1	1438.7281598890918
+2049	eliminate-maximum-number-of-monsters	消灭怪物的最大数量	weekly-contest-248	T2	1541.9292956843226
 2050	count-good-numbers	统计好数字的数目	weekly-contest-248	T3	1647.7119969723415
 2051	longest-common-subpath	最长公共子路径	weekly-contest-248	T4	2279.3492179701652
 2037	count-square-sum-triples	统计平方和三元组的数目	biweekly-contest-56	T1	1500.3144811258044
-2038	nearest-exit-from-entrance-in-maze	迷宫中离入口最近的出口	biweekly-contest-56	T2	1655.5208430334503
+2038	nearest-exit-from-entrance-in-maze	迷宫中离入口最近的出口	biweekly-contest-56	T2	1656.5131500433406
 2039	sum-game	求和游戏	biweekly-contest-56	T3	1798.8146477574414
-2040	minimum-cost-to-reach-destination-in-time	规定时间内到达终点的最小花费	biweekly-contest-56	T4	2176.278864745087
-2058	concatenation-of-array	数组串联	weekly-contest-249	T1	1438.118748433114
-2059	unique-length-3-palindromic-subsequences	长度为 3 的不同回文子序列	weekly-contest-249	T2	1550.960426812127
+2040	minimum-cost-to-reach-destination-in-time	规定时间内到达终点的最小花费	biweekly-contest-56	T4	2178.899572833936
+2058	concatenation-of-array	数组串联	weekly-contest-249	T1	1438.5089292909943
+2059	unique-length-3-palindromic-subsequences	长度为 3 的不同回文子序列	weekly-contest-249	T2	1551.1991418981074
 2060	merge-bsts-to-create-single-bst	合并多棵二叉搜索树	weekly-contest-249	T4	2203.7835041854587
 2061	painting-a-grid-with-three-different-colors	用三种不同颜色为网格涂色	weekly-contest-249	T3	1937.1799222003553
 1264	maximum-number-of-words-you-can-type	可以输入的最大单词数	weekly-contest-250	T1	1443.7683381391316
 2066	add-minimum-number-of-rungs	新增的最少台阶数	weekly-contest-250	T2	1460.6342768961445
-2067	maximum-number-of-points-with-cost	扣分后的最大得分	weekly-contest-250	T3	1898.9986003836368
-2068	maximum-genetic-difference-query	查询最大基因差	weekly-contest-250	T4	2277.270610588361
-1305	number-of-visible-people-in-a-queue	队列中可以看到的人数	biweekly-contest-57	T4	1898.3654545483937
-2053	check-if-all-characters-have-equal-number-of-occurrences	检查是否所有字符出现次数相同	biweekly-contest-57	T1	1483.1993857137586
+2067	maximum-number-of-points-with-cost	扣分后的最大得分	weekly-contest-250	T3	1899.7295205932542
+2068	maximum-genetic-difference-query	查询最大基因差	weekly-contest-250	T4	2279.4442467438594
+1305	number-of-visible-people-in-a-queue	队列中可以看到的人数	biweekly-contest-57	T4	1898.398060878911
+2053	check-if-all-characters-have-equal-number-of-occurrences	检查是否所有字符出现次数相同	biweekly-contest-57	T1	1483.394376521509
 2054	the-number-of-the-smallest-unoccupied-chair	最小未被占据椅子的编号	biweekly-contest-57	T2	1662.4596952080628
-2055	describe-the-painting	描述绘画结果	biweekly-contest-57	T3	1833.5143020722303
-2076	sum-of-digits-of-string-after-convert	字符串转化后的各位数字之和	weekly-contest-251	T1	1444.6065790803195
+2055	describe-the-painting	描述绘画结果	biweekly-contest-57	T3	1834.9296353549812
+2076	sum-of-digits-of-string-after-convert	字符串转化后的各位数字之和	weekly-contest-251	T1	1444.7452858961772
 2077	largest-number-after-mutating-substring	子字符串突变后可能得到的最大整数	weekly-contest-251	T2	1502.3329094631956
-2078	maximum-compatibility-score-sum	最大兼容性评分和	weekly-contest-251	T3	1641.4351762352278
+2078	maximum-compatibility-score-sum	最大兼容性评分和	weekly-contest-251	T3	1643.3640343679765
 2079	delete-duplicate-folders-in-system	删除系统中的重复文件夹	weekly-contest-251	T4	2262.1837466685824
-1295	minimum-garden-perimeter-to-collect-enough-apples	收集足够苹果的最小花园周长	weekly-contest-252	T3	1600.8217341664729
-2083	three-divisors	三除数	weekly-contest-252	T1	1438.178881153924
+1295	minimum-garden-perimeter-to-collect-enough-apples	收集足够苹果的最小花园周长	weekly-contest-252	T3	1601.5833248662468
+2083	three-divisors	三除数	weekly-contest-252	T1	1438.4570353907857
 2084	maximum-number-of-weeks-for-which-you-can-work	你可以工作的最大周数	weekly-contest-252	T2	1582.4879292637888
 2086	count-number-of-special-subsequences	统计特殊子序列的数目	weekly-contest-252	T4	1897.6908410752649
-1302	delete-characters-to-make-fancy-string	删除字符使字符串变好	biweekly-contest-58	T1	1502.41019680713
+1302	delete-characters-to-make-fancy-string	删除字符使字符串变好	biweekly-contest-58	T1	1502.7216001576367
 1336	maximum-product-of-the-length-of-two-palindromic-substrings	两个回文子字符串长度的最大乘积	biweekly-contest-58	T4	2368.9349710522633
-2080	check-if-move-is-legal	检查操作是否合法	biweekly-contest-58	T2	1621.7881657731089
-2081	minimum-total-space-wasted-with-k-resizing-operations	K 次调整数组大小浪费的最小总空间	biweekly-contest-58	T3	2082.954556456859
-2093	check-if-string-is-a-prefix-of-array	检查字符串是否为数组前缀	weekly-contest-253	T1	1438.1086106021326
-2094	remove-stones-to-minimize-the-total	移除石子使总数最小	weekly-contest-253	T2	1521.0840839733964
+2080	check-if-move-is-legal	检查操作是否合法	biweekly-contest-58	T2	1622.1531225617334
+2081	minimum-total-space-wasted-with-k-resizing-operations	K 次调整数组大小浪费的最小总空间	biweekly-contest-58	T3	2083.8907530157703
+2093	check-if-string-is-a-prefix-of-array	检查字符串是否为数组前缀	weekly-contest-253	T1	1438.2932142065292
+2094	remove-stones-to-minimize-the-total	移除石子使总数最小	weekly-contest-253	T2	1521.4756118325383
 2095	minimum-number-of-swaps-to-make-the-string-balanced	使字符串平衡的最小交换次数	weekly-contest-253	T3	1615.347161004946
-2096	find-the-longest-valid-obstacle-course-at-each-position	找出到每个位置为止最长的有效障碍赛跑路线	weekly-contest-253	T4	1754.008832487425
-2085	array-with-elements-not-equal-to-average-of-neighbors	构造元素不等于两相邻元素平均值的数组	weekly-contest-254	T2	1562.0123724058021
+2096	find-the-longest-valid-obstacle-course-at-each-position	找出到每个位置为止最长的有效障碍赛跑路线	weekly-contest-253	T4	1753.2940185144503
+2085	array-with-elements-not-equal-to-average-of-neighbors	构造元素不等于两相邻元素平均值的数组	weekly-contest-254	T2	1561.5733385765475
 2099	number-of-strings-that-appear-as-substrings-in-word	作为子字符串出现在单词中的字符串数目	weekly-contest-254	T1	1451.9448750928161
 2100	minimum-non-zero-product-of-the-array-elements	数组元素的最小非零乘积	weekly-contest-254	T3	1753.0045513248874
-2101	last-day-where-you-can-still-cross	你能穿过矩阵的最后一天	weekly-contest-254	T4	1996.2505993543514
+2101	last-day-where-you-can-still-cross	你能穿过矩阵的最后一天	weekly-contest-254	T4	1995.1679145238631
 2088	minimum-time-to-type-word-using-special-typewriter	使用特殊打字机键入单词的最少时间	biweekly-contest-59	T1	1500.5728814411036
 2089	maximum-matrix-sum	最大方阵和	biweekly-contest-59	T2	1607.3432188423646
 2090	number-of-ways-to-arrive-at-destination	到达目的地的方案数	biweekly-contest-59	T3	1913.9629147759242
 2091	number-of-ways-to-separate-numbers	划分数字的方案数	biweekly-contest-59	T4	2458.463659627609
-2106	find-greatest-common-divisor-of-array	找出数组的最大公约数	weekly-contest-255	T1	1443.4041105755086
-2107	find-unique-binary-string	找出不同的二进制字符串	weekly-contest-255	T2	1488.915550865688
+2106	find-greatest-common-divisor-of-array	找出数组的最大公约数	weekly-contest-255	T1	1443.1903031748166
+2107	find-unique-binary-string	找出不同的二进制字符串	weekly-contest-255	T2	1488.8860388227952
 2108	minimize-the-difference-between-target-and-chosen-elements	最小化目标值与所选元素的差	weekly-contest-255	T3	1788.5926043006552
 2109	find-array-given-subset-sums	从子集的和还原数组	weekly-contest-255	T4	2445.616410754416
-2112	minimum-difference-between-highest-and-lowest-of-k-scores	学生分数的最小差值	weekly-contest-256	T1	1464.8394643242607
+2112	minimum-difference-between-highest-and-lowest-of-k-scores	学生分数的最小差值	weekly-contest-256	T1	1464.7763894047062
 2113	find-the-kth-largest-integer-in-the-array	找出数组中的第 K 大整数	weekly-contest-256	T2	1500.1602532177803
 2114	minimum-number-of-work-sessions-to-finish-the-tasks	完成任务的最少工作时间段	weekly-contest-256	T3	1921.5901627763742
-2115	number-of-unique-good-subsequences	不同的好子序列数目	weekly-contest-256	T4	2157.619568935556
-2102	find-the-middle-index-in-array	找到数组的中间位置	biweekly-contest-60	T1	1491.829854845121
+2115	number-of-unique-good-subsequences	不同的好子序列数目	weekly-contest-256	T4	2161.5687550910548
+2102	find-the-middle-index-in-array	找到数组的中间位置	biweekly-contest-60	T1	1491.3226634953955
 2103	find-all-groups-of-farmland	找到所有的农场组	biweekly-contest-60	T2	1599.3852877277234
-2104	operations-on-tree	树上的操作	biweekly-contest-60	T3	1766.0685026663791
+2104	operations-on-tree	树上的操作	biweekly-contest-60	T3	1767.485609041551
 2105	the-number-of-good-subsets	好子集的数目	biweekly-contest-60	T4	2232.896206931541
 2122	count-special-quadruplets	统计特殊四元组	weekly-contest-257	T1	1466.4703801718026
 2123	the-number-of-weak-characters-in-the-game	游戏中弱角色的数量	weekly-contest-257	T2	1743.576582507184
 2124	first-day-where-you-have-been-in-all-the-rooms	访问完所有房间的第一天	weekly-contest-257	T3	1953.459021585471
 2125	gcd-sort-of-an-array	数组的最大公因数排序	weekly-contest-257	T4	2225.3509541677668
-2128	reverse-prefix-of-word	反转单词前缀	weekly-contest-258	T1	1436.2440031025492
+2128	reverse-prefix-of-word	反转单词前缀	weekly-contest-258	T1	1436.7371353235646
 2129	number-of-pairs-of-interchangeable-rectangles	可互换矩形的组数	weekly-contest-258	T2	1502.2639976341156
 2130	maximum-product-of-the-length-of-two-palindromic-subsequences	两个回文子序列长度的最大乘积	weekly-contest-258	T3	1763.4910797523285
 2131	smallest-missing-genetic-value-in-each-subtree	每棵子树内缺失的最小基因值	weekly-contest-258	T4	2166.6141699651503
 2116	count-number-of-pairs-with-absolute-difference-k	差的绝对值为 K 的数对数目	biweekly-contest-61	T1	1492.550286099018
-2117	find-original-array-from-doubled-array	从双倍数组中还原原数组	biweekly-contest-61	T2	1630.3104228632683
-2118	maximum-earnings-from-taxi	出租车的最大盈利	biweekly-contest-61	T3	1806.088627249462
+2117	find-original-array-from-doubled-array	从双倍数组中还原原数组	biweekly-contest-61	T2	1630.5436162116857
+2118	maximum-earnings-from-taxi	出租车的最大盈利	biweekly-contest-61	T3	1808.516467977725
 2119	minimum-number-of-operations-to-make-array-continuous	使数组连续的最少操作数	biweekly-contest-61	T4	1907.7598322553174
 2137	final-value-of-variable-after-performing-operations	执行操作后的变量值	weekly-contest-259	T1	1452.9084076651109
-2138	sum-of-beauty-in-the-array	数组美丽值求和	weekly-contest-259	T2	1566.4403448236278
+2138	sum-of-beauty-in-the-array	数组美丽值求和	weekly-contest-259	T2	1565.9787586041375
 2139	detect-squares	检测正方形	weekly-contest-259	T3	1754.922417607072
 2140	longest-subsequence-repeated-k-times	重复 K 次的最长子序列	weekly-contest-259	T4	2299.104827149059
 2144	maximum-difference-between-increasing-elements	增量元素之间的最大差值	weekly-contest-260	T1	1444.1097795326125
-2145	grid-game	网格游戏	weekly-contest-260	T2	1640.353397778424
+2145	grid-game	网格游戏	weekly-contest-260	T2	1641.254352842801
 2146	check-if-word-can-be-placed-in-crossword	判断单词是否能放入填字游戏内	weekly-contest-260	T3	1808.9278534547864
-2147	the-score-of-students-solving-math-expression	解出数学表达式的学生分数	weekly-contest-260	T4	2322.482200863552
-2132	convert-1d-array-into-2d-array	将一维数组转变成二维数组	biweekly-contest-62	T1	1510.3952719611698
+2147	the-score-of-students-solving-math-expression	解出数学表达式的学生分数	weekly-contest-260	T4	2324.0854670190506
+2132	convert-1d-array-into-2d-array	将一维数组转变成二维数组	biweekly-contest-62	T1	1510.295800037003
 2133	number-of-pairs-of-strings-with-concatenation-equal-to-target	连接后等于目标字符串的字符串对	biweekly-contest-62	T2	1520.458708182299
 2134	maximize-the-confusion-of-an-exam	考试的最大困扰度	biweekly-contest-62	T3	1713.597447465016
-2135	maximum-number-of-ways-to-partition-an-array	分割数组的最多方案数	biweekly-contest-62	T4	2034.2609726376024
-2154	minimum-moves-to-convert-string	转换字符串的最少操作次数	weekly-contest-261	T1	1497.501260596301
-2155	find-missing-observations	找出缺失的观测数据	weekly-contest-261	T2	1525.7734832501235
-2156	stone-game-ix	石子游戏 IX	weekly-contest-261	T3	1989.3643815810922
+2135	maximum-number-of-ways-to-partition-an-array	分割数组的最多方案数	biweekly-contest-62	T4	2037.229313793101
+2154	minimum-moves-to-convert-string	转换字符串的最少操作次数	weekly-contest-261	T1	1497.019181871119
+2155	find-missing-observations	找出缺失的观测数据	weekly-contest-261	T2	1525.4660401609435
+2156	stone-game-ix	石子游戏 IX	weekly-contest-261	T3	1987.5396845994455
 2157	smallest-k-length-subsequence-with-occurrences-of-a-letter	含特定字母的最小子序列	weekly-contest-261	T4	2236.83638795869
-2159	two-out-of-three	至少在两个数组中出现的值	weekly-contest-262	T1	1462.5740887140605
+2159	two-out-of-three	至少在两个数组中出现的值	weekly-contest-262	T1	1462.1756812797148
 2160	minimum-operations-to-make-a-uni-value-grid	获取单值网格的最小操作数	weekly-contest-262	T2	1635.318247833197
-2161	stock-price-fluctuation	股票价格波动	weekly-contest-262	T3	1767.568127916961
-2162	partition-array-into-two-arrays-to-minimize-sum-difference	将数组分成两个数组并最小化数组和的差	weekly-contest-262	T4	2199.490303163859
-2148	minimum-number-of-moves-to-seat-everyone	使每位学生都有座位的最少移动次数	biweekly-contest-63	T1	1505.1006992140183
-2149	remove-colored-pieces-if-both-neighbors-are-the-same-color	如果相邻两个颜色均相同则删除当前颜色	biweekly-contest-63	T2	1569.6317878882287
+2161	stock-price-fluctuation	股票价格波动	weekly-contest-262	T3	1768.8635896161868
+2162	partition-array-into-two-arrays-to-minimize-sum-difference	将数组分成两个数组并最小化数组和的差	weekly-contest-262	T4	2195.8931861158667
+2148	minimum-number-of-moves-to-seat-everyone	使每位学生都有座位的最少移动次数	biweekly-contest-63	T1	1505.2530141500013
+2149	remove-colored-pieces-if-both-neighbors-are-the-same-color	如果相邻两个颜色均相同则删除当前颜色	biweekly-contest-63	T2	1569.1222906799912
 2150	kth-smallest-product-of-two-sorted-arrays	两个有序数组的第 K 小乘积	biweekly-contest-63	T4	2338.1743252914903
-2151	the-time-when-the-network-becomes-idle	网络空闲的时刻	biweekly-contest-63	T3	1805.2492282848052
+2151	the-time-when-the-network-becomes-idle	网络空闲的时刻	biweekly-contest-63	T3	1805.9380157758437
 2168	check-if-numbers-are-ascending-in-a-sentence	检查句子中的数字是否递增	weekly-contest-263	T1	1451.856239624387
 2169	simple-bank-system	简易银行系统	weekly-contest-263	T2	1479.1525606848663
-2170	count-number-of-maximum-bitwise-or-subsets	统计按位或能得到最大值的子集数目	weekly-contest-263	T3	1568.5450021342563
+2170	count-number-of-maximum-bitwise-or-subsets	统计按位或能得到最大值的子集数目	weekly-contest-263	T3	1567.4711473784935
 2171	second-minimum-time-to-reach-destination	到达目的地的第二短时间	weekly-contest-263	T4	2010.869653306721
-2173	number-of-valid-words-in-a-sentence	句子中的有效单词数	weekly-contest-264	T1	1498.0904343890936
-2174	next-greater-numerically-balanced-number	下一个更大的数值平衡数	weekly-contest-264	T2	1577.379468277825
+2173	number-of-valid-words-in-a-sentence	句子中的有效单词数	weekly-contest-264	T1	1497.9837003374096
+2174	next-greater-numerically-balanced-number	下一个更大的数值平衡数	weekly-contest-264	T2	1575.1223665008215
 2175	count-nodes-with-the-highest-score	统计最高分的节点数目	weekly-contest-264	T3	1810.0666014555163
 2176	parallel-courses-iii	并行课程 III	weekly-contest-264	T4	1959.521238732219
-2163	kth-distinct-string-in-an-array	数组中第 K 个独一无二的字符串	biweekly-contest-64	T1	1485.8780897165648
-2164	two-best-non-overlapping-events	两个最好的不重叠活动	biweekly-contest-64	T2	1845.707250110623
+2163	kth-distinct-string-in-an-array	数组中第 K 个独一无二的字符串	biweekly-contest-64	T1	1485.9676270187188
+2164	two-best-non-overlapping-events	两个最好的不重叠活动	biweekly-contest-64	T2	1845.8832519044172
 2165	plates-between-candles	蜡烛之间的盘子	biweekly-contest-64	T3	1791.9921822050856
-2166	number-of-valid-move-combinations-on-chessboard	棋盘上有效移动组合的数目	biweekly-contest-64	T4	2299.8421945321625
+2166	number-of-valid-move-combinations-on-chessboard	棋盘上有效移动组合的数目	biweekly-contest-64	T4	2301.095177609912
 2181	smallest-index-with-equal-value	值相等的最小索引	weekly-contest-265	T1	1441.0141927694885
-2182	find-the-minimum-and-maximum-number-of-nodes-between-critical-points	找出临界点之间的最小和最大距离	weekly-contest-265	T2	1474.8591617160462
+2182	find-the-minimum-and-maximum-number-of-nodes-between-critical-points	找出临界点之间的最小和最大距离	weekly-contest-265	T2	1474.6152408186076
 2183	minimum-operations-to-convert-number	转化数字的最小运算数	weekly-contest-265	T3	1730.8092205895587
 2184	check-if-an-original-string-exists-given-two-encoded-strings	同源字符串检测	weekly-contest-265	T4	2447.4195137007105
-2186	count-vowel-substrings-of-a-string	统计字符串中的元音子字符串	weekly-contest-266	T1	1518.9982613320235
-2187	vowels-of-all-substrings	所有子字符串中的元音	weekly-contest-266	T2	1639.0141763023075
-2188	minimized-maximum-of-products-distributed-to-any-store	分配给商店的最多商品的最小值	weekly-contest-266	T3	1776.039348693003
-2189	maximum-path-quality-of-a-graph	最大化一张图中的路径价值	weekly-contest-266	T4	1987.4705408762102
-2177	check-whether-two-strings-are-almost-equivalent	检查两个字符串是否几乎相等	biweekly-contest-65	T1	1496.8841536342566
+2186	count-vowel-substrings-of-a-string	统计字符串中的元音子字符串	weekly-contest-266	T1	1519.6133789200205
+2187	vowels-of-all-substrings	所有子字符串中的元音	weekly-contest-266	T2	1639.270201809124
+2188	minimized-maximum-of-products-distributed-to-any-store	分配给商店的最多商品的最小值	weekly-contest-266	T3	1775.487312376895
+2189	maximum-path-quality-of-a-graph	最大化一张图中的路径价值	weekly-contest-266	T4	1988.5292638314017
+2177	check-whether-two-strings-are-almost-equivalent	检查两个字符串是否几乎相等	biweekly-contest-65	T1	1496.9140335203806
 2178	walking-robot-simulation-ii	模拟行走机器人 II	biweekly-contest-65	T2	1754.2381032688363
-2179	most-beautiful-item-for-each-query	每一个查询的最大美丽值	biweekly-contest-65	T3	1739.0048446602184
-2180	maximum-number-of-tasks-you-can-assign	你可以安排的最多任务数目	biweekly-contest-65	T4	2273.5150820848453
-2195	time-needed-to-buy-tickets	买票需要的时间	weekly-contest-267	T1	1463.3780643180696
-2196	reverse-nodes-in-even-length-groups	反转偶数长度组的节点	weekly-contest-267	T2	1614.9823271498633
-2197	decode-the-slanted-ciphertext	解码斜向换位密码	weekly-contest-267	T3	1654.5303046539682
+2179	most-beautiful-item-for-each-query	每一个查询的最大美丽值	biweekly-contest-65	T3	1739.1798730563296
+2180	maximum-number-of-tasks-you-can-assign	你可以安排的最多任务数目	biweekly-contest-65	T4	2274.846525162595
+2195	time-needed-to-buy-tickets	买票需要的时间	weekly-contest-267	T1	1463.1791494392544
+2196	reverse-nodes-in-even-length-groups	反转偶数长度组的节点	weekly-contest-267	T2	1617.0838760935947
+2197	decode-the-slanted-ciphertext	解码斜向换位密码	weekly-contest-267	T3	1655.6197246847616
 2198	process-restricted-friend-requests	处理含限制条件的好友请求	weekly-contest-267	T4	1939.9330271974222
 1294	range-frequency-queries	区间内查询数字的频率	weekly-contest-268	T3	1694.4932774878089
-1310	watering-plants	给植物浇水	weekly-contest-268	T2	1463.240868013891
-2199	two-furthest-houses-with-different-colors	两栋颜色不同且距离最远的房子	weekly-contest-268	T1	1444.2707505835267
-2202	sum-of-k-mirror-numbers	k 镜像数字的和	weekly-contest-268	T4	1985.7733537610015
+1310	watering-plants	给植物浇水	weekly-contest-268	T2	1463.1174308646177
+2199	two-furthest-houses-with-different-colors	两栋颜色不同且距离最远的房子	weekly-contest-268	T1	1444.2025395359733
+2202	sum-of-k-mirror-numbers	k 镜像数字的和	weekly-contest-268	T4	1985.6700273213578
 2190	count-common-words-with-one-occurrence	统计出现过一次的公共字符串	biweekly-contest-66	T1	1508.1876391828055
-2191	minimum-number-of-food-buckets-to-feed-the-hamsters	从房屋收集雨水需要的最少水桶数	biweekly-contest-66	T2	1639.7457784109552
+2191	minimum-number-of-food-buckets-to-feed-the-hamsters	从房屋收集雨水需要的最少水桶数	biweekly-contest-66	T2	1640.242261691706
 2192	minimum-cost-homecoming-of-a-robot-in-a-grid	网格图中机器人回家的最小代价	biweekly-contest-66	T3	1677.3986251628817
 2193	count-fertile-pyramids-in-a-land	统计农场中肥沃金字塔的数目	biweekly-contest-66	T4	1906.1507296635932
-2210	find-target-indices-after-sorting-array	找出数组排序后的目标下标	weekly-contest-269	T1	1438.779762214813
-2211	k-radius-subarray-averages	半径为 k 的子数组平均值	weekly-contest-269	T2	1500.438618145893
-2212	removing-minimum-and-maximum-from-array	从数组中移除最大值和最小值	weekly-contest-269	T3	1502.0067404911
-2213	find-all-people-with-secret	找出知晓秘密的所有专家	weekly-contest-269	T4	1874.5291791386544
-2201	valid-arrangement-of-pairs	合法重新排列数对	weekly-contest-270	T4	2298.105619925863
-2215	finding-3-digit-even-numbers	找出 3 位偶数	weekly-contest-270	T1	1500.079691016175
+2210	find-target-indices-after-sorting-array	找出数组排序后的目标下标	weekly-contest-269	T1	1438.9641070996881
+2211	k-radius-subarray-averages	半径为 k 的子数组平均值	weekly-contest-269	T2	1500.5238949447848
+2212	removing-minimum-and-maximum-from-array	从数组中移除最大值和最小值	weekly-contest-269	T3	1503.2253893189359
+2213	find-all-people-with-secret	找出知晓秘密的所有专家	weekly-contest-269	T4	1876.2458811422066
+2201	valid-arrangement-of-pairs	合法重新排列数对	weekly-contest-270	T4	2300.043751597508
+2215	finding-3-digit-even-numbers	找出 3 位偶数	weekly-contest-270	T1	1500.2635788682055
 2216	delete-the-middle-node-of-a-linked-list	删除链表的中间节点	weekly-contest-270	T2	1467.337107810043
-2217	step-by-step-directions-from-a-binary-tree-node-to-another	从二叉树一个节点到另一个节点每一步的方向	weekly-contest-270	T3	1695.169237366978
-2204	find-subsequence-of-length-k-with-the-largest-sum	找到和最大的长度为 K 的子序列	biweekly-contest-67	T1	1541.7120287454904
-2205	find-good-days-to-rob-the-bank	适合打劫银行的日子	biweekly-contest-67	T2	1692.1981246871728
-2206	detonate-the-maximum-bombs	引爆最多的炸弹	biweekly-contest-67	T3	1790.8406449133315
+2217	step-by-step-directions-from-a-binary-tree-node-to-another	从二叉树一个节点到另一个节点每一步的方向	weekly-contest-270	T3	1694.5255711732627
+2204	find-subsequence-of-length-k-with-the-largest-sum	找到和最大的长度为 K 的子序列	biweekly-contest-67	T1	1540.810263128245
+2205	find-good-days-to-rob-the-bank	适合打劫银行的日子	biweekly-contest-67	T2	1693.2825691521657
+2206	detonate-the-maximum-bombs	引爆最多的炸弹	biweekly-contest-67	T3	1791.4201695884503
 2207	sequentially-ordinal-rank-tracker	序列顺序查询	biweekly-contest-67	T4	2008.181913870283
-2226	rings-and-rods	环和杆	weekly-contest-271	T1	1460.360464727782
-2227	sum-of-subarray-ranges	子数组范围和	weekly-contest-271	T2	1540.9457167801336
-2228	watering-plants-ii	给植物浇水 II	weekly-contest-271	T3	1534.3542951465915
-2229	maximum-fruits-harvested-after-at-most-k-steps	摘水果	weekly-contest-271	T4	1902.7037041620367
-2231	find-first-palindromic-string-in-the-array	找出数组中的第一个回文字符串	weekly-contest-272	T1	1440.5737173711102
+2226	rings-and-rods	环和杆	weekly-contest-271	T1	1460.0807155604955
+2227	sum-of-subarray-ranges	子数组范围和	weekly-contest-271	T2	1540.8698898522152
+2228	watering-plants-ii	给植物浇水 II	weekly-contest-271	T3	1535.1097108455679
+2229	maximum-fruits-harvested-after-at-most-k-steps	摘水果	weekly-contest-271	T4	1904.0478205115487
+2231	find-first-palindromic-string-in-the-array	找出数组中的第一个回文字符串	weekly-contest-272	T1	1441.1800289688456
 2232	adding-spaces-to-a-string	向字符串添加空格	weekly-contest-272	T2	1464.7645304431103
-2233	number-of-smooth-descent-periods-of-a-stock	股票平滑下跌阶段的数目	weekly-contest-272	T3	1499.7358198673396
+2233	number-of-smooth-descent-periods-of-a-stock	股票平滑下跌阶段的数目	weekly-contest-272	T3	1499.6295306541401
 2234	minimum-operations-to-make-the-array-k-increasing	使数组 K 递增的最少操作次数	weekly-contest-272	T4	1782.322440529114
-2219	maximum-number-of-words-found-in-sentences	句子中的最多单词数	biweekly-contest-68	T1	1507.747873755802
+2219	maximum-number-of-words-found-in-sentences	句子中的最多单词数	biweekly-contest-68	T1	1508.2104563382602
 2220	find-all-possible-recipes-from-given-supplies	从给定原材料中找到所有可以做出的菜	biweekly-contest-68	T2	1652.4375388570793
 2221	check-if-a-parentheses-string-can-be-valid	判断一个括号字符串是否有效	biweekly-contest-68	T3	1821.7938307057625
-2222	abbreviating-the-product-of-a-range	一个区间内所有数乘积的缩写	biweekly-contest-68	T4	2177.5536958281436
-2238	a-number-after-a-double-reversal	反转两次的数字	weekly-contest-273	T1	1444.0240359370418
-2239	execution-of-all-suffix-instructions-staying-in-a-grid	执行所有后缀指令	weekly-contest-273	T2	1485.301420205089
+2222	abbreviating-the-product-of-a-range	一个区间内所有数乘积的缩写	biweekly-contest-68	T4	2181.183266983642
+2238	a-number-after-a-double-reversal	反转两次的数字	weekly-contest-273	T1	1443.8862753878357
+2239	execution-of-all-suffix-instructions-staying-in-a-grid	执行所有后缀指令	weekly-contest-273	T2	1485.8780897165648
 2240	intervals-between-identical-elements	相同元素的间隔之和	weekly-contest-273	T3	1707.66763287023
 2241	recover-the-original-array	还原原数组	weekly-contest-273	T4	1960.0048614181364
 2243	check-if-all-as-appears-before-all-bs	检查是否所有 A 都在 B 之前	weekly-contest-274	T1	1451.9448750928161
-2244	number-of-laser-beams-in-a-bank	银行中的激光束数量	weekly-contest-274	T2	1471.6286238201887
-2245	destroying-asteroids	摧毁小行星	weekly-contest-274	T3	1485.4813577336572
-2246	maximum-employees-to-be-invited-to-a-meeting	参加会议的最多员工数	weekly-contest-274	T4	2159.7124307510594
-2200	stamping-the-grid	用邮票贴满网格图	biweekly-contest-69	T4	2126.287557514007
-2235	capitalize-the-title	将标题首字母大写	biweekly-contest-69	T1	1480.5485918153665
-2236	maximum-twin-sum-of-a-linked-list	链表最大孪生和	biweekly-contest-69	T2	1500.8870721340038
-2237	longest-palindrome-by-concatenating-two-letter-words	连接两字母单词得到的最长回文串	biweekly-contest-69	T3	1610.3306006704183
-2254	check-if-every-row-and-column-contains-all-numbers	检查是否每一行每一列都包含全部整数	weekly-contest-275	T1	1454.4874290051443
-2255	minimum-swaps-to-group-all-1s-together-ii	最少交换次数来组合所有的 1 II	weekly-contest-275	T2	1655.8248885917392
-2256	count-words-obtained-after-adding-a-letter	统计追加字母可以获得的单词数	weekly-contest-275	T3	1742.0701793582505
+2244	number-of-laser-beams-in-a-bank	银行中的激光束数量	weekly-contest-274	T2	1470.3087447735124
+2245	destroying-asteroids	摧毁小行星	weekly-contest-274	T3	1485.7601706647674
+2246	maximum-employees-to-be-invited-to-a-meeting	参加会议的最多员工数	weekly-contest-274	T4	2161.57649387721
+2200	stamping-the-grid	用邮票贴满网格图	biweekly-contest-69	T4	2126.9546791704042
+2235	capitalize-the-title	将标题首字母大写	biweekly-contest-69	T1	1481.1169476158148
+2236	maximum-twin-sum-of-a-linked-list	链表最大孪生和	biweekly-contest-69	T2	1501.2243957328928
+2237	longest-palindrome-by-concatenating-two-letter-words	连接两字母单词得到的最长回文串	biweekly-contest-69	T3	1611.06375450715
+2254	check-if-every-row-and-column-contains-all-numbers	检查是否每一行每一列都包含全部整数	weekly-contest-275	T1	1454.284519660421
+2255	minimum-swaps-to-group-all-1s-together-ii	最少交换次数来组合所有的 1 II	weekly-contest-275	T2	1656.7440026579059
+2256	count-words-obtained-after-adding-a-letter	统计追加字母可以获得的单词数	weekly-contest-275	T3	1742.3648164655867
 2257	earliest-possible-day-of-full-bloom	全部开花的最早一天	weekly-contest-275	T4	1847.3696626364028
-1303	minimum-moves-to-reach-target-score	得到目标值的最少行动次数	weekly-contest-276	T2	1488.0917156828373
+1303	minimum-moves-to-reach-target-score	得到目标值的最少行动次数	weekly-contest-276	T2	1488.0879877975315
 2260	divide-a-string-into-groups-of-size-k	将字符串拆分为若干长度为 k 的组	weekly-contest-276	T1	1443.8975821917638
-2262	solving-questions-with-brainpower	解决智力问题	weekly-contest-276	T3	1672.8064697023965
+2262	solving-questions-with-brainpower	解决智力问题	weekly-contest-276	T3	1672.8199990219534
 2263	maximum-running-time-of-n-computers	同时运行 N 台电脑的最长时间	weekly-contest-276	T4	1957.0862024025946
-2248	minimum-cost-of-buying-candies-with-discount	打折购买糖果的最小开销	biweekly-contest-70	T1	1465.4961047680704
-2249	count-the-hidden-sequences	统计隐藏数组数目	biweekly-contest-70	T2	1563.9298354516854
+2248	minimum-cost-of-buying-candies-with-discount	打折购买糖果的最小开销	biweekly-contest-70	T1	1465.1040139041643
+2249	count-the-hidden-sequences	统计隐藏数组数目	biweekly-contest-70	T2	1563.7909905454983
 2250	k-highest-ranked-items-within-a-price-range	价格范围内最高排名的 K 样物品	biweekly-contest-70	T3	1760.0690698848102
-2251	number-of-ways-to-divide-a-long-corridor	分隔长廊的方案数	biweekly-contest-70	T4	1753.0045513248874
+2251	number-of-ways-to-divide-a-long-corridor	分隔长廊的方案数	biweekly-contest-70	T4	1754.2381032688363
 2269	count-elements-with-strictly-smaller-and-greater-elements	元素计数	weekly-contest-277	T1	1449.3932062137183
-2270	find-all-lonely-numbers-in-the-array	找出数组中的所有孤独数字	weekly-contest-277	T3	1475.473368150499
-2271	rearrange-array-elements-by-sign	按符号重排数组	weekly-contest-277	T2	1460.0008932775422
-2272	maximum-good-people-based-on-statements	基于陈述统计最多好人数	weekly-contest-277	T4	1806.3702568680503
-2261	all-divisions-with-the-highest-score-of-a-binary-array	分组得分最高的所有下标	weekly-contest-278	T2	1508.7080330816548
-2274	keep-multiplying-found-values-by-two	将找到的值乘以 2	weekly-contest-278	T1	1453.8074421113915
-2275	find-substring-with-given-hash-value	查找给定哈希值的子串	weekly-contest-278	T3	1767.4039107933354
+2270	find-all-lonely-numbers-in-the-array	找出数组中的所有孤独数字	weekly-contest-277	T3	1475.1525375986625
+2271	rearrange-array-elements-by-sign	按符号重排数组	weekly-contest-277	T2	1459.4929533671661
+2272	maximum-good-people-based-on-statements	基于陈述统计最多好人数	weekly-contest-277	T4	1807.162434894878
+2261	all-divisions-with-the-highest-score-of-a-binary-array	分组得分最高的所有下标	weekly-contest-278	T2	1508.9835764141626
+2274	keep-multiplying-found-values-by-two	将找到的值乘以 2	weekly-contest-278	T1	1453.4728006224655
+2275	find-substring-with-given-hash-value	查找给定哈希值的子串	weekly-contest-278	T3	1766.8727516134927
 2276	groups-of-strings	字符串分组	weekly-contest-278	T4	2207.410434124958
-2264	minimum-sum-of-four-digit-number-after-splitting-digits	拆分数位后四位数字的最小和	biweekly-contest-71	T1	1506.7203087854875
-2265	partition-array-according-to-given-pivot	根据给定数字划分数组	biweekly-contest-71	T2	1520.8862575360079
+2264	minimum-sum-of-four-digit-number-after-splitting-digits	拆分数位后四位数字的最小和	biweekly-contest-71	T1	1506.8615764776043
+2265	partition-array-according-to-given-pivot	根据给定数字划分数组	biweekly-contest-71	T2	1520.6135279488335
 2266	minimum-cost-to-set-cooking-time	设置时间的最少代价	biweekly-contest-71	T3	1709.7701978288978
-2267	minimum-difference-in-sums-after-removal-of-elements	删除元素后和的最小差值	biweekly-contest-71	T4	2005.4924912201573
-2283	sort-even-and-odd-indices-independently	对奇偶下标分别排序	weekly-contest-279	T1	1470.0310980841946
-2284	smallest-value-of-the-rearranged-number	重排数字的最小值	weekly-contest-279	T2	1505.667020289722
-2285	design-bitset	设计位集	weekly-contest-279	T3	1706.9097246579458
+2267	minimum-difference-in-sums-after-removal-of-elements	删除元素后和的最小差值	biweekly-contest-71	T4	2006.1247173903523
+2283	sort-even-and-odd-indices-independently	对奇偶下标分别排序	weekly-contest-279	T1	1469.582546540439
+2284	smallest-value-of-the-rearranged-number	重排数字的最小值	weekly-contest-279	T2	1505.572411801181
+2285	design-bitset	设计位集	weekly-contest-279	T3	1706.8728346958692
 2286	minimum-time-to-remove-all-cars-containing-illegal-goods	移除所有载有违禁货物车厢所需的最少时间	weekly-contest-279	T4	2021.3236765070515
-2288	count-operations-to-obtain-zero	得到 0 的操作数	weekly-contest-280	T1	1429.0377947226236
-2289	minimum-operations-to-make-the-array-alternating	使数组变成交替数组的最少操作数	weekly-contest-280	T2	1648.2874898466566
-2290	removing-minimum-number-of-magic-beans	拿出最少数目的魔法豆	weekly-contest-280	T3	1666.8675279260956
+2288	count-operations-to-obtain-zero	得到 0 的操作数	weekly-contest-280	T1	1428.6026647226238
+2289	minimum-operations-to-make-the-array-alternating	使数组变成交替数组的最少操作数	weekly-contest-280	T2	1648.3015401408345
+2290	removing-minimum-number-of-magic-beans	拿出最少数目的魔法豆	weekly-contest-280	T3	1665.9620994049556
 2291	maximum-and-sum-of-array	数组的最大与和	weekly-contest-280	T4	2149.5439970041707
-2277	count-equal-and-divisible-pairs-in-an-array	统计数组中相等且可以被整除的数对	biweekly-contest-72	T1	1463.6815064561738
-2278	find-three-consecutive-integers-that-sum-to-a-given-number	找到和为给定整数的三个连续整数	biweekly-contest-72	T2	1469.3654013093576
-2279	maximum-split-of-positive-even-integers	拆分成最多数目的正偶数之和	biweekly-contest-72	T3	1548.3923491047485
-2280	count-good-triplets-in-an-array	统计数组中好三元组数目	biweekly-contest-72	T4	2022.6816535528562
-2298	count-integers-with-even-digit-sum	统计各位数字之和为偶数的整数个数	weekly-contest-281	T1	1438.697363278115
-2299	merge-nodes-in-between-zeros	合并零之间的节点	weekly-contest-281	T2	1463.9086056513097
+2277	count-equal-and-divisible-pairs-in-an-array	统计数组中相等且可以被整除的数对	biweekly-contest-72	T1	1463.380099844842
+2278	find-three-consecutive-integers-that-sum-to-a-given-number	找到和为给定整数的三个连续整数	biweekly-contest-72	T2	1469.1523169755549
+2279	maximum-split-of-positive-even-integers	拆分成最多数目的正偶数之和	biweekly-contest-72	T3	1547.5730632462294
+2280	count-good-triplets-in-an-array	统计数组中好三元组数目	biweekly-contest-72	T4	2023.397894311047
+2298	count-integers-with-even-digit-sum	统计各位数字之和为偶数的整数个数	weekly-contest-281	T1	1439.1347276902245
+2299	merge-nodes-in-between-zeros	合并零之间的节点	weekly-contest-281	T2	1463.769968173337
 2300	construct-string-with-repeat-limit	构造限制重复的字符串	weekly-contest-281	T3	1614.5030511278171
-2301	count-array-pairs-divisible-by-k	统计可以被 K 整除的下标对数目	weekly-contest-281	T4	1960.6602767768743
-2292	counting-words-with-a-given-prefix	统计包含给定前缀的字符串	weekly-contest-282	T1	1420.4810354781232
-2293	minimum-number-of-steps-to-make-two-strings-anagram-ii	使两字符串互为字母异位词的最少步骤数	weekly-contest-282	T2	1444.310593718023
-2294	minimum-time-to-complete-trips	完成旅途的最少时间	weekly-contest-282	T3	1629.5458469591188
-2295	minimum-time-to-finish-the-race	完成比赛的最少时间	weekly-contest-282	T4	2029.2332490849453
+2301	count-array-pairs-divisible-by-k	统计可以被 K 整除的下标对数目	weekly-contest-281	T4	1960.6880722721112
+2292	counting-words-with-a-given-prefix	统计包含给定前缀的字符串	weekly-contest-282	T1	1420.132432115117
+2293	minimum-number-of-steps-to-make-two-strings-anagram-ii	使两字符串互为字母异位词的最少步骤数	weekly-contest-282	T2	1444.1297703807907
+2294	minimum-time-to-complete-trips	完成旅途的最少时间	weekly-contest-282	T3	1629.0816116288538
+2295	minimum-time-to-finish-the-race	完成比赛的最少时间	weekly-contest-282	T4	2030.985267956379
 1333	sort-the-jumbled-numbers	将杂乱无章的数字排序	biweekly-contest-73	T2	1549.411444580845
-1356	minimum-number-of-moves-to-make-palindrome	得到回文串的最少操作次数	biweekly-contest-73	T4	1882.5902249056815
-1431	all-ancestors-of-a-node-in-a-directed-acyclic-graph	有向无环图中一个节点的所有祖先	biweekly-contest-73	T3	1735.1834009112295
-2312	most-frequent-number-following-key-in-an-array	数组中紧跟 key 之后出现最频繁的数字	biweekly-contest-73	T1	1463.0278548751608
-2304	cells-in-a-range-on-an-excel-sheet	Excel 表中某个范围内的单元格	weekly-contest-283	T1	1431.217254874201
-2305	append-k-integers-with-minimal-sum	向数组中追加 K 个整数	weekly-contest-283	T2	1582.1917817796964
-2306	create-binary-tree-from-descriptions	根据描述创建二叉树	weekly-contest-283	T3	1602.6182007732164
+1356	minimum-number-of-moves-to-make-palindrome	得到回文串的最少操作次数	biweekly-contest-73	T4	1883.9752554834308
+1431	all-ancestors-of-a-node-in-a-directed-acyclic-graph	有向无环图中一个节点的所有祖先	biweekly-contest-73	T3	1734.8434366356823
+2312	most-frequent-number-following-key-in-an-array	数组中紧跟 key 之后出现最频繁的数字	biweekly-contest-73	T1	1462.3900883150518
+2304	cells-in-a-range-on-an-excel-sheet	Excel 表中某个范围内的单元格	weekly-contest-283	T1	1431.605045995167
+2305	append-k-integers-with-minimal-sum	向数组中追加 K 个整数	weekly-contest-283	T2	1582.0060888000721
+2306	create-binary-tree-from-descriptions	根据描述创建二叉树	weekly-contest-283	T3	1602.489258988191
 2307	replace-non-coprime-numbers-in-array	替换数组中的非互质数	weekly-contest-283	T4	1860.4152425004875
-1312	count-artifacts-that-can-be-extracted	统计可以提取的工件	weekly-contest-284	T2	1517.3613940455741
+1312	count-artifacts-that-can-be-extracted	统计可以提取的工件	weekly-contest-284	T2	1517.2723336616036
 1346	maximize-the-topmost-element-after-k-moves	K 次操作后最大化顶端元素	weekly-contest-284	T3	1586.767547399471
-2320	find-all-k-distant-indices-in-an-array	找出数组中的所有 K 近邻下标	weekly-contest-284	T1	1426.8713854985367
-2321	minimum-weighted-subgraph-with-the-required-paths	得到要求路径的最小带权子图	weekly-contest-284	T4	2070.4523452997355
-2308	divide-array-into-equal-pairs	将数组划分成相等数对	biweekly-contest-74	T1	1438.3804429483696
-2309	maximize-number-of-subsequences-in-a-string	字符串中最多数目的子字符串	biweekly-contest-74	T2	1554.813945025591
-2310	minimum-operations-to-halve-array-sum	将数组和减半的最少操作次数	biweekly-contest-74	T3	1584.3363801460011
-2311	minimum-white-tiles-after-covering-with-carpets	用地毯覆盖后的最少白色砖块	biweekly-contest-74	T4	1967.3627272482
-2316	count-hills-and-valleys-in-an-array	统计数组中峰和谷的数量	weekly-contest-285	T1	1435.0112942469007
-2317	count-collisions-on-a-road	统计道路上的碰撞次数	weekly-contest-285	T2	1521.5831178358653
+2320	find-all-k-distant-indices-in-an-array	找出数组中的所有 K 近邻下标	weekly-contest-284	T1	1427.0506220558782
+2321	minimum-weighted-subgraph-with-the-required-paths	得到要求路径的最小带权子图	weekly-contest-284	T4	2072.0465799802405
+2308	divide-array-into-equal-pairs	将数组划分成相等数对	biweekly-contest-74	T1	1438.864443737295
+2309	maximize-number-of-subsequences-in-a-string	字符串中最多数目的子字符串	biweekly-contest-74	T2	1554.7359045507312
+2310	minimum-operations-to-halve-array-sum	将数组和减半的最少操作次数	biweekly-contest-74	T3	1584.6970000261153
+2311	minimum-white-tiles-after-covering-with-carpets	用地毯覆盖后的最少白色砖块	biweekly-contest-74	T4	1967.927833253375
+2316	count-hills-and-valleys-in-an-array	统计数组中峰和谷的数量	weekly-contest-285	T1	1435.104259611002
+2317	count-collisions-on-a-road	统计道路上的碰撞次数	weekly-contest-285	T2	1521.4518709152621
 2318	maximum-points-in-an-archery-competition	射箭比赛中的最大得分	weekly-contest-285	T3	1714.2802584174867
-2319	longest-substring-of-one-repeating-character	由单个字符重复的最长子字符串	weekly-contest-285	T4	2224.622833667488
-1355	minimum-deletions-to-make-array-beautiful	美化数组的最少删除数	weekly-contest-286	T2	1508.005510481075
-1375	find-palindrome-with-fixed-length	找到指定长度的回文数	weekly-contest-286	T3	1638.824272953169
-1392	find-the-difference-of-two-arrays	找出两数组的不同	weekly-contest-286	T1	1419.6891055232743
-1393	maximum-value-of-k-coins-from-piles	从栈中取出 K 个硬币的最大面值和	weekly-contest-286	T4	1924.8952223764468
+2319	longest-substring-of-one-repeating-character	由单个字符重复的最长子字符串	weekly-contest-285	T4	2216.93317698835
+1355	minimum-deletions-to-make-array-beautiful	美化数组的最少删除数	weekly-contest-286	T2	1507.616277680037
+1375	find-palindrome-with-fixed-length	找到指定长度的回文数	weekly-contest-286	T3	1637.945091833888
+1392	find-the-difference-of-two-arrays	找出两数组的不同	weekly-contest-286	T1	1419.3454971604667
+1393	maximum-value-of-k-coins-from-piles	从栈中取出 K 个硬币的最大面值和	weekly-contest-286	T4	1926.4766186262948
 2323	minimum-bit-flips-to-convert-number	转换数字的最少位翻转次数	biweekly-contest-75	T1	1454.0995158835658
-2324	find-triangular-sum-of-an-array	数组的三角和	biweekly-contest-75	T2	1464.510683249372
-2325	number-of-ways-to-select-buildings	选择建筑的方案数	biweekly-contest-75	T3	1636.1094510556734
+2324	find-triangular-sum-of-an-array	数组的三角和	biweekly-contest-75	T2	1463.978174596364
+2325	number-of-ways-to-select-buildings	选择建筑的方案数	biweekly-contest-75	T3	1636.229441587624
 2326	sum-of-scores-of-built-strings	构造字符串的总得分和	biweekly-contest-75	T4	1974.606229002604
-1335	maximum-candies-allocated-to-k-children	每个小孩最多能分到多少糖果	weekly-contest-287	T3	1628.5086831240708
-1354	find-players-with-zero-or-one-losses	找出输掉零场或一场比赛的玩家	weekly-contest-287	T2	1456.7662259753727
-1433	encrypt-and-decrypt-strings	加密解密字符串	weekly-contest-287	T4	1787.0585760697866
-2345	minimum-number-of-operations-to-convert-time	转化时间需要的最少操作数	weekly-contest-287	T1	1431.8270182201443
-2327	largest-number-after-digit-swaps-by-parity	按奇偶性交换后的最大数字	weekly-contest-288	T1	1444.2453279336537
-2328	minimize-result-by-adding-parentheses-to-expression	向表达式添加括号后的最小结果	weekly-contest-288	T2	1538.935591030187
-2329	maximum-product-after-k-increments	K 次增加后的最大乘积	weekly-contest-288	T3	1630.124433660987
-2330	maximum-total-beauty-of-the-gardens	花园的最大总美丽值	weekly-contest-288	T4	2215.3077912454346
-2350	find-closest-number-to-zero	找到最接近 0 的数字	biweekly-contest-76	T1	1449.923053816567
-2351	number-of-ways-to-buy-pens-and-pencils	买钢笔和铅笔的方案数	biweekly-contest-76	T2	1487.142620595056
-2352	design-an-atm-machine	设计一个 ATM 机器	biweekly-contest-76	T3	1591.140910214642
-2353	maximum-score-of-a-node-sequence	节点序列的最大得分	biweekly-contest-76	T4	2061.202371133224
-2361	calculate-digit-sum-of-a-string	计算字符串的数字和	weekly-contest-289	T1	1430.7181676589382
+1335	maximum-candies-allocated-to-k-children	每个小孩最多能分到多少糖果	weekly-contest-287	T3	1628.380986244416
+1354	find-players-with-zero-or-one-losses	找出输掉零场或一场比赛的玩家	weekly-contest-287	T2	1456.8306203584407
+1433	encrypt-and-decrypt-strings	加密解密字符串	weekly-contest-287	T4	1784.819602904251
+2345	minimum-number-of-operations-to-convert-time	转化时间需要的最少操作数	weekly-contest-287	T1	1431.979994936448
+2327	largest-number-after-digit-swaps-by-parity	按奇偶性交换后的最大数字	weekly-contest-288	T1	1444.084905592529
+2328	minimize-result-by-adding-parentheses-to-expression	向表达式添加括号后的最小结果	weekly-contest-288	T2	1538.8376513231312
+2329	maximum-product-after-k-increments	K 次增加后的最大乘积	weekly-contest-288	T3	1630.5117284660719
+2330	maximum-total-beauty-of-the-gardens	花园的最大总美丽值	weekly-contest-288	T4	2213.7713913844395
+2350	find-closest-number-to-zero	找到最接近 0 的数字	biweekly-contest-76	T1	1449.705235835453
+2351	number-of-ways-to-buy-pens-and-pencils	买钢笔和铅笔的方案数	biweekly-contest-76	T2	1488.0917156828373
+2352	design-an-atm-machine	设计一个 ATM 机器	biweekly-contest-76	T3	1591.0149227836444
+2353	maximum-score-of-a-node-sequence	节点序列的最大得分	biweekly-contest-76	T4	2063.0360142109735
+2361	calculate-digit-sum-of-a-string	计算字符串的数字和	weekly-contest-289	T1	1430.5481245483265
 2362	minimum-rounds-to-complete-all-tasks	完成所有任务需要的最少轮数	weekly-contest-289	T2	1456.330392938631
-2363	maximum-trailing-zeros-in-a-cornered-path	转角路径的乘积中最多能有几个尾随零	weekly-contest-289	T3	1844.3491211766561
-2364	longest-path-with-different-adjacent-characters	相邻字符不同的最长路径	weekly-contest-289	T4	1949.6280901747477
-2331	intersection-of-multiple-arrays	多个数组求交集	weekly-contest-290	T1	1419.9723534231944
-2332	count-lattice-points-inside-a-circle	统计圆内格点数目	weekly-contest-290	T2	1519.1260292969541
-2333	count-number-of-rectangles-containing-each-point	统计包含每个点的矩形数目	weekly-contest-290	T3	1821.276468556394
-2334	number-of-flowers-in-full-bloom	花期内花的数目	weekly-contest-290	T4	1858.178662454637
-2341	count-prefixes-of-a-given-string	统计是给定字符串前缀的字符串数目	biweekly-contest-77	T1	1460.8877359576063
-2342	minimum-average-difference	最小平均差	biweekly-contest-77	T2	1508.0471450073742
-2343	count-unguarded-cells-in-the-grid	统计网格图中没有被保卫的格子数	biweekly-contest-77	T3	1626.6468624877214
-2344	escape-the-spreading-fire	逃离火灾	biweekly-contest-77	T4	2101.761069248875
-2337	remove-digit-from-number-to-maximize-result	移除指定数字得到的最大结果	weekly-contest-291	T1	1455.4456559868358
-2338	minimum-consecutive-cards-to-pick-up	必须拿起的最小连续卡牌数	weekly-contest-291	T2	1478.4918150749859
-2339	k-divisible-elements-subarrays	含最多 K 个可整除元素的子数组	weekly-contest-291	T3	1639.3177791413987
-2340	total-appeal-of-a-string	字符串的总引力	weekly-contest-291	T4	1849.3151377437287
+2363	maximum-trailing-zeros-in-a-cornered-path	转角路径的乘积中最多能有几个尾随零	weekly-contest-289	T3	1845.8243592544054
+2364	longest-path-with-different-adjacent-characters	相邻字符不同的最长路径	weekly-contest-289	T4	1949.761762275954
+2331	intersection-of-multiple-arrays	多个数组求交集	weekly-contest-290	T1	1419.9236134702687
+2332	count-lattice-points-inside-a-circle	统计圆内格点数目	weekly-contest-290	T2	1518.35099373536
+2333	count-number-of-rectangles-containing-each-point	统计包含每个点的矩形数目	weekly-contest-290	T3	1822.3066464843073
+2334	number-of-flowers-in-full-bloom	花期内花的数目	weekly-contest-290	T4	1858.5386747440523
+2341	count-prefixes-of-a-given-string	统计是给定字符串前缀的字符串数目	biweekly-contest-77	T1	1459.0422182552652
+2342	minimum-average-difference	最小平均差	biweekly-contest-77	T2	1506.8615764776043
+2343	count-unguarded-cells-in-the-grid	统计网格图中没有被保卫的格子数	biweekly-contest-77	T3	1626.7952641717807
+2344	escape-the-spreading-fire	逃离火灾	biweekly-contest-77	T4	2102.8080716649106
+2337	remove-digit-from-number-to-maximize-result	移除指定数字得到的最大结果	weekly-contest-291	T1	1455.3755327493361
+2338	minimum-consecutive-cards-to-pick-up	必须拿起的最小连续卡牌数	weekly-contest-291	T2	1478.2105239228426
+2339	k-divisible-elements-subarrays	含最多 K 个可整除元素的子数组	weekly-contest-291	T3	1640.5217743212822
+2340	total-appeal-of-a-string	字符串的总引力	weekly-contest-291	T4	1850.3534173972248
 2346	largest-3-same-digit-number-in-string	字符串中最大的 3 位相同数字	weekly-contest-292	T1	1427.6509909003992
-2347	count-nodes-equal-to-average-of-subtree	统计值等于子树平均值的节点数	weekly-contest-292	T2	1477.2487634641307
-2348	count-number-of-texts	统计打字方案数	weekly-contest-292	T3	1676.682988785049
-2349	check-if-there-is-a-valid-parentheses-string-path	检查是否有合法括号字符串路径	weekly-contest-292	T4	1861.9036685520125
-1430	find-the-k-beauty-of-a-number	找到一个数字的 K 美丽值	biweekly-contest-78	T1	1460.770892977382
-2358	number-of-ways-to-split-array	分割数组的方案数	biweekly-contest-78	T2	1480.5485918153665
-2359	maximum-white-tiles-covered-by-a-carpet	毯子覆盖的最多白色砖块数	biweekly-contest-78	T3	1768.6407006374764
-2360	substring-with-largest-variance	最大波动的子字符串	biweekly-contest-78	T4	2160.3245090750434
-1353	find-resultant-array-after-removing-anagrams	移除字母异位词后的结果数组	weekly-contest-293	T1	1432.9935599251369
-2355	maximum-consecutive-floors-without-special-floors	不含特殊楼层的最大连续楼层数	weekly-contest-293	T2	1442.8708876468609
-2356	largest-combination-with-bitwise-and-greater-than-zero	按位与结果大于零的最长组合	weekly-contest-293	T3	1601.924003231461
-2357	count-integers-in-intervals	统计区间中的整数数目	weekly-contest-293	T4	1979.205033226376
-2365	percentage-of-letter-in-string	字母在字符串中的百分比	weekly-contest-294	T1	1411.285838217776
-2366	maximum-bags-with-full-capacity-of-rocks	装满石头的背包的最大数量	weekly-contest-294	T2	1426.1230474359318
-2367	minimum-lines-to-represent-a-line-chart	表示一个折线图的最少线段数	weekly-contest-294	T3	1571.9334994665426
-2368	sum-of-total-strength-of-wizards	巫师的总力量和	weekly-contest-294	T4	2299.628675337721
-2377	check-if-number-has-equal-digit-count-and-digit-value	判断一个数的数字计数是否等于数位的值	biweekly-contest-79	T1	1460.7015708595604
+2347	count-nodes-equal-to-average-of-subtree	统计值等于子树平均值的节点数	weekly-contest-292	T2	1477.1857554235644
+2348	count-number-of-texts	统计打字方案数	weekly-contest-292	T3	1676.5697353085484
+2349	check-if-there-is-a-valid-parentheses-string-path	检查是否有合法括号字符串路径	weekly-contest-292	T4	1863.071831807894
+1430	find-the-k-beauty-of-a-number	找到一个数字的 K 美丽值	biweekly-contest-78	T1	1459.8986567384877
+2358	number-of-ways-to-split-array	分割数组的方案数	biweekly-contest-78	T2	1481.2988870296927
+2359	maximum-white-tiles-covered-by-a-carpet	毯子覆盖的最多白色砖块数	biweekly-contest-78	T3	1767.3467663156262
+2360	substring-with-largest-variance	最大波动的子字符串	biweekly-contest-78	T4	2161.7320371527926
+1353	find-resultant-array-after-removing-anagrams	移除字母异位词后的结果数组	weekly-contest-293	T1	1432.708181369869
+2355	maximum-consecutive-floors-without-special-floors	不含特殊楼层的最大连续楼层数	weekly-contest-293	T2	1443.1874859665402
+2356	largest-combination-with-bitwise-and-greater-than-zero	按位与结果大于零的最长组合	weekly-contest-293	T3	1601.9329264206126
+2357	count-integers-in-intervals	统计区间中的整数数目	weekly-contest-293	T4	1972.8349732678366
+2365	percentage-of-letter-in-string	字母在字符串中的百分比	weekly-contest-294	T1	1411.587437719792
+2366	maximum-bags-with-full-capacity-of-rocks	装满石头的背包的最大数量	weekly-contest-294	T2	1426.73446910207
+2367	minimum-lines-to-represent-a-line-chart	表示一个折线图的最少线段数	weekly-contest-294	T3	1571.2953735586384
+2368	sum-of-total-strength-of-wizards	巫师的总力量和	weekly-contest-294	T4	2298.795419573151
+2377	check-if-number-has-equal-digit-count-and-digit-value	判断一个数的数字计数是否等于数位的值	biweekly-contest-79	T1	1460.3592655241043
 2378	sender-with-largest-word-count	最多单词数的发件人	biweekly-contest-79	T2	1496.2740561043843
-2379	maximum-total-importance-of-roads	道路的最大总重要性	biweekly-contest-79	T3	1549.192926630065
-2380	booking-concert-tickets-in-groups	以组为单位订音乐会的门票	biweekly-contest-79	T4	1947.9101264902724
-2372	rearrange-characters-to-make-target-string	重排字符形成目标字符串	weekly-contest-295	T1	1432.7368107563457
-2373	apply-discount-to-prices	价格减免	weekly-contest-295	T2	1492.550286099018
-2374	steps-to-make-array-non-decreasing	使数组按非递减顺序排列	weekly-contest-295	T3	2101.901992597548
-2375	minimum-obstacle-removal-to-reach-corner	到达角落需要移除障碍物的最小数目	weekly-contest-295	T4	1901.6129975755568
-2386	min-max-game	极大极小游戏	weekly-contest-296	T1	1434.8406204796506
-2387	partition-array-such-that-maximum-difference-is-k	划分数组使最大差为 K	weekly-contest-296	T2	1482.7960430932458
-2388	replace-elements-in-an-array	替换数组中的元素	weekly-contest-296	T3	1504.631450151623
-2389	design-a-text-editor	设计一个文本编辑器	weekly-contest-296	T4	1679.0345150546038
-2391	strong-password-checker-ii	强密码检验器 II	biweekly-contest-80	T1	1475.4004459711898
-2392	successful-pairs-of-spells-and-potions	咒语和药水的成功对数	biweekly-contest-80	T2	1558.0582756920357
+2379	maximum-total-importance-of-roads	道路的最大总重要性	biweekly-contest-79	T3	1548.351895075503
+2380	booking-concert-tickets-in-groups	以组为单位订音乐会的门票	biweekly-contest-79	T4	1949.0517879676445
+2372	rearrange-characters-to-make-target-string	重排字符形成目标字符串	weekly-contest-295	T1	1432.6980901977295
+2373	apply-discount-to-prices	价格减免	weekly-contest-295	T2	1492.6597203530023
+2374	steps-to-make-array-non-decreasing	使数组按非递减顺序排列	weekly-contest-295	T3	2104.287235982297
+2375	minimum-obstacle-removal-to-reach-corner	到达角落需要移除障碍物的最小数目	weekly-contest-295	T4	1903.7222945741391
+2386	min-max-game	极大极小游戏	weekly-contest-296	T1	1434.925499587259
+2387	partition-array-such-that-maximum-difference-is-k	划分数组使最大差为 K	weekly-contest-296	T2	1484.0092739225215
+2388	replace-elements-in-an-array	替换数组中的元素	weekly-contest-296	T3	1505.4608159537906
+2389	design-a-text-editor	设计一个文本编辑器	weekly-contest-296	T4	1679.4324376168377
+2391	strong-password-checker-ii	强密码检验器 II	biweekly-contest-80	T1	1475.0113360349187
+2392	successful-pairs-of-spells-and-potions	咒语和药水的成功对数	biweekly-contest-80	T2	1557.3633358834413
 2393	match-substring-after-replacement	替换字符后匹配	biweekly-contest-80	T3	1758.190779896207
-2394	count-subarrays-with-score-less-than-k	统计得分小于 K 的子数组数目	biweekly-contest-80	T4	1740.6608078543195
-1382	calculate-amount-paid-in-taxes	计算应缴税款总额	weekly-contest-297	T1	1429.775051460975
+2394	count-subarrays-with-score-less-than-k	统计得分小于 K 的子数组数目	biweekly-contest-80	T4	1740.4085398456268
+1382	calculate-amount-paid-in-taxes	计算应缴税款总额	weekly-contest-297	T1	1429.6594082583406
 1394	minimum-path-cost-in-a-grid	网格中的最小路径代价	weekly-contest-297	T2	1587.3329338109922
 1418	fair-distribution-of-cookies	公平分发饼干	weekly-contest-297	T3	1731.3880997104754
-2390	naming-a-company	公司命名	weekly-contest-297	T4	2001.1416618300332
-1334	sum-of-numbers-with-units-digit-k	个位数字为 K 的整数之和	weekly-contest-298	T2	1533.9113764585913
-1363	greatest-english-letter-in-upper-and-lower-case	兼具大小写的最好英文字母	weekly-contest-298	T1	1434.303722692198
-1376	selling-pieces-of-wood	卖木头块	weekly-contest-298	T4	2037.0672280753397
-2395	longest-binary-subsequence-less-than-or-equal-to-k	小于等于 K 的最长二进制子序列	weekly-contest-298	T3	1645.1755369915984
-2401	count-asterisks	统计星号	biweekly-contest-81	T1	1460.157867048194
-2402	maximum-xor-after-operations	操作后的最大异或和	biweekly-contest-81	T3	1667.2303456620725
-2403	count-unreachable-pairs-of-nodes-in-an-undirected-graph	统计无向图中无法互相到达点对数	biweekly-contest-81	T2	1667.2303456620725
-2404	number-of-distinct-roll-sequences	不同骰子序列的数目	biweekly-contest-81	T4	1931.3553157700806
-1348	maximum-score-of-spliced-array	拼接数组的最大分数	weekly-contest-299	T3	1658.837658162437
-2397	count-number-of-ways-to-place-houses	统计放置房子的方式数	weekly-contest-299	T2	1573.635383123144
-2398	check-if-matrix-is-x-matrix	判断矩阵是否是一个 X 矩阵	weekly-contest-299	T1	1424.668797452748
-2400	minimum-score-after-removals-on-a-tree	从树中删除边的最小分数	weekly-contest-299	T4	2130.045858952066
-2406	decode-the-message	解密消息	weekly-contest-300	T1	1430.3902856924396
-2408	number-of-people-aware-of-a-secret	知道秘密的人数	weekly-contest-300	T3	1692.6458010988376
-2409	number-of-increasing-paths-in-a-grid	网格图中递增路径的数目	weekly-contest-300	T4	1856.661172739408
-2411	spiral-matrix-iv	螺旋矩阵 IV	weekly-contest-300	T2	1481.5079218671494
-2416	evaluate-boolean-binary-tree	计算布尔二叉树的值	biweekly-contest-82	T1	1492.5193154323208
+2390	naming-a-company	公司命名	weekly-contest-297	T4	1999.747076243365
+1334	sum-of-numbers-with-units-digit-k	个位数字为 K 的整数之和	weekly-contest-298	T2	1534.461389713708
+1363	greatest-english-letter-in-upper-and-lower-case	兼具大小写的最好英文字母	weekly-contest-298	T1	1433.9842718349141
+1376	selling-pieces-of-wood	卖木头块	weekly-contest-298	T4	2035.541890191255
+2395	longest-binary-subsequence-less-than-or-equal-to-k	小于等于 K 的最长二进制子序列	weekly-contest-298	T3	1644.4102179026327
+2401	count-asterisks	统计星号	biweekly-contest-81	T1	1458.4195606072622
+2402	maximum-xor-after-operations	操作后的最大异或和	biweekly-contest-81	T3	1668.310497679414
+2403	count-unreachable-pairs-of-nodes-in-an-undirected-graph	统计无向图中无法互相到达点对数	biweekly-contest-81	T2	1668.4609088553873
+2404	number-of-distinct-roll-sequences	不同骰子序列的数目	biweekly-contest-81	T4	1932.6610427431847
+1348	maximum-score-of-spliced-array	拼接数组的最大分数	weekly-contest-299	T3	1658.6492655383895
+2397	count-number-of-ways-to-place-houses	统计放置房子的方式数	weekly-contest-299	T2	1573.7511334417916
+2398	check-if-matrix-is-x-matrix	判断矩阵是否是一个 X 矩阵	weekly-contest-299	T1	1424.4521002435963
+2400	minimum-score-after-removals-on-a-tree	从树中删除边的最小分数	weekly-contest-299	T4	2126.2392353830865
+2406	decode-the-message	解密消息	weekly-contest-300	T1	1430.7591761675353
+2408	number-of-people-aware-of-a-secret	知道秘密的人数	weekly-contest-300	T3	1692.139695837177
+2409	number-of-increasing-paths-in-a-grid	网格图中递增路径的数目	weekly-contest-300	T4	1856.8131956264106
+2411	spiral-matrix-iv	螺旋矩阵 IV	weekly-contest-300	T2	1481.6491020440221
+2416	evaluate-boolean-binary-tree	计算布尔二叉树的值	biweekly-contest-82	T1	1492.6597203530023
 2417	the-latest-time-to-catch-a-bus	坐上公交的最晚时间	biweekly-contest-82	T2	1688.3248311795307
-2418	minimum-sum-of-squared-difference	最小差值平方和	biweekly-contest-82	T3	1834.7523432275218
-2419	subarray-with-elements-greater-than-varying-threshold	元素值大于变化阈值的子数组	biweekly-contest-82	T4	2067.9216913278265
-2412	minimum-amount-of-time-to-fill-cups	装满杯子需要的最短总时长	weekly-contest-301	T1	1441.2812434711295
-2413	smallest-number-in-infinite-set	无限集中的最小数字	weekly-contest-301	T2	1460.7414317393857
-2414	move-pieces-to-obtain-a-string	移动片段得到字符串	weekly-contest-301	T3	1610.3306006704183
-2415	count-the-number-of-ideal-arrays	统计理想数组的数目	weekly-contest-301	T4	2260.585708185142
+2418	minimum-sum-of-squared-difference	最小差值平方和	biweekly-contest-82	T3	1835.2309641615836
+2419	subarray-with-elements-greater-than-varying-threshold	元素值大于变化阈值的子数组	biweekly-contest-82	T4	2065.6032191877875
+2412	minimum-amount-of-time-to-fill-cups	装满杯子需要的最短总时长	weekly-contest-301	T1	1441.8999742682347
+2413	smallest-number-in-infinite-set	无限集中的最小数字	weekly-contest-301	T2	1460.592710049136
+2414	move-pieces-to-obtain-a-string	移动片段得到字符串	weekly-contest-301	T3	1610.584939899005
+2415	count-the-number-of-ideal-arrays	统计理想数组的数目	weekly-contest-301	T4	2261.9033112628913
 2421	maximum-number-of-pairs-in-array	数组能形成多少数对	weekly-contest-302	T1	1417.7260418373394
-2422	query-kth-smallest-trimmed-number	裁剪数字后查询第 K 小的数字	weekly-contest-302	T3	1581.099867734215
-2423	minimum-deletions-to-make-array-divisible	使数组可以被整除的最少删除次数	weekly-contest-302	T4	1607.118419407492
-2473	max-sum-of-a-pair-with-equal-sum-of-digits	数位和相等数对的最大和	weekly-contest-302	T2	1453.1442491032758
-2432	number-of-zero-filled-subarrays	全 0 子数组的数目	biweekly-contest-83	T2	1487.7340160705817
-2433	best-poker-hand	最好的扑克手牌	biweekly-contest-83	T1	1464.6536014583257
+2422	query-kth-smallest-trimmed-number	裁剪数字后查询第 K 小的数字	weekly-contest-302	T3	1580.2281840323524
+2423	minimum-deletions-to-make-array-divisible	使数组可以被整除的最少删除次数	weekly-contest-302	T4	1606.9462929477877
+2473	max-sum-of-a-pair-with-equal-sum-of-digits	数位和相等数对的最大和	weekly-contest-302	T2	1453.1618495377033
+2432	number-of-zero-filled-subarrays	全 0 子数组的数目	biweekly-contest-83	T2	1487.0251055151607
+2433	best-poker-hand	最好的扑克手牌	biweekly-contest-83	T1	1463.6091714583258
 2434	design-a-number-container-system	设计数字容器系统	biweekly-contest-83	T3	1620.0368106089759
 2435	shortest-impossible-sequence-of-rolls	不可能得到的最短骰子序列	biweekly-contest-83	T4	1834.4855671201876
 2427	first-letter-to-appear-twice	第一个出现两次的字母	weekly-contest-303	T1	1408.0411865376534
-2428	equal-row-and-column-pairs	相等行列对	weekly-contest-303	T2	1427.4119680520535
-2429	design-a-food-rating-system	设计食物评分系统	weekly-contest-303	T3	1668.7971191273925
-2430	number-of-excellent-pairs	优质数对的数目	weekly-contest-303	T4	1842.9327757489184
-2436	make-array-zero-by-subtracting-equal-amounts	使数组中所有元素都等于零	weekly-contest-304	T1	1409.2324006867234
-2437	maximum-number-of-groups-entering-a-competition	分组的最大数量	weekly-contest-304	T2	1492.550286099018
-2438	find-closest-node-to-given-two-nodes	找到离给定两个节点最近的节点	weekly-contest-304	T3	1614.1038551781176
-2439	longest-cycle-in-a-graph	图中的最长环	weekly-contest-304	T4	1719.9418526615545
-2447	merge-similar-items	合并相似的物品	biweekly-contest-84	T1	1453.5132600670843
+2428	equal-row-and-column-pairs	相等行列对	weekly-contest-303	T2	1427.3812866825606
+2429	design-a-food-rating-system	设计食物评分系统	weekly-contest-303	T3	1668.7730449993828
+2430	number-of-excellent-pairs	优质数对的数目	weekly-contest-303	T4	1845.2806105746788
+2436	make-array-zero-by-subtracting-equal-amounts	使数组中所有元素都等于零	weekly-contest-304	T1	1408.9364235129087
+2437	maximum-number-of-groups-entering-a-competition	分组的最大数量	weekly-contest-304	T2	1493.3206836734048
+2438	find-closest-node-to-given-two-nodes	找到离给定两个节点最近的节点	weekly-contest-304	T3	1614.7048232088678
+2439	longest-cycle-in-a-graph	图中的最长环	weekly-contest-304	T4	1720.0882684685585
+2447	merge-similar-items	合并相似的物品	biweekly-contest-84	T1	1454.4264454147105
 2448	count-number-of-bad-pairs	统计坏数对的数目	biweekly-contest-84	T2	1626.688724454079
-2450	minimum-replacements-to-sort-the-array	将数组排序的最少替换次数	biweekly-contest-84	T4	1801.308461495319
+2450	minimum-replacements-to-sort-the-array	将数组排序的最少替换次数	biweekly-contest-84	T4	1800.0933750151148
 2483	task-scheduler-ii	任务调度器 II	biweekly-contest-84	T3	1621.4117297977505
-2442	number-of-arithmetic-triplets	算术三元组的数目	weekly-contest-305	T1	1410.7559082940236
-2443	check-if-there-is-a-valid-partition-for-the-array	检查数组是否存在有效划分	weekly-contest-305	T3	1621.8026185229346
-2444	longest-ideal-subsequence	最长理想子序列	weekly-contest-305	T4	1716.7017837426556
-2445	reachable-nodes-with-restrictions	受限条件下可到达节点的数目	weekly-contest-305	T2	1535.8763106164256
-2454	largest-local-values-in-a-matrix	矩阵中的局部最大值	weekly-contest-306	T1	1431.7255137080194
-2455	node-with-highest-edge-score	边积分最高的节点	weekly-contest-306	T2	1469.9404618090334
-2456	construct-smallest-number-from-di-string	根据模式串构造最小数字	weekly-contest-306	T3	1568.9225609788518
-2457	count-special-integers	统计特殊整数	weekly-contest-306	T4	1839.2844296703724
-2463	minimum-recolors-to-get-k-consecutive-black-blocks	得到 K 个黑块的最少涂色次数	biweekly-contest-85	T1	1473.4384969607254
-2464	time-needed-to-rearrange-a-binary-string	二进制字符串重新安排顺序需要的时间	biweekly-contest-85	T2	1495.7411043684585
+2442	number-of-arithmetic-triplets	算术三元组的数目	weekly-contest-305	T1	1410.553478048908
+2443	check-if-there-is-a-valid-partition-for-the-array	检查数组是否存在有效划分	weekly-contest-305	T3	1621.7505186315843
+2444	longest-ideal-subsequence	最长理想子序列	weekly-contest-305	T4	1714.75086740411
+2445	reachable-nodes-with-restrictions	受限条件下可到达节点的数目	weekly-contest-305	T2	1535.9311849419862
+2454	largest-local-values-in-a-matrix	矩阵中的局部最大值	weekly-contest-306	T1	1431.933103077179
+2455	node-with-highest-edge-score	边积分最高的节点	weekly-contest-306	T2	1470.089357460892
+2456	construct-smallest-number-from-di-string	根据模式串构造最小数字	weekly-contest-306	T3	1568.6127218947518
+2457	count-special-integers	统计特殊整数	weekly-contest-306	T4	1840.0668584084578
+2463	minimum-recolors-to-get-k-consecutive-black-blocks	得到 K 个黑块的最少涂色次数	biweekly-contest-85	T1	1473.3063123820432
+2464	time-needed-to-rearrange-a-binary-string	二进制字符串重新安排顺序需要的时间	biweekly-contest-85	T2	1496.6037698534544
 2465	shifting-letters-ii	字母移位 II	biweekly-contest-85	T3	1668.8290368471658
-2466	maximum-segment-sum-after-removals	删除操作后的最大子段和	biweekly-contest-85	T4	1908.6885161767036
-2459	minimum-hours-of-training-to-win-a-competition	赢得比赛需要的最少训练时长	weekly-contest-307	T1	1450.8139692177008
-2461	amount-of-time-for-binary-tree-to-be-infected	感染二叉树需要的总时间	weekly-contest-307	T3	1654.877140982529
-2462	find-the-k-sum-of-an-array	找出数组的第 K 大和	weekly-contest-307	T4	2261.900086381982
+2466	maximum-segment-sum-after-removals	删除操作后的最大子段和	biweekly-contest-85	T4	1910.5676932354163
+2459	minimum-hours-of-training-to-win-a-competition	赢得比赛需要的最少训练时长	weekly-contest-307	T1	1451.302469864154
+2461	amount-of-time-for-binary-tree-to-be-infected	感染二叉树需要的总时间	weekly-contest-307	T3	1654.54207156381
+2462	find-the-k-sum-of-an-array	找出数组的第 K 大和	weekly-contest-307	T4	2262.668661175303
 2475	largest-palindromic-number	最大回文数字	weekly-contest-307	T2	1536.0800474205425
-2469	longest-subsequence-with-limited-sum	和有限的最长子序列	weekly-contest-308	T1	1450.6447792908623
-2470	removing-stars-from-a-string	从字符串中移除星号	weekly-contest-308	T2	1450.5362768424989
-2471	minimum-amount-of-time-to-collect-garbage	收集垃圾的最少总时间	weekly-contest-308	T3	1481.532628643293
-2472	build-a-matrix-with-conditions	给定条件下构造矩阵	weekly-contest-308	T4	1770.4228741819024
-2449	maximum-number-of-robots-within-budget	预算内的最多机器人数目	biweekly-contest-86	T4	1866.9881590485345
-2480	find-subarrays-with-equal-sum	和相等的子数组	biweekly-contest-86	T1	1451.927289821229
-2481	strictly-palindromic-number	严格回文的数字	biweekly-contest-86	T2	1475.304434605096
-2482	maximum-rows-covered-by-columns	被列覆盖的最多行数	biweekly-contest-86	T3	1682.9995225808846
-2476	check-distances-between-same-letters	检查相同字母间的距离	weekly-contest-309	T1	1413.8148675382301
-2477	number-of-ways-to-reach-a-position-after-exactly-k-steps	恰好移动 k 步到达某一位置的方法数目	weekly-contest-309	T2	1651.4064183652479
-2478	longest-nice-subarray	最长优雅子数组	weekly-contest-309	T3	1604.0856048739997
+2469	longest-subsequence-with-limited-sum	和有限的最长子序列	weekly-contest-308	T1	1451.2880684450342
+2470	removing-stars-from-a-string	从字符串中移除星号	weekly-contest-308	T2	1451.021753962441
+2471	minimum-amount-of-time-to-collect-garbage	收集垃圾的最少总时间	weekly-contest-308	T3	1482.0621182338596
+2472	build-a-matrix-with-conditions	给定条件下构造矩阵	weekly-contest-308	T4	1768.9776335696372
+2449	maximum-number-of-robots-within-budget	预算内的最多机器人数目	biweekly-contest-86	T4	1864.8287418663344
+2480	find-subarrays-with-equal-sum	和相等的子数组	biweekly-contest-86	T1	1452.0241054718972
+2481	strictly-palindromic-number	严格回文的数字	biweekly-contest-86	T2	1475.563746431406
+2482	maximum-rows-covered-by-columns	被列覆盖的最多行数	biweekly-contest-86	T3	1681.0238826706495
+2476	check-distances-between-same-letters	检查相同字母间的距离	weekly-contest-309	T1	1413.5559170988404
+2477	number-of-ways-to-reach-a-position-after-exactly-k-steps	恰好移动 k 步到达某一位置的方法数目	weekly-contest-309	T2	1651.5185629974842
+2478	longest-nice-subarray	最长优雅子数组	weekly-contest-309	T3	1604.431402277633
 2479	meeting-rooms-iii	会议室 III	weekly-contest-309	T4	1840.3363544094038
-2486	most-frequent-even-element	出现最频繁的偶数元素	weekly-contest-310	T1	1427.0506220558782
-2487	optimal-partition-of-string	子字符串的最优划分	weekly-contest-310	T2	1452.7247252212467
-2488	divide-intervals-into-minimum-number-of-groups	将区间分为最少组数	weekly-contest-310	T3	1626.7879026966762
-2526	longest-increasing-subsequence-ii	最长递增子序列 II	weekly-contest-310	T4	1979.8455845813382
-2496	count-days-spent-together	统计共同度过的日子数	biweekly-contest-87	T1	1512.305604362503
-2497	maximum-matching-of-players-with-trainers	运动员和训练师的最大匹配数	biweekly-contest-87	T2	1490.1479689581308
-2498	smallest-subarrays-with-maximum-bitwise-or	按位或最大的最小子数组长度	biweekly-contest-87	T3	1782.7073870310583
-2499	minimum-money-required-before-transactions	完成所有交易的初始最少钱数	biweekly-contest-87	T4	1907.7617778516355
-2491	smallest-even-multiple	最小偶倍数	weekly-contest-311	T1	1406.1437401166945
-2492	length-of-the-longest-alphabetical-continuous-substring	最长的字母序连续子字符串的长度	weekly-contest-311	T2	1415.9192901440065
-2493	reverse-odd-levels-of-binary-tree	反转二叉树的奇数层	weekly-contest-311	T3	1488.2914227124922
-2494	sum-of-prefix-scores-of-strings	字符串的前缀分数和	weekly-contest-311	T4	1642.9562078458923
-2502	sort-the-people	按身高排序	weekly-contest-312	T1	1406.508372335607
-2503	longest-subarray-with-maximum-bitwise-and	按位与最大的最长子数组	weekly-contest-312	T2	1491.4938144620774
-2504	find-all-good-indices	找到所有好下标	weekly-contest-312	T3	1614.6174932947806
+2486	most-frequent-even-element	出现最频繁的偶数元素	weekly-contest-310	T1	1426.9664614519095
+2487	optimal-partition-of-string	子字符串的最优划分	weekly-contest-310	T2	1452.9611802129505
+2488	divide-intervals-into-minimum-number-of-groups	将区间分为最少组数	weekly-contest-310	T3	1626.5895462114815
+2526	longest-increasing-subsequence-ii	最长递增子序列 II	weekly-contest-310	T4	1980.3567773927962
+2496	count-days-spent-together	统计共同度过的日子数	biweekly-contest-87	T1	1512.1084347440374
+2497	maximum-matching-of-players-with-trainers	运动员和训练师的最大匹配数	biweekly-contest-87	T2	1488.7522922861772
+2498	smallest-subarrays-with-maximum-bitwise-or	按位或最大的最小子数组长度	biweekly-contest-87	T3	1781.7440733930296
+2499	minimum-money-required-before-transactions	完成所有交易的初始最少钱数	biweekly-contest-87	T4	1911.5201319690605
+2491	smallest-even-multiple	最小偶倍数	weekly-contest-311	T1	1406.2809160475742
+2492	length-of-the-longest-alphabetical-continuous-substring	最长的字母序连续子字符串的长度	weekly-contest-311	T2	1416.036651150405
+2493	reverse-odd-levels-of-binary-tree	反转二叉树的奇数层	weekly-contest-311	T3	1488.2035024440665
+2494	sum-of-prefix-scores-of-strings	字符串的前缀分数和	weekly-contest-311	T4	1642.7130219012915
+2502	sort-the-people	按身高排序	weekly-contest-312	T1	1406.6746514527179
+2503	longest-subarray-with-maximum-bitwise-and	按位与最大的最长子数组	weekly-contest-312	T2	1491.5980406766478
+2504	find-all-good-indices	找到所有好下标	weekly-contest-312	T3	1614.830248972319
 2505	number-of-good-paths	好路径的数目	weekly-contest-312	T4	2170.067300481086
-2512	longest-uploaded-prefix	最长上传前缀	biweekly-contest-88	T2	1600.5036200607503
-2513	number-of-pairs-satisfying-inequality	满足不等式的数对数目	biweekly-contest-88	T4	1880.168547707654
-2532	remove-letter-to-equalize-frequency	删除字符使频率相同	biweekly-contest-88	T1	1624.3273974329254
+2512	longest-uploaded-prefix	最长上传前缀	biweekly-contest-88	T2	1600.5657080942913
+2513	number-of-pairs-satisfying-inequality	满足不等式的数对数目	biweekly-contest-88	T4	1881.5738402102834
+2532	remove-letter-to-equalize-frequency	删除字符使频率相同	biweekly-contest-88	T1	1624.523033877097
 2533	bitwise-xor-of-all-pairings	所有数对的异或和	biweekly-contest-88	T3	1620.9199095932804
-2507	number-of-common-factors	公因子的数目	weekly-contest-313	T1	1422.4601702540353
-2508	maximum-sum-of-an-hourglass	沙漏的最大总和	weekly-contest-313	T2	1444.7822899340679
-2509	minimize-xor	最小 XOR	weekly-contest-313	T3	1542.7837856657254
-2510	maximum-deletions-on-a-string	对字母串可执行的最大删除数	weekly-contest-313	T4	1833.0236359220946
-2518	the-employee-that-worked-on-the-longest-task	处理用时最长的那个任务的员工	weekly-contest-314	T1	1419.0032856116013
-2519	find-the-original-array-of-prefix-xor	找出前缀异或的原始数组	weekly-contest-314	T2	1445.4382376529766
-2520	using-a-robot-to-print-the-lexicographically-smallest-string	使用机器人打印字典序最小的字符串	weekly-contest-314	T3	1741.5330865116691
-2521	paths-in-matrix-whose-sum-is-divisible-by-k	矩阵中和能被 K 整除的路径	weekly-contest-314	T4	1801.055095790735
-2528	number-of-valid-clock-times	有效时间的数目	biweekly-contest-89	T1	1448.1905890440573
-2529	range-product-queries-of-powers	二的幂数组中查询范围内的乘积	biweekly-contest-89	T2	1566.8910691125445
-2530	minimize-maximum-of-array	最小化数组中的最大值	biweekly-contest-89	T3	1755.7979254439626
-2531	create-components-with-same-value	创建价值相同的连通块	biweekly-contest-89	T4	2131.4469740052964
-2524	largest-positive-integer-that-exists-with-its-negative	与对应负数同时存在的最大正整数	weekly-contest-315	T1	1406.7109385663762
-2525	count-number-of-distinct-integers-after-reverse-operations	反转之后不同整数的数目	weekly-contest-315	T2	1420.9115638440285
+2507	number-of-common-factors	公因子的数目	weekly-contest-313	T1	1422.524338646833
+2508	maximum-sum-of-an-hourglass	沙漏的最大总和	weekly-contest-313	T2	1445.0304196374682
+2509	minimize-xor	最小 XOR	weekly-contest-313	T3	1541.6921635905
+2510	maximum-deletions-on-a-string	对字母串可执行的最大删除数	weekly-contest-313	T4	1834.009200683926
+2518	the-employee-that-worked-on-the-longest-task	处理用时最长的那个任务的员工	weekly-contest-314	T1	1419.2223013010534
+2519	find-the-original-array-of-prefix-xor	找出前缀异或的原始数组	weekly-contest-314	T2	1446.6086446400052
+2520	using-a-robot-to-print-the-lexicographically-smallest-string	使用机器人打印字典序最小的字符串	weekly-contest-314	T3	1740.330936446116
+2521	paths-in-matrix-whose-sum-is-divisible-by-k	矩阵中和能被 K 整除的路径	weekly-contest-314	T4	1800.5406860858911
+2528	number-of-valid-clock-times	有效时间的数目	biweekly-contest-89	T1	1448.395753164185
+2529	range-product-queries-of-powers	二的幂数组中查询范围内的乘积	biweekly-contest-89	T2	1566.0919039291043
+2530	minimize-maximum-of-array	最小化数组中的最大值	biweekly-contest-89	T3	1754.4268014798984
+2531	create-components-with-same-value	创建价值相同的连通块	biweekly-contest-89	T4	2127.640350436317
+2524	largest-positive-integer-that-exists-with-its-negative	与对应负数同时存在的最大正整数	weekly-contest-315	T1	1406.7164570835007
+2525	count-number-of-distinct-integers-after-reverse-operations	反转之后不同整数的数目	weekly-contest-315	T2	1420.8978754488137
 2527	count-subarrays-with-fixed-bounds	统计定界子数组的数目	weekly-contest-315	T4	1832.0419826896548
-2541	sum-of-number-and-its-reverse	反转之后的数字和	weekly-contest-315	T3	1438.120606384841
-2536	determine-if-two-events-have-conflict	判断两个事件是否存在冲突	weekly-contest-316	T1	1415.2427092038156
-2538	minimum-cost-to-make-array-equal	使数组相等的最小开销	weekly-contest-316	T3	1815.6221407906996
+2541	sum-of-number-and-its-reverse	反转之后的数字和	weekly-contest-315	T3	1438.217228971642
+2536	determine-if-two-events-have-conflict	判断两个事件是否存在冲突	weekly-contest-316	T1	1414.871586552109
+2538	minimum-cost-to-make-array-equal	使数组相等的最小开销	weekly-contest-316	T3	1817.323348798867
 2539	minimum-number-of-operations-to-make-arrays-similar	使数组相似的最少操作次数	weekly-contest-316	T4	1872.4898460806014
-2546	number-of-subarrays-with-gcd-equal-to-k	最大公因数等于 K 的子数组数目	weekly-contest-316	T2	1620.2485664832348
-2547	odd-string-difference	差值数组不同的字符串	biweekly-contest-90	T1	1512.824890495588
-2548	destroy-sequential-targets	摧毁一系列目标	biweekly-contest-90	T3	1691.0939453076019
-2549	next-greater-element-iv	下一个更大元素 IV	biweekly-contest-90	T4	1938.67121067052
-2550	words-within-two-edits-of-dictionary	距离字典两次编辑以内的单词	biweekly-contest-90	T2	1529.9369587886854
-2542	average-value-of-even-numbers-that-are-divisible-by-three	可被三整除的偶数的平均值	weekly-contest-317	T1	1401.6618082635014
-2543	most-popular-video-creator	最流行的视频创作者	weekly-contest-317	T2	1540.2965089919892
-2544	minimum-addition-to-make-integer-beautiful	美丽整数的最小增量	weekly-contest-317	T3	1589.1757678858235
-2545	height-of-binary-tree-after-subtree-removal-queries	移除子树后的二叉树高度	weekly-contest-317	T4	2002.581371364531
-2551	apply-operations-to-an-array	对数组执行操作	weekly-contest-318	T1	1402.9441968476233
-2552	maximum-sum-of-distinct-subarrays-with-length-k	长度为 K 子数组中的最大和	weekly-contest-318	T2	1550.4871617440153
-2553	total-cost-to-hire-k-workers	雇佣 K 位工人的总代价	weekly-contest-318	T3	1658.1113247175583
+2546	number-of-subarrays-with-gcd-equal-to-k	最大公因数等于 K 的子数组数目	weekly-contest-316	T2	1621.1107169160714
+2547	odd-string-difference	差值数组不同的字符串	biweekly-contest-90	T1	1513.4458666936316
+2548	destroy-sequential-targets	摧毁一系列目标	biweekly-contest-90	T3	1691.466844691188
+2549	next-greater-element-iv	下一个更大元素 IV	biweekly-contest-90	T4	1940.6688098558636
+2550	words-within-two-edits-of-dictionary	距离字典两次编辑以内的单词	biweekly-contest-90	T2	1530.6777698458413
+2542	average-value-of-even-numbers-that-are-divisible-by-three	可被三整除的偶数的平均值	weekly-contest-317	T1	1401.509283446978
+2543	most-popular-video-creator	最流行的视频创作者	weekly-contest-317	T2	1539.5686633536204
+2544	minimum-addition-to-make-integer-beautiful	美丽整数的最小增量	weekly-contest-317	T3	1588.8284601443784
+2545	height-of-binary-tree-after-subtree-removal-queries	移除子树后的二叉树高度	weekly-contest-317	T4	2002.3560770337544
+2551	apply-operations-to-an-array	对数组执行操作	weekly-contest-318	T1	1402.698737790492
+2552	maximum-sum-of-distinct-subarrays-with-length-k	长度为 K 子数组中的最大和	weekly-contest-318	T2	1549.9190211746406
+2553	total-cost-to-hire-k-workers	雇佣 K 位工人的总代价	weekly-contest-318	T3	1657.2059174696317
 2554	minimum-total-distance-traveled	最小移动总距离	weekly-contest-318	T4	2153.9321405699748
-2561	number-of-distinct-averages	不同的平均值数目	biweekly-contest-91	T1	1444.291927722827
-2562	count-ways-to-build-good-strings	统计构造好字符串的方案数	biweekly-contest-91	T2	1604.0859868585685
-2563	split-message-based-on-limit	根据限制分割消息	biweekly-contest-91	T4	1981.553623106804
-2564	most-profitable-path-in-a-tree	树上最大得分和路径	biweekly-contest-91	T3	1845.707250110623
-2556	convert-the-temperature	温度转换	weekly-contest-319	T1	1392.6661613803599
-2557	number-of-subarrays-with-lcm-equal-to-k	最小公倍数为 K 的子数组数目	weekly-contest-319	T2	1519.367125412322
+2561	number-of-distinct-averages	不同的平均值数目	biweekly-contest-91	T1	1445.538336964069
+2562	count-ways-to-build-good-strings	统计构造好字符串的方案数	biweekly-contest-91	T2	1604.0388347244166
+2563	split-message-based-on-limit	根据限制分割消息	biweekly-contest-91	T4	1982.5403480172154
+2564	most-profitable-path-in-a-tree	树上最大得分和路径	biweekly-contest-91	T3	1846.0732833546867
+2556	convert-the-temperature	温度转换	weekly-contest-319	T1	1392.3991160472506
+2557	number-of-subarrays-with-lcm-equal-to-k	最小公倍数为 K 的子数组数目	weekly-contest-319	T2	1518.326469118436
 2558	minimum-number-of-operations-to-sort-a-binary-tree-by-level	逐层排序二叉树所需的最少操作数目	weekly-contest-319	T3	1590.616225640963
-2559	maximum-number-of-non-overlapping-palindrome-substrings	不重叠回文子字符串的最大数目	weekly-contest-319	T4	1792.2142271435137
-2566	number-of-unequal-triplets-in-array	数组中不等三元组的数目	weekly-contest-320	T1	1403.8932328839128
-2567	closest-nodes-queries-in-a-binary-search-tree	二叉搜索树最近节点查询	weekly-contest-320	T2	1529.8785479817136
-2568	minimum-fuel-cost-to-report-to-the-capital	到达首都的最少油耗	weekly-contest-320	T3	1801.7878054079529
-2569	number-of-beautiful-partitions	完美分割的方案数	weekly-contest-320	T4	2035.8832065445454
-2575	minimum-cuts-to-divide-a-circle	分割圆的最少切割次数	biweekly-contest-92	T1	1459.2493332670122
-2576	minimum-penalty-for-a-shop	商店的最少代价	biweekly-contest-92	T3	1530.9675554901028
-2577	count-palindromic-subsequences	统计回文子序列数目	biweekly-contest-92	T4	1962.644704718479
-2606	difference-between-ones-and-zeros-in-row-and-column	行和列中一和零的差值	biweekly-contest-92	T2	1492.550286099018
-2571	find-the-pivot-integer	找出中枢整数	weekly-contest-321	T1	1402.5817014046593
-2572	append-characters-to-string-to-make-subsequence	追加字符以获得子序列	weekly-contest-321	T2	1437.3249712069353
-2573	remove-nodes-from-linked-list	从链表中移除节点	weekly-contest-321	T3	1479.398255719826
-2574	count-subarrays-with-median-k	统计中位数为 K 的子数组	weekly-contest-321	T4	1791.9921822050856
-2580	circular-sentence	回环句	weekly-contest-322	T1	1407.709231064244
-2581	divide-players-into-teams-of-equal-skill	划分技能点相等的团队	weekly-contest-322	T2	1425.4078651689113
-2582	minimum-score-of-a-path-between-two-cities	两个城市间路径的最小分数	weekly-contest-322	T3	1587.5960719313414
-2583	divide-nodes-into-the-maximum-number-of-groups	将节点分成尽可能多的组	weekly-contest-322	T4	2089.8654716115925
-2589	maximum-value-of-a-string-in-an-array	数组中字符串的最大值	biweekly-contest-93	T1	1454.9669094542858
-2590	maximum-star-sum-of-a-graph	图中最大星和	biweekly-contest-93	T2	1608.9027756340388
-2591	frog-jump-ii	青蛙过河 II	biweekly-contest-93	T3	1700.3179440828146
-2592	minimum-total-cost-to-make-arrays-unequal	让数组不相等的最小总代价	biweekly-contest-93	T4	2073.4755101838573
-2585	delete-greatest-value-in-each-row	删除每行中的最大值	weekly-contest-323	T1	1417.8857957882606
-2586	longest-square-streak-in-an-array	数组中最长的方波	weekly-contest-323	T2	1479.4375295337886
+2559	maximum-number-of-non-overlapping-palindrome-substrings	不重叠回文子字符串的最大数目	weekly-contest-319	T4	1790.821153603334
+2566	number-of-unequal-triplets-in-array	数组中不等三元组的数目	weekly-contest-320	T1	1402.7493476038303
+2567	closest-nodes-queries-in-a-binary-search-tree	二叉搜索树最近节点查询	weekly-contest-320	T2	1529.7625365472268
+2568	minimum-fuel-cost-to-report-to-the-capital	到达首都的最少油耗	weekly-contest-320	T3	1804.0387528973106
+2569	number-of-beautiful-partitions	完美分割的方案数	weekly-contest-320	T4	2035.2442097321352
+2575	minimum-cuts-to-divide-a-circle	分割圆的最少切割次数	biweekly-contest-92	T1	1459.1928928558632
+2576	minimum-penalty-for-a-shop	商店的最少代价	biweekly-contest-92	T3	1531.0968408857802
+2577	count-palindromic-subsequences	统计回文子序列数目	biweekly-contest-92	T4	1963.9352011919877
+2606	difference-between-ones-and-zeros-in-row-and-column	行和列中一和零的差值	biweekly-contest-92	T2	1492.011908192184
+2571	find-the-pivot-integer	找出中枢整数	weekly-contest-321	T1	1402.152604007073
+2572	append-characters-to-string-to-make-subsequence	追加字符以获得子序列	weekly-contest-321	T2	1436.8245550006027
+2573	remove-nodes-from-linked-list	从链表中移除节点	weekly-contest-321	T3	1479.9982944479298
+2574	count-subarrays-with-median-k	统计中位数为 K 的子数组	weekly-contest-321	T4	1788.2203442250377
+2580	circular-sentence	回环句	weekly-contest-322	T1	1407.9584104305452
+2581	divide-players-into-teams-of-equal-skill	划分技能点相等的团队	weekly-contest-322	T2	1425.1669780206025
+2582	minimum-score-of-a-path-between-two-cities	两个城市间路径的最小分数	weekly-contest-322	T3	1584.0726229133106
+2583	divide-nodes-into-the-maximum-number-of-groups	将节点分成尽可能多的组	weekly-contest-322	T4	2084.1228616431827
+2589	maximum-value-of-a-string-in-an-array	数组中字符串的最大值	biweekly-contest-93	T1	1455.7766462959348
+2590	maximum-star-sum-of-a-graph	图中最大星和	biweekly-contest-93	T2	1612.2942087490267
+2591	frog-jump-ii	青蛙过河 II	biweekly-contest-93	T3	1698.69458785741
+2592	minimum-total-cost-to-make-arrays-unequal	让数组不相等的最小总代价	biweekly-contest-93	T4	2071.750598879122
+2585	delete-greatest-value-in-each-row	删除每行中的最大值	weekly-contest-323	T1	1417.1927643953845
+2586	longest-square-streak-in-an-array	数组中最长的方波	weekly-contest-323	T2	1481.1003860824294
 2587	design-memory-allocator	设计内存分配器	weekly-contest-323	T3	1591.0283994422948
-2588	maximum-number-of-points-from-grid-queries	矩阵查询可获得的最大分数	weekly-contest-323	T4	1946.1254014182625
-2594	count-pairs-of-similar-strings	统计相似字符串对的数目	weekly-contest-324	T1	1431.273417695986
-2595	smallest-value-after-replacing-with-sum-of-prime-factors	使用质因数之和替换后可以取到的最小值	weekly-contest-324	T2	1491.6437257594719
-2596	add-edges-to-make-degrees-of-all-nodes-even	添加边使所有节点度数都为偶数	weekly-contest-324	T3	1771.247906055547
-2597	cycle-length-queries-in-a-tree	查询树中环的长度	weekly-contest-324	T4	1723.8280010859403
-2602	maximum-enemy-forts-that-can-be-captured	最多可以摧毁的敌人城堡数目	biweekly-contest-94	T1	1495.6697528313675
-2603	reward-top-k-students	奖励最顶尖的 K 名学生	biweekly-contest-94	T2	1587.7105113978246
-2605	count-anagrams	统计同位异构字符串数目	biweekly-contest-94	T4	1936.9127210847823
-2628	minimize-the-maximum-of-two-arrays	最小化两个数组中的最大值	biweekly-contest-94	T3	1982.4927875877563
-2598	shortest-distance-to-target-string-in-a-circular-array	到目标字符串的最短距离	weekly-contest-325	T1	1434.4518765847454
-2599	take-k-of-each-character-from-left-and-right	每种字符至少取 K 个	weekly-contest-325	T2	1743.5082713064178
-2600	maximum-tastiness-of-candy-basket	礼盒的最大甜蜜度	weekly-contest-325	T3	1834.799823086261
-2601	number-of-great-partitions	好分区的数目	weekly-contest-325	T4	2112.9541084514312
-2511	partition-string-into-substrings-with-values-at-most-k	将字符串分割成值不超过 K 的子字符串	weekly-contest-326	T3	1524.5086470486433
-2608	count-the-digits-that-divide-a-number	统计能整除数字的位数	weekly-contest-326	T1	1433.0514769847225
-2609	distinct-prime-factors-of-product-of-array	数组乘积中的不同质因数数目	weekly-contest-326	T2	1473.3747098062292
-2610	closest-prime-numbers-in-range	范围内最接近的两个质数	weekly-contest-326	T4	1556.0775814669198
-2618	maximize-the-minimum-powered-city	最大化城市的最小供电站数目	biweekly-contest-95	T4	1946.5125065125408
-2619	categorize-box-according-to-criteria	根据规则将箱子分类	biweekly-contest-95	T1	1477.7618753118982
-2620	find-consecutive-integers-from-a-data-stream	找到数据流中的连续整数	biweekly-contest-95	T2	1517.294590815569
-2621	find-xor-beauty-of-array	查询数组 Xor 美丽值	biweekly-contest-95	T3	1581.2441352285264
-2614	maximum-count-of-positive-integer-and-negative-integer	正整数和负整数的最大计数	weekly-contest-327	T1	1418.9987808828478
-2615	make-number-of-distinct-characters-equal	使字符串总不同字符的数目相等	weekly-contest-327	T3	1588.3008753480983
-2616	maximal-score-after-applying-k-operations	执行 K 次操作后的最大分数	weekly-contest-327	T2	1469.298376665302
-2642	time-to-cross-a-bridge	过桥的时间	weekly-contest-327	T4	2067.1051224428156
+2588	maximum-number-of-points-from-grid-queries	矩阵查询可获得的最大分数	weekly-contest-323	T4	1948.9027256556205
+2594	count-pairs-of-similar-strings	统计相似字符串对的数目	weekly-contest-324	T1	1431.933103077179
+2595	smallest-value-after-replacing-with-sum-of-prime-factors	使用质因数之和替换后可以取到的最小值	weekly-contest-324	T2	1491.8045845339386
+2596	add-edges-to-make-degrees-of-all-nodes-even	添加边使所有节点度数都为偶数	weekly-contest-324	T3	1772.9299314436034
+2597	cycle-length-queries-in-a-tree	查询树中环的长度	weekly-contest-324	T4	1724.5355420580454
+2602	maximum-enemy-forts-that-can-be-captured	最多可以摧毁的敌人城堡数目	biweekly-contest-94	T1	1493.5672824441313
+2603	reward-top-k-students	奖励最顶尖的 K 名学生	biweekly-contest-94	T2	1585.0061683114195
+2605	count-anagrams	统计同位异构字符串数目	biweekly-contest-94	T4	1935.463696948419
+2628	minimize-the-maximum-of-two-arrays	最小化两个数组中的最大值	biweekly-contest-94	T3	1985.4669237432552
+2598	shortest-distance-to-target-string-in-a-circular-array	到目标字符串的最短距离	weekly-contest-325	T1	1433.4240565058528
+2599	take-k-of-each-character-from-left-and-right	每种字符至少取 K 个	weekly-contest-325	T2	1742.6405434620706
+2600	maximum-tastiness-of-candy-basket	礼盒的最大甜蜜度	weekly-contest-325	T3	1834.671944513328
+2601	number-of-great-partitions	好分区的数目	weekly-contest-325	T4	2108.4077736951617
+2511	partition-string-into-substrings-with-values-at-most-k	将字符串分割成值不超过 K 的子字符串	weekly-contest-326	T3	1529.0450382041422
+2608	count-the-digits-that-divide-a-number	统计能整除数字的位数	weekly-contest-326	T1	1434.7318080754108
+2609	distinct-prime-factors-of-product-of-array	数组乘积中的不同质因数数目	weekly-contest-326	T2	1474.759793851987
+2610	closest-prime-numbers-in-range	范围内最接近的两个质数	weekly-contest-326	T4	1563.9149414239466
+2618	maximize-the-minimum-powered-city	最大化城市的最小供电站数目	biweekly-contest-95	T4	1944.6369586502879
+2619	categorize-box-according-to-criteria	根据规则将箱子分类	biweekly-contest-95	T1	1481.3594880745943
+2620	find-consecutive-integers-from-a-data-stream	找到数据流中的连续整数	biweekly-contest-95	T2	1518.244392952874
+2621	find-xor-beauty-of-array	查询数组 Xor 美丽值	biweekly-contest-95	T3	1579.9438078133257
+2614	maximum-count-of-positive-integer-and-negative-integer	正整数和负整数的最大计数	weekly-contest-327	T1	1420.4205268991439
+2615	make-number-of-distinct-characters-equal	使字符串总不同字符的数目相等	weekly-contest-327	T3	1587.7867933406678
+2616	maximal-score-after-applying-k-operations	执行 K 次操作后的最大分数	weekly-contest-327	T2	1470.1741466734652
+2642	time-to-cross-a-bridge	过桥的时间	weekly-contest-327	T4	2054.295866557098
