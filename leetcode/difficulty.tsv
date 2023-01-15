@@ -1359,3 +1359,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 2615	make-number-of-distinct-characters-equal	使字符串总不同字符的数目相等	weekly-contest-327	T3	1587.7867933406678
 2616	maximal-score-after-applying-k-operations	执行 K 次操作后的最大分数	weekly-contest-327	T2	1470.1741466734652
 2642	time-to-cross-a-bridge	过桥的时间	weekly-contest-327	T4	2054.295866557098
+2624	difference-between-element-sum-and-digit-sum-of-an-array	数组元素和与数字和的绝对差	weekly-contest-328	T1	1425.07386265664
+2625	increment-submatrices-by-one	子矩阵元素加 1	weekly-contest-328	T2	1481.429383807982
+2626	count-the-number-of-good-subarrays	统计好子数组的数目	weekly-contest-328	T3	1649.1734094182739
+2627	difference-between-maximum-and-minimum-price-sum	最大价值和与最小价值和的差值	weekly-contest-328	T4	2008.7674099462386
