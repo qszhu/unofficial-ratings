@@ -1359,7 +1359,15 @@ ID	TitleSlug	Title	Contest	Question	Rating
 2615	make-number-of-distinct-characters-equal	使字符串总不同字符的数目相等	weekly-contest-327	T3	1587.7867933406678
 2616	maximal-score-after-applying-k-operations	执行 K 次操作后的最大分数	weekly-contest-327	T2	1470.1741466734652
 2642	time-to-cross-a-bridge	过桥的时间	weekly-contest-327	T4	2054.295866557098
-2624	difference-between-element-sum-and-digit-sum-of-an-array	数组元素和与数字和的绝对差	weekly-contest-328	T1	1425.07386265664
-2625	increment-submatrices-by-one	子矩阵元素加 1	weekly-contest-328	T2	1481.429383807982
-2626	count-the-number-of-good-subarrays	统计好子数组的数目	weekly-contest-328	T3	1649.1734094182739
-2627	difference-between-maximum-and-minimum-price-sum	最大价值和与最小价值和的差值	weekly-contest-328	T4	2008.7674099462386
+2624	difference-between-element-sum-and-digit-sum-of-an-array	数组元素和与数字和的绝对差	weekly-contest-328	T1	1425.1455114239468
+2625	increment-submatrices-by-one	子矩阵元素加 1	weekly-contest-328	T2	1481.3594880745943
+2626	count-the-number-of-good-subarrays	统计好子数组的数目	weekly-contest-328	T3	1645.4947587901981
+2627	difference-between-maximum-and-minimum-price-sum	最大价值和与最小价值和的差值	weekly-contest-328	T4	2011.9055191298971
+2604	minimum-operations-to-make-array-equal-ii	使数组中所有元素相等的最小操作数 II	biweekly-contest-96	T2	1529.8351483674103
+2634	minimum-common-value	最小公共值	biweekly-contest-96	T1	1468.4180991918279
+2635	check-if-point-is-reachable	判断一个点是否可以到达	biweekly-contest-96	T4	1888.8739620427482
+2636	maximum-subsequence-score	最大子序列的分数	biweekly-contest-96	T3	1838.7292135055507
+2630	alternating-digit-sum	交替数字和	weekly-contest-329	T1	1457.5846202605178
+2631	sort-the-students-by-their-kth-score	根据第 K 场考试的分数排序	weekly-contest-329	T2	1472.2821303829494
+2632	apply-bitwise-operations-to-make-strings-equal	执行逐位运算使字符串相等	weekly-contest-329	T3	1564.8718646073182
+2633	minimum-cost-to-split-an-array	拆分数组的最小代价	weekly-contest-329	T4	1852.3373662766107
