@@ -1383,3 +1383,7 @@ ID	TitleSlug	Title	Contest	Question	Rating
 2690	house-robber-iv	打家劫舍 IV	weekly-contest-331	T3	1916.080311386993
 2691	count-vowel-strings-in-ranges	统计范围内的元音字符串数	weekly-contest-331	T2	1543.564569549141
 2692	take-gifts-from-the-richest-pile	从数量最多的堆取走礼物	weekly-contest-331	T1	1500.823163663087
+2698	find-the-array-concatenation-value	找出数组的串联值	weekly-contest-332	T1	1500
+2699	count-the-number-of-fair-pairs	统计公平数对的数目	weekly-contest-332	T2	1677.9454221811434
+2700	substring-xor-queries	子字符串异或查询	weekly-contest-332	T3	1777.017692896075
+2701	subsequence-with-the-minimum-score	最少得分子序列	weekly-contest-332	T4	2188.073382630452
